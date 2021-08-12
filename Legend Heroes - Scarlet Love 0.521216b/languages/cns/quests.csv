@@ -1,0 +1,149 @@
+﻿
+qst_deliver_message|送 信 给 {s13}
+qst_deliver_message_to_enemy_lord|送 信 给 {s13}
+qst_raise_troops|培 养 {reg1}名 {s14}
+qst_escort_lady|护 送 {s13}去 {s14}
+qst_deal_with_bandits_at_lords_village|从 强 盗 手 里 解 救 {s15}村 
+qst_collect_taxes|到 {s3}征 税 
+qst_hunt_down_fugitive|抓 捕 {s4}
+qst_kill_local_merchant|杀 掉 {s3}的 地 方 商 人 
+qst_bring_back_runaway_serfs|追 回 逃 跑 的 农 奴 
+qst_follow_spy|跟 踪 准 备 去 碰 头 的 间 谍 
+qst_capture_enemy_hero|抓 捕 在 {s13}的 一 个 领 主 
+qst_lend_companion|把 你 的 同 伴 {s3}借 给 {s9}
+qst_collect_debt|讨 要 {s3}欠 {s9}的 借 款 
+qst_incriminate_loyal_commander|控 告 {s13}的 忠 心 指 挥 官 {s16}
+qst_meet_spy_in_enemy_town|与 在 {s13}的 间 谍 碰 头 
+qst_capture_prisoners|抓 捕 {reg1}个 {s3}俘 虏 
+qst_lend_surgeon|把 你 的 外 科 医 生 {s3}借 给 {s1}
+qst_follow_army|跟 随 {s9}的 部 队 
+qst_report_to_army|向 元 帅 {s13}报 告 情 况 
+qst_deliver_cattle_to_army|把 {reg3}头 牛 赶 到 {s13}
+qst_join_siege_with_army|参 加 {s14}的 围 城 战 
+qst_screen_army|掩 护 {s13}的 军 队 前 进 
+qst_scout_waypoints|侦 察 {s13}， {s14}和 {s15}
+qst_rescue_lord_by_replace|从 {s14}解 救 {s13}
+qst_deliver_message_to_prisoner_lord|送 信 给 {s14}的 {s13}
+qst_duel_for_lady|与 {s13}决 斗 
+qst_duel_courtship_rival|与 {s13}决 斗 （ 可 选 择 ） 
+qst_duel_avenge_insult|与 {s13}决 斗 
+qst_move_cattle_herd|赶 牛 到 {s13}
+qst_escort_merchant_caravan|护 送 商 队 去 {s8}
+qst_deliver_wine|捎 带 {reg5}单 位 的 {s6}到 {s4}
+qst_troublesome_bandits|解 决 难 对 付 的 强 盗 
+qst_kidnapped_girl|从 强 盗 那 儿 赎 回 女 孩 
+qst_persuade_lords_to_make_peace|确 保 两 个 领 主 不 反 对 和 平 
+qst_deal_with_looters|解 决 劫 匪 
+qst_deal_with_night_bandits|解 决 暗 夜 强 盗 
+qst_deliver_grain|筹 集 小 麦 给 {s3}
+qst_deliver_cattle|筹 集 {reg5}头 牛 给 {s3}
+qst_train_peasants_against_bandits|训 练 农 民 以 对 抗 在 {s13}的 强 盗 
+qst_eliminate_bandits_infesting_village|从 强 盗 手 里 解 救 {s7}村 
+qst_visit_lady|拜 访 女 士 
+qst_formal_marriage_proposal|正 式 求 婚 提 案 
+qst_obtain_liege_blessing|正 式 求 婚 提 案 
+qst_wed_betrothed|和 你 的 未 婚 妻 成 婚 
+qst_wed_betrothed_female|和 你 的 未 婚 妻 成 婚 
+qst_join_faction|宣 誓 效 忠 于 {s1}
+qst_rebel_against_kingdom|帮 助 {s13}取 得 {s14}的 王 位 
+qst_consult_with_minister|和 首 席 大 臣 商 议 
+qst_organize_feast|组 织 宴 会 
+qst_resolve_dispute|解 决 争 端 
+qst_offer_gift|获 取 礼 物 
+qst_denounce_lord|指 控 领 主 
+qst_intrigue_against_lord|密 谋 反 对 领 主 
+qst_track_down_bandits|追 捕 强 盗 
+qst_track_down_provocateurs|追 捕 奸 细 
+qst_retaliate_for_border_incident|报 复 边 境 事 件 
+qst_raid_caravan_to_start_war|攻 击 中 立 国 商 队 来 挑 起 战 争 
+qst_cause_provocation|挑 拔 一 个 国 家 攻 打 别 的 国 家 
+qst_rescue_prisoner|营 救 或 赎 回 一 名 俘 虏 
+qst_destroy_bandit_lair|摧 毁 强 盗 老 巢 
+qst_collect_men|召 集 五 名 手 下 
+qst_learn_where_merchant_brother_is|打 听 人 质 被 藏 在 哪 里 了 
+qst_save_relative_of_merchant|攻 打 强 盗 老 巢 
+qst_save_town_from_bandits|从 强 盗 手 中 拯 救 城 镇 
+qst_zhuming1|【一 种 不 详 的 预 感】 
+qst_zhuming2|【请 教 护 国 法 师 卡 门】 
+qst_zhuming3|【拜 师 学 艺】
+qst_shizhan|【实 战 经 验】
+qst_shizhan1|【初 级 实 战】
+qst_shizhan2|【晋 阶 实 战】  
+qst_shizhan3|【特 殊 实 战】  
+qst_shizhan4|【特 殊 实 战】  
+qst_shizhan5|【特 殊 实 战】  
+qst_xlgj|称 号 ：训 练 冠 军 
+qst_xuexijuezhao|【残 酷 的 奥 义】 
+qst_lengxue|性 格 ：冷 血 
+qst_jifengzhiwu|被 动 ：疾 风 之 舞  
+qst_biwuzhaoq|【竞 技 大 赛 冠 军】 
+qst_choujijunzi|【筹 集 军 队】 
+qst_renchizhizhu|称 号 ：仁 慈 圣 主 
+qst_shixuemowang|称 号 ：嗜 血 魔 王 
+qst_jingjizhiwang|称 号 ：竞 技 之 王 
+qst_luoduozhiwang1|称 号 ：无 奈 匪 途 
+qst_luoduozhiwang2|称 号 ：匪 名 遐 迩 
+qst_luoduozhiwang3|称 号 ：霸 者 强 权 
+qst_qiangdaoxiaomie1|草 原 之 印 
+qst_qiangdaoxiaomie2|森 林 之 印 
+qst_qiangdaoxiaomie3|沙 漠 之 印 
+qst_qiangdaoxiaomie4|高 山 之 印 
+qst_qiangdaoxiaomie5|海 洋 之 印 
+qst_kaizhanqibingguo|【与 斯 瓦 迪 亚 会 战】 
+qst_kaizhanbubungguo|【与 诺 德 会 战】 
+qst_kaizhangongbingguo|【与 维 基 亚 会 战】 
+qst_sanxiaoxueyi|【技 艺 交 换】 
+qst_zhanyemanren|【击 败 奥 尔 克】
+qst_zhoujijianchengzijin|【筹 集 建 城 资 金】 
+qst_tuwei|【突 围】 
+qst_jiubing|【救 兵】
+qst_jixingjun|疾 行 军 
+qst_huijia|【回 归 帝 国】 
+qst_jiehun|【和 亲】 
+qst_busizu|【不 死 族】 
+qst_gedoujia|称 号 ：格 斗 家 
+qst_renfanbizu|称 号 ：奴 贩 鼻 祖
+qst_fujiatianxia|称 号 ：富 甲 一 方 
+qst_sanxiaohezuo|同 盟 ：三 啸 助 战 
+qst_axiuluo|称 号 ：阿 修 罗 
+qst_cunzishouhuzhe|称 号 ：村 子 守 护 神 
+qst_cunzishouhuzhe2|称 号 ：地 狱 使 者 
+qst_sanxiaotechang|特 长 ：智 勇 
+qst_jiaomiemoshou|【剿 灭 魔 兽】 
+qst_xunshoushi|称 号 ：驯 兽 师 
+qst_naxiashiwadiguo|【再 战 斯 瓦 迪 亚】 
+qst_ershixiongdriji|【神 秘 的 礼 物】 
+qst_naxiaheianguo|【剿 灭 黑 暗 势 力】 
+qst_dantiao|称 号 ：虎 豹 之 将 
+qst_heiantegong|【剿 灭 黑 暗 特 工】 
+qst_heiandongxue|【追 击 黑 暗 精 灵】 
+qst_gengxinjieshu|【统 一 大 陆】
+qst_mengguruqing|【蒙 古 西 征 军 侵 入】
+qst_menggushicheng|【蒙 古 使 者】
+qst_nvbingtuan1|【建 立 女 兵 团】 
+qst_nvbingtuan2|红 影 女 兵 团 
+qst_zhuanqian|商 人 的 梦 想 
+qst_siguojingong|【四 国 危 机】 
+qst_tbingdu|T病 毒 携 带 者 
+qst_tbingdu2|T病 毒 母 体 寄 主 
+qst_dantiaolongyu|主 仆 之 分 
+qst_longyudeenyuan|【武 圣 的 恩 怨】
+qst_xingyuncao|幸 运 女 神 的 眷 顾 
+qst_kamendyiyan|【卡 门 的 遗 愿】
+qst_guangmofashi|光 明 法 师 
+qst_qingshenyizhong|称 号 ：义 深 情 重 
+qst_jingruoshenming|称 号 ：敬 若 神 明
+qst_chengxinzhifu|称 号 ：诚 心 至 腹 
+qst_xiaotizhongxin|称 号 ：孝 悌 忠 信 
+qst_jilaochengji|伤 病 ：积 劳 成 疾 
+qst_sanxiaobeiganran|求 救 ：命 在 旦 夕 
+qst_zijibeiganran|身 中 病 毒 
+qst_kamendyiyan2|【卡 门 最 后 的 意 念】 
+qst_bingdukangti|体 质 ：病 毒 抗 体 
+qst_dashixiongdejuedou|【武 圣 的 目 标 
+qst_wanglingBOSS|【追 击 亡 灵 母 源 体】 
+qst_qipaowuqi|浸 泡 武 器
+qst_xunliangyezhuqi|【训 练 野 猪 骑】 
+qst_xunzhaoshengtie|【收 购 生 铁】
+qst_shennvtezhi|憎 码 者 
+qst_quests_end|Quests End 
