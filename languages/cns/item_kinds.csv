@@ -164,22 +164,22 @@ itm_arena_turban_green|竞 技 头 巾
 itm_arena_turban_green_pl|竞 技 头 巾 
 itm_arena_turban_yellow|竞 技 头 巾 
 itm_arena_turban_yellow_pl|竞 技 头 巾 
-itm_book_tactics|罗 马 军 制 论 
-itm_book_tactics_pl|罗 马 军 制 论 
-itm_book_qinhuangraozhu|秦 皇 绕 柱 
-itm_book_qinhuangraozhu_pl|秦 皇 绕 柱 
-itm_book_persuasion|修 辞 学 
-itm_book_persuasion_pl|修 辞 学 
-itm_book_leadership|亚 历 山 大 传 记 
-itm_book_leadership_pl|亚 历 山 大 传 记 
-itm_book_intelligence|逻 辑 论 文 
-itm_book_intelligence_pl|逻 辑 论 文 
-itm_book_trade|价 值 论 
-itm_book_trade_pl|价 值 论 
-itm_book_weapon_mastery|剑 斗 艺 术 
-itm_book_weapon_mastery_pl|剑 斗 艺 术 
-itm_book_engineering|机 械 原 理 
-itm_book_engineering_pl|机 械 原 理 
+itm_book_tactics|罗 马 军 制 论 （战 术 +1） 
+itm_book_tactics_pl|罗 马 军 制 论 （战 术 +1） 
+itm_book_persuasion|修 辞 学 （说 服 +1） 
+itm_book_persuasion_pl|修 辞 学 （说 服 +1） 
+itm_book_qinhuangraozhu|秦 皇 绕 柱 （步 战 +1） 
+itm_book_qinhuangraozhu_pl|秦 皇 绕 柱 （步 战 +1） 
+itm_book_leadership|亚 历 山 大 传 记 （统 御 +1） 
+itm_book_leadership_pl|亚 历 山 大 传 记 （统 御 +1） 
+itm_book_intelligence|逻 辑 论 文 （智 力 +1） 
+itm_book_intelligence_pl|逻 辑 论 文 （智 力 +1） 
+itm_book_trade|价 值 论 （交 易 +1） 
+itm_book_trade_pl|价 值 论 （交 易 +1） 
+itm_book_weapon_mastery|剑 斗 艺 术 （武 器 掌 握 +1） 
+itm_book_weapon_mastery_pl|剑 斗 艺 术 （武 器 掌 握 +1） 
+itm_book_engineering|机 械 原 理 （工 程 学 +1） 
+itm_book_engineering_pl|机 械 原 理 （工 程 学 +1） 
 itm_book_wound_treatment_reference|治 疗 之 书 
 itm_book_wound_treatment_reference_pl|治 疗 之 书 
 itm_book_training_reference|兵 器 手 册 
@@ -1576,8 +1576,10 @@ itm_fazhang32|叁 阶 法 杖 （ 近 战 模 式 ）
 itm_fazhang32_pl|叁 阶 法 杖 （ 近 战 模 式 ）
 itm_fazhang42|肆 阶 法 杖 （ 近 战 模 式 ）
 itm_fazhang42_pl|肆 阶 法 杖 （ 近 战 模 式 ）
-itm_flintlock_pistol0|看 不 懂 的 武 器 
-itm_flintlock_pistol0_pl|看 不 懂 的 武 器 
+itm_flintlock_pistol0|洋 鬼 子 的 武 器 
+itm_flintlock_pistol0_pl|洋 鬼 子 的 武 器 
+itm_flintlock_pistol1|洋 鬼 子 的 武 器 
+itm_flintlock_pistol1_pl|洋 鬼 子 的 武 器 
 itm_torch|火 把 
 itm_torch_pl|火 把 
 itm_lyre|里 拉 琴 

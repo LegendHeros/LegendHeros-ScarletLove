@@ -65,10 +65,16 @@ trp_hired_blade|职 业 杀 手
 trp_hired_blade_pl|职 业 杀 手 
 trp_hired_blade2|精 英 杀 手 
 trp_hired_blade2_pl|精 英 杀 手 
+trp_hired_blade3|精 英 战 士  
+trp_hired_blade3_pl|精 英 战 士 
 trp_mercenary_crossbowman|雇 佣 射 手 
 trp_mercenary_crossbowman_pl|雇 佣 射 手 
 trp_mercenary_crossbowman2|雇 佣 弩 手 
 trp_mercenary_crossbowman2_pl|雇 佣 弩 手 
+trp_mercenary_crossbowman3|雇 佣 弓 手 
+trp_mercenary_crossbowman3_pl|雇 佣 弓 手 
+trp_mercenary_crossbowman4|雇 佣 神 射 手 
+trp_mercenary_crossbowman4_pl|雇 佣 神 射 手 
 trp_mercenary_horseman|雇 佣 骑 手 
 trp_mercenary_horseman_pl|雇 佣 骑 手 
 trp_mercenary_cavalry|雇 佣 骑 兵 
@@ -237,12 +243,12 @@ trp_rhodok_trained_spearman|罗 多 克 熟 练 长 矛 手
 trp_rhodok_trained_spearman_pl|罗 多 克 熟 练 长 矛 手 
 trp_rhodok_veteran_spearman|罗 多 克 资 深 长 矛 手 
 trp_rhodok_veteran_spearman_pl|罗 多 克 资 深 长 矛 手 
-trp_ldkcqb1|罗 多 克 邪 教 战 士 
-trp_ldkcqb1_pl|罗 多 克 邪 教 战 士 
-trp_ldkcqb2|罗 多 克 邪 教 战 将 
-trp_ldkcqb2_pl|罗 多 克 邪 教 战 将 
-trp_ldkcqb3|罗 多 克 邪 教 战 神 
-trp_ldkcqb3_pl|罗 多 克 邪 教 战 神 
+trp_ldkcqb1|罗 多 克 萨 满 战 士 
+trp_ldkcqb1_pl|罗 多 克 萨 满 战 士 
+trp_ldkcqb2|罗 多 克 萨 满 战 将 
+trp_ldkcqb2_pl|罗 多 克 萨 满 战 将 
+trp_ldkcqb3|罗 多 克 萨 满 战 神 
+trp_ldkcqb3_pl|罗 多 克 萨 满 战 神 
 trp_rhodok_sergeant|罗 多 克 军 士 
 trp_rhodok_sergeant_pl|罗 多 克 军 士 
 trp_rhodok_sergeant2|罗 多 克 亲 卫   
@@ -1646,8 +1652,8 @@ trp_boss3|罗 宾 汉
 trp_boss3_pl|罗 宾 汉 
 trp_boss4|埃 瑟 罗 德 
 trp_boss4_pl|埃 瑟 罗 德 
-trp_boss5|蒙 奇 D · 路 飞 
-trp_boss5_pl|蒙 奇 D · 路 飞 
+trp_boss5|三 刀 流 • 绿 藻 头 
+trp_boss5_pl|三 刀 流 • 绿 藻 头 
 trp_jingjichangtiaozz1|【 东 洋 隐 士 】 本 田 十 一 郎 
 trp_jingjichangtiaozz1_pl|【 东 洋 隐 士 】 本 田 十 一 郎 
 trp_jingjichangtiaozz2|【 修 罗 斗 士 】 嘉 古 丹 
@@ -1692,6 +1698,8 @@ trp_gedoujia4|蓝 袍 格 斗 家
 trp_gedoujia4_pl|蓝 袍 格 斗 家 
 trp_gedoujia5|红 袍 格 斗 家 
 trp_gedoujia5_pl|红 袍 格 斗 家 
+trp_gedoujia5si|亡 灵 格 斗 家 
+trp_gedoujia5si_pl|亡 灵 格 斗 家 
 trp_gedoujia6|宗 师 提 名 者
 trp_gedoujia6_pl|宗 师 提 名 者 
 trp_gedoujia7|宗 师 格 斗 家 
@@ -1794,22 +1802,67 @@ trp_heiwuchang|黑 无 常
 trp_heiwuchang_pl|黑 无 常 
 trp_mengpo|孟 婆 
 trp_mengpo_pl|孟 婆 
-trp_xiejiao1|【 邪 教 圣 女 】 洛 晨 柔 
-trp_xiejiao1_pl|【 邪 教 圣 女 】 洛 晨 柔 
-trp_xiejiao2|【 邪 教 左 护 法 】 萨 尔 翼 
-trp_xiejiao2_pl|【 邪 教 左 护 法 】 萨 尔 翼 
-trp_xiejiao3|【 邪 教 右 护 法 】 征 集 玩 家 
-trp_xiejiao3_pl|【 邪 教 右 护 法 】 征 集 玩 家 
-trp_xiejiao4|【 邪 教 东 淫 】 征 集 玩 家 
-trp_xiejiao4_pl|【 邪 教 东 淫 】 征 集 玩 家 
-trp_xiejiao5|【 邪 教 西 贱 】 征 集 玩 家 
-trp_xiejiao5_pl|【 邪 教 西 贱  】 征 集 玩 家 
-trp_xiejiao6|【 邪 教 南 盗 】 征 集 玩 家 
-trp_xiejiao6_pl|【 邪 教 南 盗 】 征 集 玩 家 
-trp_xiejiao7|【 邪 教 北 娼 】 征 集 玩 家 
-trp_xiejiao7_pl|【 邪 教 北 娼 】 征 集 玩 家 
+trp_xiejiao1|【 萨 满 圣 女 】 洛 晨 柔 
+trp_xiejiao1_pl|【 萨 满 圣 女 】 洛 晨 柔 
+trp_xiejiao2|【 萨 满 大 祭 司 】 萨 尔 翼 
+trp_xiejiao2_pl|【 萨 满 大 祭 司 】 萨 尔 翼 
+trp_xiejiao3|【 萨 满 大 将 军 】 玉 衡 
+trp_xiejiao3_pl|【 萨 满 大 将 军 】 玉 衡 
+trp_xiejiao4|【 东 氪 金 】 SixSixCCFF
+trp_xiejiao4_pl|【 东 氪 金 】 SixSixCCFF
+trp_xiejiao5|【 南 炼 铜 】 红 墨 
+trp_xiejiao5_pl|【 南 炼 铜 】 红 墨 
+trp_xiejiao6|【 西 卖 银 】 征 集 玩 家 
+trp_xiejiao6_pl|【 西 卖 银 】 征 集 玩 家 
+trp_xiejiao7|【 北 铝 装 】 东 方 敏 杰  
+trp_xiejiao7_pl|【 北 铝 装 】 东 方 敏 杰  
+trp_xiejiao8|萨 尔 翼 
+trp_xiejiao8_pl|萨 尔 翼 
+trp_xiejiao9|【 萨 满 大 将 军 】 玉 衡 
+trp_xiejiao9_pl|【 萨 满 大 将 军 】 玉 衡 
+trp_xiejiao10|【 东 氪 金 】 SixSixCCFF
+trp_xiejiao10_pl|【 东 氪 金 】 SixSixCCFF
+trp_xiejiao11|【 南 炼 铜 】 红 墨 
+trp_xiejiao11_pl|【 南 炼 铜 】 红 墨 
+trp_xiejiao12|【 西 卖 银 】 征 集 玩 家 
+trp_xiejiao12_pl|【 西 卖 银 】 征 集 玩 家 
+trp_xiejiao13|【 北 铝 装 】 东 方 敏 杰  
+trp_xiejiao13_pl|【 北 铝 装 】 东 方 敏 杰  
+trp_shenpanzhe|萨 满 卫 士 
+trp_shenpanzhe_pl|萨 满 卫 士 
+trp_shenpanzhe2|萨 满 审 判 者 
+trp_shenpanzhe2_pl|萨 满 审 判 者 
+trp_shenpanzhe3|萨 满 猎 杀 者 
+trp_shenpanzhe3_pl|萨 满 猎 杀 者 
+trp_shenpanzhe4|萨 满 射 手 
+trp_shenpanzhe4_pl|萨 满 射 手 
+trp_shenpanzhe5|萨 满 灵 女 
+trp_shenpanzhe5_pl|萨 满 灵 女 
+trp_shenpanzhe6|萨 满 战 士  
+trp_shenpanzhe6_pl|萨 满 战 士 
 trp_gedouguanjun|倪 羽 枫 
 trp_gedouguanjun_pl|倪 羽 枫 
+trp_xinbaoxiang_1|【萨 哥 斯】
+trp_xinbaoxiang_2|【提 哈】
+trp_xinbaoxiang_3|【维 鲁 加】
+trp_xinbaoxiang_4|【苏 诺】
+trp_xinbaoxiang_5|【杰 尔 喀 拉】
 trp_xinbaoxiang_6|艾 雷 特 的 储 物 箱 
+trp_xinbaoxiang_7|【乌 克 斯 豪 尔】
+trp_xinbaoxiang_8|【日 瓦 丁】
+trp_xinbaoxiang_9|【库 丹】
+trp_xinbaoxiang_10|【图 尔 加】
+trp_xinbaoxiang_11|【库 劳】
+trp_xinbaoxiang_12|【窝 车 则】
+trp_xinbaoxiang_13|【日 瓦 车 则】
+trp_xinbaoxiang_14|【哈 尔 玛】
+trp_xinbaoxiang_15|【亚 伦】
+trp_xinbaoxiang_16|【卡 拉 德 帝 都】
+trp_xinbaoxiang_17|【艾 车 莫 尔】
+trp_xinbaoxiang_18|【拉 那】
+trp_xinbaoxiang_19|【沙 瑞 兹】
+trp_xinbaoxiang_20|【都 库 巴】
+trp_xinbaoxiang_21|【阿 默 拉 德】
+trp_xinbaoxiang_22|【巴 瑞 耶】
 trp_relative_of_merchants_end|relative of merchants end
 trp_relative_of_merchants_end_pl|relative of merchants end

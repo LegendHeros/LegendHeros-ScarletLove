@@ -1571,6 +1571,8 @@ party_encounter_routed_agents_are_caught
 party_encounter_routed_agents_are_caught2
 sell_prisoner_outlaws
 prisoner_chat_2
+ganhualingzhu
+prisoner_chat_3
 town_merchant_talk
 trade_requested_weapons
 trade_requested_armor

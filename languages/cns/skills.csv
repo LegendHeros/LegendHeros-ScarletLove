@@ -10,7 +10,7 @@ skl_reserved_1_desc|This is a reserved skill.
 skl_reserved_2|Reserved Skill 2 
 skl_reserved_2_desc|This is a reserved skill.
 skl_reserved_3|【魅】 激 扬 士 气  
-skl_reserved_3_desc|每 点 额 外 增 加 10%%本 人 杀 敌 经 验 ，此 经 验 战 后 平 分 给 队 伍 。并 每 级 增 加 5%%几 率 获 得 战 场 士 气 ，战 场 士 气 上 限 150点 ，每 1点 增 加 1%%全 军 伤 害 ,战 场 士 气 开 战 时 已 部 队 士 气 为 基 数 ，战 后 不 会 改 变 部 队 士 气 （个 人 技 能 ，所 有 NPC 有 效 ，上 限 15 级 ）
+skl_reserved_3_desc|每 点 额 外 增 加 10%%本 人 杀 敌 经 验 ，此 经 验 战 后 平 分 给 队 伍 。并 每 级 增 加 5%杀 敌 获 得 战 场 士 气 的 几 率 ，战 场 士 气 上 限 150点 ，每 1点 增 加 1%%全 军 伤 害 ,战 场 士 气 开 战 时 已 部 队 士 气 为 基 数 ，战 后 不 会 改 变 部 队 士 气 （个 人 技 能 ，所 有 NPC 有 效 ，上 限 15 级 ）
 skl_reserved_4|【魅】 毅 念 /才 艺 
 skl_reserved_4_desc|毅 念 ：每 三 秒 恢 复 到 自 己 最 低 血 量 （ 最 低 血 量 为 5+意 念 等 级 x2 ） 。^^才 艺 ：大 地 图 上 一 定 几 率 增 加 全 军 士 气 。（等 级 对 应 为 ：11%%,24%%,39%,56%%,75%%… … 375%%）（才 艺 总 和 除 全 军 人 数 为 触 发 几 率 ） （个 人 技 能 ，上 限 15 级 ）
 skl_persuasion|【魅】 说 服 力 

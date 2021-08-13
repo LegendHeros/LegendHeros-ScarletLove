@@ -1229,6 +1229,7 @@ qipaokaiguan
 qipaokaitili
 biwuzhaoq
 dianxin
+xiejiaodianshu
 gongzhujuqing
 gongzhujuqing3
 diyuchengshu
@@ -1252,6 +1253,7 @@ kaizhanbianliang
 gedoukaiguan
 laotourenwu
 g_gedoujiatiaozhankaiguan
+xiejiaozhaoren
 lingdaoshu
 yuntiesuipian
 yuntiesuipiandengji
