@@ -204,8 +204,8 @@ itm_linen|亚 麻 布
 itm_linen_pl|亚 麻 布 
 itm_wool|羊 毛 
 itm_wool_pl|羊 毛 
-itm_wool_cloth|毛 衣 
-itm_wool_cloth_pl|毛 衣 
+itm_wool_cloth|毛 呢 
+itm_wool_cloth_pl|毛 呢 
 itm_raw_silk|生 丝 
 itm_raw_silk_pl|生 丝 
 itm_raw_dyes|染 料 
@@ -1348,8 +1348,6 @@ itm_chaochangmao2|罗 多 克 精 良 长 枪
 itm_chaochangmao2_pl|罗 多 克 精 良 长 枪 
 itm_chaochangmao3|杀 马 特 长 枪 
 itm_chaochangmao3_pl|杀 马 特 长 枪 
-itm_chaochangmao4|杀 马 特 长 枪 · 云 戈 
-itm_chaochangmao4_pl|杀 马 特 长 枪 · 云 戈 
 itm_ashwood_pike|灰 木 枪 
 itm_ashwood_pike_pl|灰 木 枪 
 itm_awlpike|锥 头 枪 
@@ -1542,10 +1540,6 @@ itm_sniper_crossbow2|机 械 连 弩
 itm_sniper_crossbow2_pl|机 械 连 弩 
 itm_sniper_crossbow3|诸 葛 连 弩 
 itm_sniper_crossbow3_pl|诸 葛 连 弩 
-itm_sniper_crossbow4|重 骑 弩 
-itm_sniper_crossbow4_pl|重 骑 弩 
-itm_sniper_crossbow5|战 姬 弩
-itm_sniper_crossbow5_pl|战 姬 弩 
 itm_flintlock_pistol|燧 石 发 火 手 枪 
 itm_flintlock_pistol_pl|燧 石 发 火 手 枪 
 itm_flintlock_pistol2|晋 阶 燧 石 发 火 枪 
@@ -1726,11 +1720,5 @@ itm_kafeiqinweitou|铁 胄
 itm_kafeiqinweitou_pl|铁 胄 
 itm_kafeizhuisuizhejia|轻 铁 甲 
 itm_kafeizhuisuizhejia_pl|轻 铁 甲 
-itm_kafeizhuisuizhejia|轻 铁 甲 
-itm_kafeizhuisuizhejia_pl|轻 铁 甲 
-itm_shennvtou|圣 女 头 
-itm_shennvtou_pl|圣 女 头 
-itm_shennvshengti|圣 女 甲 
-itm_shennvshengti_pl|圣 女 甲 
 itm_items_end|Items End 
 itm_items_end_pl|Items End 

@@ -1,23 +1,19 @@
-﻿fac_no_faction|无 阵 营 
-fac_commoners|平 民 
-fac_outlaws|不 法 之 徒 
-fac_neutral|中 立 者 
-fac_innocents|无 辜 者 
-fac_merchants|商 人 
-fac_player_faction|玩 家 阵 营 
-fac_player_supporters_faction|玩 家 阵 营 
-fac_kingdom_1|斯 瓦 迪 亚 王 国 
-fac_kingdom_2|维 基 亚 王 国 
-fac_kingdom_3|库 吉 特 汗 国 
-fac_kingdom_4|诺 德 王 国 
-fac_kingdom_5|罗 多 克 王 国 
-fac_kingdom_6|萨 兰 德 苏 丹 国 
-fac_kingdom_7|卡 拉 德 帝 国 
-fac_kingdom_8|不 死 族 
-fac_kingdom_9|三 啸 联 盟 军 
-fac_manhunters|赏 金 猎 人 
-fac_deserters|逃 兵 
-fac_mountain_bandits|山 贼 
-fac_forest_bandits|绿 林 强 盗 
-fac_undeads|不 死 族 
-fac_zhigenwanjiadidui|未 知 势 力 
+﻿lockitver|DO NOT DELETE THIS LINE! 2896
+fac_no_faction|Aucune faction
+fac_commoners|Roturiers
+fac_outlaws|Hors-la-loi
+fac_neutral|Neutre
+fac_innocents|Innocents
+fac_merchants|Marchands
+fac_player_faction|Faction du joueur
+fac_player_supporters_faction|Partisans du joueur
+fac_kingdom_1|Royaume de Swadia
+fac_kingdom_2|Royaume des Vaegirs
+fac_kingdom_3|Khergit Khanate
+fac_kingdom_4|Royaume des Nords
+fac_kingdom_5|Royaume des Rhodoks
+fac_kingdom_6|Sultanat des Sarranides
+fac_manhunters|Chasseurs d'hommes
+fac_deserters|Déserteurs
+fac_mountain_bandits|Bandits des montagnes
+fac_forest_bandits|Bandits des forêts

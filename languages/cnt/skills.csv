@@ -2,7 +2,7 @@
 skl_trade|交 易 
 skl_trade_desc|每 点 技 能 减 少 5%%的 交 易 损 失 。 （ 队 伍 技 能 , 上 限 1 0 级 ） 
 skl_leadership|统 御 
-skl_leadership_desc|每 技 能 等 级 增 加 等 级 平 方 带 兵 人 数 ， 每 点 增 加 俘 虏 上 限 等 级 平 方 人 ，每 点 提 高 部 队 士 气 ， 减 少 部 队 开 销 和 工 资 5%%（ 领 袖 技 能 ） 。队 伍 NPC 也 会 根 据 统 御 等 级 招 护 卫 进 行 战 斗 ， 并 每 天 额 外 提 供 等 级 平 方 点 招 兵 点 ！（个 人 技 能 ，上 限 10 级 ）
+skl_leadership_desc|每 技 能 等 级 增 加 等 级 平 方 带 兵 人 数 ， 每 点 增 加 俘 虏 上 限 等 级 平 方 人 ，每 点 提 高 部 队 士 气 ， 减 少 部 队 开 销 和 工 资 5%%。队 伍 NPC 也 会 根 据 领  导 等 级 招 护 卫 进 行 战 斗 ！（ 领 袖 技 能 ） 
 skl_prisoner_management|俘 虏 管 理 
 skl_prisoner_management_desc|每 点 增 加 俘 虏 上 限 5人 。队 伍 技 能 最 高 NPC 与 玩 家 叠 加 （ 队 伍 技 能 ，上 限 15 级  , 上 限 1 0 级 ） 
 skl_reserved_1|Reserved Skill 1 
@@ -16,7 +16,7 @@ skl_reserved_4_desc|毅 念 ：每 三 秒 恢 复 到 自 己 最 低 血 量 �
 skl_persuasion|说 服 力 
 skl_persuasion_desc|此 技 能 帮 助 你 ， 使 你 的 观 点 更 容 易 让 人 接 受 。 同 时 还 能 降 低 让 NPC按 照 你 所 说 的 去 做 所 需 的 最 低 关 系 值 。 （ 个 人 技 能 ） 
 skl_engineer|科 技 学 
-skl_engineer_desc|此 技 能 使 你 更 有 效 地 建 造 攻 城 器 械 和 加 快 封 地 建 设 ，并 提 高 科 技 点 获 得 速 度 ，效 果 为 等 级 的 平 方 %%（队 伍 技 能 ）。 并 每 天 额 外 提 供 等 级 平 方 点 科 技 点（个 人 技 能 ，上 限 15 级 ）。
+skl_engineer_desc|此 技 能 使 你 更 有 效 地 建 造 攻 城 器 械 和 加 快 封 地 建 设 ，并 提 高 科 技 点 获 得 速 度 ，效 果 为 等 级 的 平 方 %% 。 （ 队 伍 技 能 ，上 限 15 级 ） 
 skl_first_aid|急 救 
 skl_first_aid_desc|每 点 返 还 给 英 雄 们 6%%在 上 次 战 斗 中 损 失 的 生 命 值 。在 战 场 上 拥 有 急 救 的 士 兵 会 每 三 秒 恢 复 周 围 1 0 米 以 内 友 军 3 点 生 命 ，每 个 等 级 提 供 4%% 恢 复 上 限 （ 队 伍 技 能 ，上 限 12 级  ） 
 skl_surgery|手 术 

@@ -63,21 +63,21 @@ qst_collect_men|召 集 五 名 手 下
 qst_learn_where_merchant_brother_is|打 听 人 质 被 藏 在 哪 里 了 
 qst_save_relative_of_merchant|攻 打 强 盗 老 巢 
 qst_save_town_from_bandits|从 强 盗 手 中 拯 救 城 镇 
-qst_zhuming1|【一 种 不 详 的 预 感】 
-qst_zhuming2|【请 教 护 国 法 师 卡 门】 
-qst_zhuming3|【拜 师 学 艺】
-qst_shizhan|【实 战 经 验】
-qst_shizhan1|【初 级 实 战】
-qst_shizhan2|【晋 阶 实 战】  
-qst_shizhan3|【特 殊 实 战】  
-qst_shizhan4|【特 殊 实 战】  
-qst_shizhan5|【特 殊 实 战】  
+qst_zhuming1|一 种 不 详 的 预 感 
+qst_zhuming2|请 教 护 国 法 师 卡 门 
+qst_zhuming3|拜 师 学 艺  
+qst_shizhan|实 战 经 验 
+qst_shizhan1|初 级 实 战 
+qst_shizhan2|晋 阶 实 战  
+qst_shizhan3|特 殊 实 战  
+qst_shizhan4|特 殊 实 战  
+qst_shizhan5|特 殊 实 战  
 qst_xlgj|称 号 ：训 练 冠 军 
-qst_xuexijuezhao|【残 酷 的 奥 义】 
+qst_xuexijuezhao|残 酷 的 奥 义 
 qst_lengxue|性 格 ：冷 血 
 qst_jifengzhiwu|被 动 ：疾 风 之 舞  
-qst_biwuzhaoq|【竞 技 大 赛 冠 军】 
-qst_choujijunzi|【筹 集 军 队】 
+qst_biwuzhaoq|竞 技 大 赛 冠 军 
+qst_choujijunzi|筹 集 军 队 
 qst_renchizhizhu|称 号 ：仁 慈 圣 主 
 qst_shixuemowang|称 号 ：嗜 血 魔 王 
 qst_jingjizhiwang|称 号 ：竞 技 之 王 
@@ -89,18 +89,18 @@ qst_qiangdaoxiaomie2|森 林 之 印
 qst_qiangdaoxiaomie3|沙 漠 之 印 
 qst_qiangdaoxiaomie4|高 山 之 印 
 qst_qiangdaoxiaomie5|海 洋 之 印 
-qst_kaizhanqibingguo|【与 斯 瓦 迪 亚 会 战】 
-qst_kaizhanbubungguo|【与 诺 德 会 战】 
-qst_kaizhangongbingguo|【与 维 基 亚 会 战】 
-qst_sanxiaoxueyi|【技 艺 交 换】 
-qst_zhanyemanren|【击 败 奥 尔 克】
-qst_zhoujijianchengzijin|【筹 集 建 城 资 金】 
-qst_tuwei|【突 围】 
-qst_jiubing|【救 兵】
+qst_kaizhanqibingguo|与 斯 瓦 迪 亚 会 战 
+qst_kaizhanbubungguo|与 诺 德 会 战 
+qst_kaizhangongbingguo|与 维 基 亚 会 战 
+qst_sanxiaoxueyi|技 艺 交 换 
+qst_zhanyemanren|击 败 奥 尔 克
+qst_zhoujijianchengzijin|筹 集 建 城 资 金 
+qst_tuwei|突 围 
+qst_jiubing|救 兵 
 qst_jixingjun|疾 行 军 
-qst_huijia|【回 归 帝 国】 
-qst_jiehun|【和 亲】 
-qst_busizu|【不 死 族】 
+qst_huijia|回 归 帝 国 
+qst_jiehun|和 亲 
+qst_busizu|不 死 族 
 qst_gedoujia|称 号 ：格 斗 家 
 qst_renfanbizu|称 号 ：奴 贩 鼻 祖
 qst_fujiatianxia|称 号 ：富 甲 一 方 
@@ -109,27 +109,27 @@ qst_axiuluo|称 号 ：阿 修 罗
 qst_cunzishouhuzhe|称 号 ：村 子 守 护 神 
 qst_cunzishouhuzhe2|称 号 ：地 狱 使 者 
 qst_sanxiaotechang|特 长 ：智 勇 
-qst_jiaomiemoshou|【剿 灭 魔 兽】 
+qst_jiaomiemoshou|剿 灭 魔 兽 
 qst_xunshoushi|称 号 ：驯 兽 师 
-qst_naxiashiwadiguo|【再 战 斯 瓦 迪 亚】 
-qst_ershixiongdriji|【神 秘 的 礼 物】 
-qst_naxiaheianguo|【剿 灭 黑 暗 势 力】 
+qst_naxiashiwadiguo|再 战 斯 瓦 迪 亚 
+qst_ershixiongdriji|神 秘 的 礼 物 
+qst_naxiaheianguo|剿 灭 黑 暗 势 力 
 qst_dantiao|称 号 ：虎 豹 之 将 
-qst_heiantegong|【剿 灭 黑 暗 特 工】 
-qst_heiandongxue|【追 击 黑 暗 精 灵】 
-qst_gengxinjieshu|【统 一 大 陆】
-qst_mengguruqing|【蒙 古 西 征 军 侵 入】
-qst_menggushicheng|【蒙 古 使 者】
-qst_nvbingtuan1|【建 立 女 兵 团】 
+qst_heiantegong|剿 灭 黑 暗 特 工 
+qst_heiandongxue|追 击 黑 暗 精 灵 
+qst_gengxinjieshu|统 一 大 陆 
+qst_mengguruqing|蒙 古 西 征 军 侵 入 
+qst_menggushicheng|蒙 古 使 者 
+qst_nvbingtuan1|建 立 女 兵 团 
 qst_nvbingtuan2|红 影 女 兵 团 
 qst_zhuanqian|商 人 的 梦 想 
-qst_siguojingong|【四 国 危 机】 
+qst_siguojingong|四 国 危 机 
 qst_tbingdu|T病 毒 携 带 者 
 qst_tbingdu2|T病 毒 母 体 寄 主 
 qst_dantiaolongyu|主 仆 之 分 
-qst_longyudeenyuan|【武 圣 的 恩 怨】
+qst_longyudeenyuan|武 圣 的 恩 怨 
 qst_xingyuncao|幸 运 女 神 的 眷 顾 
-qst_kamendyiyan|【卡 门 的 遗 愿】
+qst_kamendyiyan|卡 门 的 遗 愿 
 qst_guangmofashi|光 明 法 师 
 qst_qingshenyizhong|称 号 ：义 深 情 重 
 qst_jingruoshenming|称 号 ：敬 若 神 明
@@ -138,12 +138,11 @@ qst_xiaotizhongxin|称 号 ：孝 悌 忠 信
 qst_jilaochengji|伤 病 ：积 劳 成 疾 
 qst_sanxiaobeiganran|求 救 ：命 在 旦 夕 
 qst_zijibeiganran|身 中 病 毒 
-qst_kamendyiyan2|【卡 门 最 后 的 意 念】 
+qst_kamendyiyan2|卡 门 最 后 的 意 念 
 qst_bingdukangti|体 质 ：病 毒 抗 体 
-qst_dashixiongdejuedou|【武 圣 的 目 标 
-qst_wanglingBOSS|【追 击 亡 灵 母 源 体】 
+qst_dashixiongdejuedou|武 圣 的 目 标 
+qst_wanglingBOSS|追 击 亡 灵 母 源 体 
 qst_qipaowuqi|浸 泡 武 器
-qst_xunliangyezhuqi|【训 练 野 猪 骑】 
-qst_xunzhaoshengtie|【收 购 生 铁】
-qst_shennvtezhi|憎 码 者 
+qst_xunliangyezhuqi|训 练 野 猪 骑 
+qst_xunzhaoshengtie|收 购 生 铁 
 qst_quests_end|Quests End 

@@ -246,12 +246,6 @@ ramun_ask_about_capturing_5
 ramun_ask_about_capturing_7
 ramun_pre_talk
 ramun_leave
-wenchusheng1
-wenchusheng2
-wenchusheng3
-wenchusheng4
-wenchusheng5
-wenchusheng6
 wupinguanli
 regular_chakan_1
 regular_chakan_2

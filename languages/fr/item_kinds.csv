@@ -1,1736 +1,1169 @@
-﻿itm_no_itedm|INVALID ITEM{***}
-itm_no_itedm_pl|INVALID ITEM{***}
-itm_tutorial_spear|矛 
-itm_tutorial_spear_pl|矛 
-itm_tutorial_club|木 棒 
-itm_tutorial_club_pl|木 棒 
-itm_tutorial_battle_axe|战 斗 斧 
-itm_tutorial_battle_axe_pl|战 斗 斧 
-itm_tutorial_arrows|箭 
-itm_tutorial_arrows_pl|箭 
-itm_tutorial_bolts|弩 箭 
-itm_tutorial_bolts_pl|弩 箭 
-itm_tutorial_short_bow|短 弓 
-itm_tutorial_short_bow_pl|短 弓 
-itm_tutorial_crossbow|弩 
-itm_tutorial_crossbow_pl|弩 
-itm_tutorial_throwing_daggers|飞 刀 
-itm_tutorial_throwing_daggers_pl|飞 刀 
-itm_tutorial_saddle_horse|旅 行 马 
-itm_tutorial_saddle_horse_pl|旅 行 马 
-itm_tutorial_shield|筝 形 盾 
-itm_tutorial_shield_pl|筝 形 盾 
-itm_tutorial_staff_no_attack|棍 
-itm_tutorial_staff_no_attack_pl|棍 
-itm_tutorial_staff|棍 
-itm_tutorial_staff_pl|棍 
-itm_tutorial_sword|剑 
-itm_tutorial_sword_pl|剑 
-itm_tutorial_axe|斧 
-itm_tutorial_axe_pl|斧 
-itm_tutorial_dagger|匕 首 
-itm_tutorial_dagger_pl|匕 首 
-itm_horse_meat|马 肉 
-itm_horse_meat_pl|马 肉 
-itm_practice_sword|练 习 剑 
-itm_practice_sword_pl|练 习 剑 
-itm_jujijian|木 剑 · 狙 击  
-itm_jujijian_pl|木 剑 · 狙 击 
-itm_heavy_practice_sword|重 型 练 习 剑 
-itm_heavy_practice_sword_pl|重 型 练 习 剑 
-itm_practice_dagger|练 习 匕 首 
-itm_practice_dagger_pl|练 习 匕 首 
-itm_practice_axe|练 习 斧 
-itm_practice_axe_pl|练 习 斧 
-itm_arena_axe|斧 
-itm_arena_axe_pl|斧 
-itm_arena_sword|剑 
-itm_arena_sword_pl|剑 
-itm_panlongjian|盘 龙 剑 
-itm_panlongjian_pl|盘 龙 剑
-itm_arena_sword_two_handed|双 手 剑 
-itm_arena_sword_two_handed_pl|双 手 剑 
-itm_arena_lance|骑 枪 
-itm_arena_lance_pl|骑 枪 
-itm_practice_staff|练 习 棍 
-itm_practice_staff_pl|练 习 棍 
-itm_practice_lance|练 习 骑 枪 
-itm_practice_lance_pl|练 习 骑 枪 
-itm_practice_shield|练 习 盾 
-itm_practice_shield_pl|练 习 盾 
-itm_practice_bow|练 习 弓 
-itm_practice_bow_pl|练 习 弓 
-itm_practice_crossbow|练 习 弩 
-itm_practice_crossbow_pl|练 习 弩 
-itm_practice_javelin|练 习 标 枪 
-itm_practice_javelin_pl|练 习 标 枪 
-itm_practice_javelin_melee|练 习 近 战 标 枪 
-itm_practice_javelin_melee_pl|练 习 近 战 标 枪 
-itm_practice_throwing_daggers|飞 刀 
-itm_practice_throwing_daggers_pl|飞 刀 
-itm_practice_throwing_daggers_100_amount|飞 刀 
-itm_practice_throwing_daggers_100_amount_pl|飞 刀 
-itm_practice_horse|练 习 马 
-itm_practice_horse_pl|练 习 马 
-itm_practice_arrows|练 习 箭 
-itm_practice_arrows_pl|练 习 箭 
-itm_practice_bolts|练 习 弩 箭 
-itm_practice_bolts_pl|练 习 弩 箭 
-itm_practice_arrows_10_amount|练 习 箭 
-itm_practice_arrows_10_amount_pl|练 习 箭 
-itm_practice_arrows_100_amount|练 习 箭 
-itm_practice_arrows_100_amount_pl|练 习 箭 
-itm_practice_bolts_9_amount|练 习 弩 箭 
-itm_practice_bolts_9_amount_pl|练 习 弩 箭 
-itm_practice_boots|训 练 靴 
-itm_practice_boots_pl|训 练 靴 
-itm_red_tourney_armor|红 色 竞 技 甲 
-itm_red_tourney_armor_pl|红 色 竞 技 甲 
-itm_blue_tourney_armor|蓝 色 竞 技 甲 
-itm_blue_tourney_armor_pl|蓝 色 竞 技 甲 
-itm_green_tourney_armor|绿 色 竞 技 甲 
-itm_green_tourney_armor_pl|绿 色 竞 技 甲 
-itm_gold_tourney_armor|金 色 竞 技 甲 
-itm_gold_tourney_armor_pl|金 色 竞 技 甲 
-itm_red_tourney_helmet|红 色 竞 技 盔 
-itm_red_tourney_helmet_pl|红 色 竞 技 盔 
-itm_blue_tourney_helmet|蓝 色 竞 技 盔 
-itm_blue_tourney_helmet_pl|蓝 色 竞 技 盔 
-itm_green_tourney_helmet|绿 色 竞 技 盔 
-itm_green_tourney_helmet_pl|绿 色 竞 技 盔 
-itm_gold_tourney_helmet|金 色 竞 技 盔 
-itm_gold_tourney_helmet_pl|金 色 竞 技 盔 
-itm_arena_shield_red|盾 
-itm_arena_shield_red_pl|盾 
-itm_arena_shield_blue|盾 
-itm_arena_shield_blue_pl|盾 
-itm_arena_shield_green|盾 
-itm_arena_shield_green_pl|盾 
-itm_arena_shield_yellow|盾 
-itm_arena_shield_yellow_pl|盾 
-itm_arena_armor_white|白 色 竞 技 甲 
-itm_arena_armor_white_pl|白 色 竞 技 甲 
-itm_arena_armor_red|红 色 竞 技 甲 
-itm_arena_armor_red_pl|红 色 竞 技 甲 
-itm_arena_armor_blue|蓝 色 竞 技 甲 
-itm_arena_armor_blue_pl|蓝 色 竞 技 甲 
-itm_arena_armor_green|绿 色 竞 技 甲 
-itm_arena_armor_green_pl|绿 色 竞 技 甲 
-itm_arena_armor_yellow|黄 色 竞 技 甲 
-itm_arena_armor_yellow_pl|黄 色 竞 技 甲 
-itm_arena_tunic_white|白 色 竞 技 短 袍 
-itm_arena_tunic_white_pl|白 色 竞 技 短 袍 
-itm_arena_tunic_red|红 色 竞 技 短 袍 
-itm_arena_tunic_red_pl|红 色 竞 技 短 袍 
-itm_arena_tunic_blue|蓝 色 竞 技 短 袍 
-itm_arena_tunic_blue_pl|蓝 色 竞 技 短 袍 
-itm_arena_tunic_green|绿 色 竞 技 短 袍 
-itm_arena_tunic_green_pl|绿 色 竞 技 短 袍 
-itm_arena_tunic_yellow|黄 色 竞 技 短 袍 
-itm_arena_tunic_yellow_pl|黄 色 竞 技 短 袍 
-itm_arena_helmet_red|红 色 竞 技 盔 
-itm_arena_helmet_red_pl|红 色 竞 技 盔 
-itm_arena_helmet_blue|蓝 色 竞 技 盔 
-itm_arena_helmet_blue_pl|蓝 色 竞 技 盔 
-itm_arena_helmet_green|绿 色 竞 技 盔 
-itm_arena_helmet_green_pl|绿 色 竞 技 盔 
-itm_arena_helmet_yellow|黄 色 竞 技 盔 
-itm_arena_helmet_yellow_pl|黄 色 竞 技 盔 
-itm_steppe_helmet_white|白 色 草 原 盔 
-itm_steppe_helmet_white_pl|白 色 草 原 盔 
-itm_steppe_helmet_red|红 色 草 原 盔 
-itm_steppe_helmet_red_pl|红 色 草 原 盔 
-itm_steppe_helmet_blue|蓝 色 草 原 盔 
-itm_steppe_helmet_blue_pl|蓝 色 草 原 盔 
-itm_steppe_helmet_green|绿 色 草 原 盔 
-itm_steppe_helmet_green_pl|绿 色 草 原 盔 
-itm_steppe_helmet_yellow|黄 色 草 原 盔 
-itm_steppe_helmet_yellow_pl|黄 色 草 原 盔 
-itm_tourney_helm_white|白 色 赛 场 盔 
-itm_tourney_helm_white_pl|白 色 赛 场 盔 
-itm_tourney_helm_red|红 色 赛 场 盔 
-itm_tourney_helm_red_pl|红 色 赛 场 盔 
-itm_tourney_helm_blue|蓝 色 赛 场 盔 
-itm_tourney_helm_blue_pl|蓝 色 赛 场 盔 
-itm_tourney_helm_green|绿 色 赛 场 盔 
-itm_tourney_helm_green_pl|绿 色 赛 场 盔 
-itm_tourney_helm_yellow|黄 色 赛 场 盔 
-itm_tourney_helm_yellow_pl|黄 色 赛 场 盔 
-itm_arena_turban_red|竞 技 头 巾 
-itm_arena_turban_red_pl|竞 技 头 巾 
-itm_arena_turban_blue|竞 技 头 巾 
-itm_arena_turban_blue_pl|竞 技 头 巾 
-itm_arena_turban_green|竞 技 头 巾 
-itm_arena_turban_green_pl|竞 技 头 巾 
-itm_arena_turban_yellow|竞 技 头 巾 
-itm_arena_turban_yellow_pl|竞 技 头 巾 
-itm_book_tactics|罗 马 军 制 论 
-itm_book_tactics_pl|罗 马 军 制 论 
-itm_book_qinhuangraozhu|秦 皇 绕 柱 
-itm_book_qinhuangraozhu_pl|秦 皇 绕 柱 
-itm_book_persuasion|修 辞 学 
-itm_book_persuasion_pl|修 辞 学 
-itm_book_leadership|亚 历 山 大 传 记 
-itm_book_leadership_pl|亚 历 山 大 传 记 
-itm_book_intelligence|逻 辑 论 文 
-itm_book_intelligence_pl|逻 辑 论 文 
-itm_book_trade|价 值 论 
-itm_book_trade_pl|价 值 论 
-itm_book_weapon_mastery|剑 斗 艺 术 
-itm_book_weapon_mastery_pl|剑 斗 艺 术 
-itm_book_engineering|机 械 原 理 
-itm_book_engineering_pl|机 械 原 理 
-itm_book_wound_treatment_reference|治 疗 之 书 
-itm_book_wound_treatment_reference_pl|治 疗 之 书 
-itm_book_training_reference|兵 器 手 册 
-itm_book_training_reference_pl|兵 器 手 册 
-itm_book_surgery_reference|手 术 大 全 
-itm_book_surgery_reference_pl|手 术 大 全 
-itm_spice|香 料 
-itm_spice_pl|香 料 
-itm_salt|盐 
-itm_salt_pl|盐 
-itm_flour|面 粉 
-itm_flour_pl|面 粉 
-itm_oil|油 
-itm_oil_pl|油 
-itm_pottery|陶 器 
-itm_pottery_pl|陶 器 
-itm_raw_flax|亚 麻 捆 
-itm_raw_flax_pl|亚 麻 捆 
-itm_raw_flax2|幸 运 草 
-itm_raw_flax2_pl|幸 运 草 
-itm_linen|亚 麻 布 
-itm_linen_pl|亚 麻 布 
-itm_wool|羊 毛 
-itm_wool_pl|羊 毛 
-itm_wool_cloth|毛 衣 
-itm_wool_cloth_pl|毛 衣 
-itm_raw_silk|生 丝 
-itm_raw_silk_pl|生 丝 
-itm_raw_dyes|染 料 
-itm_raw_dyes_pl|染 料 
-itm_velvet|天 鹅 绒 
-itm_velvet_pl|天 鹅 绒 
-itm_iron|生 铁 
-itm_iron_pl|生 铁 
-itm_iron2|星 外 陨 铁 
-itm_iron2_pl|星 外 陨 铁 
-itm_ironxiao|陨 铁 碎 片 (小 )
-itm_ironxiao_pl|陨 铁 碎 片 (小 )
-itm_ironzhong|陨 铁 碎 片 (中 )
-itm_ironzhong_pl|陨 铁 碎 片 (中 )
-itm_ironda|陨 铁 碎 片 (大 )
-itm_ironda_pl|陨 铁 碎 片 (大 )
-itm_jinjie|金 灵 石 
-itm_jinjie_pl|金 灵 石 
-itm_shuijie|水 灵 石 
-itm_shuijie_pl|水 灵 石 
-itm_mujie|木 灵 石 
-itm_mujie_pl|木 灵 石 
-itm_huojie|火 灵 石 
-itm_huojie_pl|火 灵 石 
-itm_tujie|土 灵 石 
-itm_tujie_pl|土 灵 石 
-itm_anjie|暗 灵 石 
-itm_anjie_pl|暗 灵 石 
-itm_baijie|光 灵 石 
-itm_baijie_pl|光 灵 石 
-itm_iron3|魔 兽 巨 蛋 
-itm_iron3_pl|魔 兽 巨 蛋 
-itm_tools|工 具 
-itm_tools_pl|工 具 
-itm_raw_leather|兽 皮 
-itm_raw_leather_pl|兽 皮 
-itm_leatherwork|皮 革 制 品 
-itm_leatherwork_pl|皮 革 制 品 
-itm_raw_date_fruit|枣 肉 
-itm_raw_date_fruit_pl|枣 肉 
-itm_furs|毛 皮 
-itm_furs_pl|毛 皮 
-itm_wine|葡 萄 酒 
-itm_wine_pl|葡 萄 酒 
-itm_ale|麦 芽 酒 
-itm_ale_pl|麦 芽 酒 
-itm_ale2|军 用 补 给 品 
-itm_ale2_pl|军 用 补 给 品 
-itm_smoked_fish|熏 鱼 
-itm_smoked_fish_pl|熏 鱼 
-itm_flour2|多 种 植 物 蛋 白 粉 
-itm_flour2_pl|多 种 植 物 蛋 白 粉 
-itm_raw_olives2|多 种 矿 物 质 倍 立 健 
-itm_raw_olives2_pl|多 种 矿 物 质 倍 立 健 
-itm_cheese|奶 酪 
-itm_cheese_pl|奶 酪 
-itm_honey|蜂 蜜 
-itm_honey_pl|蜂 蜜 
-itm_sausages|腊 肠 
-itm_sausages_pl|腊 肠 
-itm_cabbages|卷 心 菜 
-itm_cabbages_pl|卷 心 菜 
-itm_dried_meat|风 干 肉 
-itm_dried_meat_pl|风 干 肉 
-itm_apples|苹 果 
-itm_apples_pl|苹 果 
-itm_raw_grapes|葡 萄 
-itm_raw_grapes_pl|葡 萄 
-itm_raw_olives|橄 榄 
-itm_raw_olives_pl|橄 榄 
-itm_grain|小 麦 
-itm_grain_pl|小 麦 
-itm_cattle_meat|牛 肉 
-itm_cattle_meat_pl|牛 肉 
-itm_cattle_meat2|马 肉 
-itm_cattle_meat2_pl|马 肉 
-itm_bread|面 包 
-itm_bread_pl|面 包 
-itm_chicken|鸡 肉 
-itm_chicken_pl|鸡 肉 
-itm_pork|猪 肉 
-itm_pork_pl|猪 肉 
-itm_butter|奶 油 
-itm_butter_pl|奶 油 
-itm_siege_supply|补 给 品 
-itm_siege_supply_pl|补 给 品 
-itm_quest_wine|葡 萄 酒 
-itm_quest_wine_pl|葡 萄 酒 
-itm_quest_ale|麦 芽 酒 
-itm_quest_ale_pl|麦 芽 酒 
-itm_sumpter_horse|驮 马 
-itm_sumpter_horse_pl|驮 马 
-itm_saddle_horse|旅 行 马 
-itm_saddle_horse_pl|旅 行 马 
-itm_steppe_horse|草 原 马 
-itm_steppe_horse_pl|草 原 马 
-itm_arabian_horse_a|沙 漠 马 
-itm_arabian_horse_a_pl|沙 漠 马 
-itm_courser|骏 马 
-itm_courser_pl|骏 马 
-itm_arabian_horse_b|萨 兰 德 马 
-itm_arabian_horse_b_pl|萨 兰 德 马 
-itm_arabian_horse_b2|萨 兰 德 战 马 
-itm_arabian_horse_b2_pl|萨 兰 德 战 马 
-itm_hunter|猎 马 
-itm_hunter_pl|猎 马 
-itm_warhorse|军 马 
-itm_warhorse_pl|军 马 
-itm_charger|战 马 
-itm_charger_pl|战 马 
-itm_charger3|银 甲 战 马 
-itm_charger3_pl|银 甲 战 马
-itm_heianma|黑 暗 战 马 
-itm_heianma_pl|黑 暗 战 马 
-itm_heianma2|鬼 驹 · 绝 影 
-itm_heianma2_pl|鬼 驹 · 绝 影 
-itm_charger2|战 马 
-itm_charger2_pl|战 马 
-itm_charger5|精 品 战 马 
-itm_charger5_pl|精 品 战 马 
-itm_luozi|蠢 驴 
-itm_luozi_pl|蠢 驴 
-itm_luozi2|驴 神 医 
-itm_luozi2_pl|驴 神 医 
-itm_yinxingma|天 使 之 翼 
-itm_yinxingma_pl|天 使 之 翼 
-itm_yinxingma2|土 遁 马 
-itm_yinxingma2_pl|土 遁 马 
-itm_yinxingma3|精 灵 之 翼 
-itm_yinxingma3_pl|精 灵 之 翼 
-itm_yezhu|野 猪 
-itm_yezhu_pl|野 猪 
-itm_yezhu2|猎 猪 
-itm_yezhu2_pl|猎 猪 
-itm_yezhu3|战 猪 
-itm_yezhu3_pl|战 猪 
-itm_yezhu4|猪 王 
-itm_yezhu4_pl|猪 王 
-itm_yezhu5|猪 王 · 乔 治 
-itm_yezhu5_pl|猪 王 · 乔 治 
-itm_yezhu6|猪 王 · 佩 琪 
-itm_yezhu6_pl|猪 王 · 佩 琪 
-itm_arrows|箭 
-itm_arrows_pl|箭 
-itm_khergit_arrows|库 吉 特 箭 
-itm_khergit_arrows_pl|库 吉 特 箭 
-itm_barbed_arrows|倒 刺 箭 
-itm_barbed_arrows_pl|倒 刺 箭 
-itm_bodkin_arrows|锥 头 箭 
-itm_bodkin_arrows_pl|锥 头 箭 
-itm_bodkin_arrows2|最 后 的 轻 羽 
-itm_bodkin_arrows2_pl|最 后 的 轻 羽 
-itm_bolts|弩 箭 
-itm_bolts_pl|弩 箭 
-itm_steel_bolts|钢 弩 箭 
-itm_steel_bolts_pl|钢 弩 箭 
-itm_steel_bolts2|破 甲 钢 弩 箭 
-itm_steel_bolts2_pl|破 甲 钢 弩 箭 
-itm_steel_bolts3|破 甲 钢 弩 箭 
-itm_steel_bolts3_pl|破 甲 钢 弩 箭 
-itm_cartridges|法 力 
-itm_cartridges_pl|法 力 
-itm_cartridges2|弹 药 筒 
-itm_cartridges2_pl|弹 药 筒 
-itm_cartridges3|弹 药 筒 
-itm_cartridges3_pl|弹 药 筒 
-itm_pilgrim_disguise|朝 圣 者 服 
-itm_pilgrim_disguise_pl|朝 圣 者 服 
-itm_pilgrim_hood|朝 圣 者 风 帽 
-itm_pilgrim_hood_pl|朝 圣 者 风 帽 
-itm_leather_gloves|皮 手 套 
-itm_leather_gloves_pl|皮 手 套 
-itm_mail_mittens|链 甲 手 套 
-itm_mail_mittens_pl|链 甲 手 套 
-itm_scale_gauntlets|鱼 鳞 甲 臂 铠 
-itm_scale_gauntlets_pl|鱼 鳞 甲 臂 铠 
-itm_lamellar_gauntlets|鳞 片 甲 臂 铠 
-itm_lamellar_gauntlets_pl|鳞 片 甲 臂 铠 
-itm_gauntlets|臂 铠 
-itm_gauntlets_pl|臂 铠 
-itm_wrapping_boots|绑 腿 
-itm_wrapping_boots_pl|绑 腿 
-itm_woolen_hose|羊 毛 裤 
-itm_woolen_hose_pl|羊 毛 裤 
-itm_blue_hose|蓝 羊 毛 裤 
-itm_blue_hose_pl|蓝 羊 毛 裤 
-itm_hunter_boots|猎 靴 
-itm_hunter_boots_pl|猎 靴 
-itm_hide_boots|兽 皮 靴 
-itm_hide_boots_pl|兽 皮 靴 
-itm_ankle_boots|短 靴 
-itm_ankle_boots_pl|短 靴 
-itm_nomad_boots|游 牧 靴 
-itm_nomad_boots_pl|游 牧 靴 
-itm_leather_boots|皮 靴 
-itm_leather_boots_pl|皮 靴 
-itm_splinted_leather_greaves|夹 板 式 皮 护 腿 
-itm_splinted_leather_greaves_pl|夹 板 式 皮 护 腿 
-itm_mail_chausses|链 甲 护 腿 
-itm_mail_chausses_pl|链 甲 护 腿 
-itm_splinted_greaves|夹 板 式 护 腿 
-itm_splinted_greaves_pl|夹 板 式 护 腿 
-itm_mail_boots|链 甲 靴 
-itm_mail_boots_pl|链 甲 靴 
-itm_iron_greaves|铁 护 腿 
-itm_iron_greaves_pl|铁 护 腿 
-itm_black_greaves|黑 护 腿 
-itm_black_greaves_pl|黑 护 腿 
-itm_khergit_leather_boots|库 吉 特 皮 靴 
-itm_khergit_leather_boots_pl|库 吉 特 皮 靴 
-itm_sarranid_boots_a|萨 兰 德 鞋 
-itm_sarranid_boots_a_pl|萨 兰 德 鞋 
-itm_sarranid_boots_b|萨 兰 德 皮 靴 
-itm_sarranid_boots_b_pl|萨 兰 德 皮 靴 
-itm_sarranid_boots_c|覆 板 靴 
-itm_sarranid_boots_c_pl|覆 板 靴 
-itm_sarranid_boots_d|萨 兰 德 链 甲 靴 
-itm_sarranid_boots_d_pl|萨 兰 德 链 甲 靴 
-itm_sarranid_head_cloth|女 式 头 布 
-itm_sarranid_head_cloth_pl|女 式 头 布 
-itm_sarranid_head_cloth_b|女 式 头 布 
-itm_sarranid_head_cloth_b_pl|女 式 头 布 
-itm_sarranid_felt_head_cloth|头 布 
-itm_sarranid_felt_head_cloth_pl|头 布 
-itm_sarranid_felt_head_cloth_b|头 布 
-itm_sarranid_felt_head_cloth_b_pl|头 布 
-itm_lady_dress_ruby|连 衣 裙 
-itm_lady_dress_ruby_pl|连 衣 裙 
-itm_lady_dress_green|连 衣 裙 
-itm_lady_dress_green_pl|连 衣 裙 
-itm_lady_dress_blue|连 衣 裙 
-itm_lady_dress_blue_pl|连 衣 裙 
-itm_red_dress|红 色 连 衣 裙 
-itm_red_dress_pl|红 色 连 衣 裙 
-itm_brown_dress|棕 色 连 衣 裙 
-itm_brown_dress_pl|棕 色 连 衣 裙 
-itm_green_dress|绿 色 连 衣 裙 
-itm_green_dress_pl|绿 色 连 衣 裙 
-itm_khergit_lady_dress|库 吉 特 连 衣 裙 
-itm_khergit_lady_dress_pl|库 吉 特 连 衣 裙 
-itm_khergit_lady_dress_b|库 吉 特 女 式 皮 裙 
-itm_khergit_lady_dress_b_pl|库 吉 特 女 式 皮 裙 
-itm_sarranid_lady_dress|萨 兰 德 连 衣 裙 
-itm_sarranid_lady_dress_pl|萨 兰 德 连 衣 裙 
-itm_sarranid_lady_dress_b|萨 兰 德 连 衣 裙 
-itm_sarranid_lady_dress_b_pl|萨 兰 德 连 衣 裙 
-itm_sarranid_common_dress|萨 兰 德 裙 
-itm_sarranid_common_dress_pl|萨 兰 德 裙 
-itm_sarranid_common_dress_b|萨 兰 德 裙 
-itm_sarranid_common_dress_b_pl|萨 兰 德 裙 
-itm_courtly_outfit|宫 廷 服 
-itm_courtly_outfit_pl|宫 廷 服 
-itm_nobleman_outfit|贵 族 服 
-itm_nobleman_outfit_pl|贵 族 服 
-itm_nomad_armor|游 牧 甲 
-itm_nomad_armor_pl|游 牧 甲 
-itm_khergit_armor|库 吉 特 甲 
-itm_khergit_armor_pl|库 吉 特 甲 
-itm_leather_jacket|皮 夹 克 
-itm_leather_jacket_pl|皮 夹 克 
-itm_rawhide_coat|生 皮 外 套 
-itm_rawhide_coat_pl|生 皮 外 套 
-itm_leather_armor|皮 甲 
-itm_leather_armor_pl|皮 甲 
-itm_fur_coat|毛 皮 外 套 
-itm_fur_coat_pl|毛 皮 外 套 
-itm_coat|外 套 
-itm_coat_pl|外 套 
-itm_leather_coat|皮 外 套 
-itm_leather_coat_pl|皮 外 套 
-itm_mail_coat|链 甲 外 套 
-itm_mail_coat_pl|链 甲 外 套 
-itm_long_mail_coat|长 摆 链 甲 外 套 
-itm_long_mail_coat_pl|长 摆 链 甲 外 套 
-itm_mail_with_tunic_red|链 甲 带 短 袍 
-itm_mail_with_tunic_red_pl|链 甲 带 短 袍 
-itm_mail_with_tunic_green|链 甲 带 短 袍 
-itm_mail_with_tunic_green_pl|链 甲 带 短 袍 
-itm_hide_coat|兽 皮 外 套 
-itm_hide_coat_pl|兽 皮 外 套 
-itm_merchant_outfit|商 人 服 
-itm_merchant_outfit_pl|商 人 服 
-itm_homespun_dress|粗 布 衣 
-itm_homespun_dress_pl|粗 布 衣 
-itm_thick_coat|厚 外 套 
-itm_thick_coat_pl|厚 外 套 
-itm_coat_with_cape|斗 篷 外 套 
-itm_coat_with_cape_pl|斗 篷 外 套 
-itm_steppe_outfit|草 原 服 
-itm_steppe_outfit_pl|草 原 服 
-itm_nordic_outfit|日 耳 曼 服 
-itm_nordic_outfit_pl|日 耳 曼 服 
-itm_nordic_armor|日 耳 曼 甲 
-itm_nordic_armor_pl|日 耳 曼 甲 
-itm_hide_armor|兽 皮 甲 
-itm_hide_armor_pl|兽 皮 甲 
-itm_cloaked_tunic|披 风 短 袍 
-itm_cloaked_tunic_pl|披 风 短 袍 
-itm_sleeveless_tunic|无 袖 短 袍 
-itm_sleeveless_tunic_pl|无 袖 短 袍 
-itm_sleeveless_leather_tunic|无 袖 皮 短 袍 
-itm_sleeveless_leather_tunic_pl|无 袖 皮 短 袍 
-itm_linen_shirt|亚 麻 衬 衫 
-itm_linen_shirt_pl|亚 麻 衬 衫 
-itm_wool_coat|羊 毛 外 套 
-itm_wool_coat_pl|羊 毛 外 套 
-itm_dress|连 衣 裙 
-itm_dress_pl|连 衣 裙 
-itm_blue_dress|蓝 色 连 衣 裙 
-itm_blue_dress_pl|蓝 色 连 衣 裙 
-itm_peasant_dress|农 妇 连 衣 裙 
-itm_peasant_dress_pl|农 妇 连 衣 裙 
-itm_woolen_dress|羊 毛 连 衣 裙 
-itm_woolen_dress_pl|羊 毛 连 衣 裙 
-itm_shirt|衬 衫 
-itm_shirt_pl|衬 衫 
-itm_linen_tunic|亚 麻 短 袍 
-itm_linen_tunic_pl|亚 麻 短 袍 
-itm_short_tunic|红 色 短 袍 
-itm_short_tunic_pl|红 色 短 袍 
-itm_red_shirt|红 色 衬 衫 
-itm_red_shirt_pl|红 色 衬 衫 
-itm_red_tunic|红 色 短 袍 
-itm_red_tunic_pl|红 色 短 袍 
-itm_green_tunic|绿 色 短 袍 
-itm_green_tunic_pl|绿 色 短 袍 
-itm_blue_tunic|蓝 色 短 袍 
-itm_blue_tunic_pl|蓝 色 短 袍 
-itm_robe|长 袍 
-itm_robe_pl|长 袍 
-itm_coarse_tunic|带 背 心 短 袍 
-itm_coarse_tunic_pl|带 背 心 短 袍 
-itm_leather_apron|皮 围 裙 
-itm_leather_apron_pl|皮 围 裙 
-itm_tabard|短 袖 袍 
-itm_tabard_pl|短 袖 袍 
-itm_leather_vest|皮 背 心 
-itm_leather_vest_pl|皮 背 心 
-itm_steppe_armor|草 原 甲 
-itm_steppe_armor_pl|草 原 甲 
-itm_gambeson|软 甲 
-itm_gambeson_pl|软 甲 
-itm_blue_gambeson|蓝 色 软 甲 
-itm_blue_gambeson_pl|蓝 色 软 甲 
-itm_red_gambeson|红 色 软 甲 
-itm_red_gambeson_pl|红 色 软 甲 
-itm_padded_cloth|棉 袍 
-itm_padded_cloth_pl|棉 袍 
-itm_aketon_green|棉 袍 
-itm_aketon_green_pl|棉 袍 
-itm_leather_jerkin|皮 短 袖 衣 
-itm_leather_jerkin_pl|皮 短 袖 衣 
-itm_nomad_vest|游 牧 背 心 
-itm_nomad_vest_pl|游 牧 背 心 
-itm_ragged_outfit|褶 皱 服 
-itm_ragged_outfit_pl|褶 皱 服 
-itm_padded_leather|棉 衬 皮 衣 
-itm_padded_leather_pl|棉 衬 皮 衣 
-itm_tribal_warrior_outfit|部 落 勇 士 服 
-itm_tribal_warrior_outfit_pl|部 落 勇 士 服 
-itm_nomad_robe|游 牧 袍 
-itm_nomad_robe_pl|游 牧 袍 
-itm_studded_leather_coat|钉 饰 皮 外 套 
-itm_studded_leather_coat_pl|钉 饰 皮 外 套 
-itm_byrnie|链 铠 
-itm_byrnie_pl|链 铠 
-itm_haubergeon|短 链 甲 
-itm_haubergeon_pl|短 链 甲 
-itm_lamellar_vest|鳞 甲 背 心 
-itm_lamellar_vest_pl|鳞 甲 背 心 
-itm_lamellar_vest_khergit|库 吉 特 鳞 甲 背 心 
-itm_lamellar_vest_khergit_pl|库 吉 特 鳞 甲 背 心 
-itm_mail_shirt|链 甲 衫 
-itm_mail_shirt_pl|链 甲 衫 
-itm_mail_hauberk|长 摆 链 甲 
-itm_mail_hauberk_pl|长 摆 链 甲 
-itm_mail_with_surcoat|链 甲 带 罩 衫 
-itm_mail_with_surcoat_pl|链 甲 带 罩 衫 
-itm_surcoat_over_mail|带 罩 衫 链 甲 
-itm_surcoat_over_mail_pl|带 罩 衫 链 甲 
-itm_brigandine_red|锁 子 铠 
-itm_brigandine_red_pl|锁 子 铠 
-itm_lamellar_armor|鳞 片 甲 
-itm_lamellar_armor_pl|鳞 片 甲 
-itm_scale_armor|鱼 鳞 甲 
-itm_scale_armor_pl|鱼 鳞 甲 
-itm_banded_armor|条 纹 甲 
-itm_banded_armor_pl|条 纹 甲 
-itm_cuir_bouilli|硬 皮 甲 
-itm_cuir_bouilli_pl|硬 皮 甲 
-itm_coat_of_plates|无 袖 板 甲 
-itm_coat_of_plates_pl|无 袖 板 甲 
-itm_coat_of_plates_red|无 袖 板 甲 
-itm_coat_of_plates_red_pl|无 袖 板 甲 
-itm_plate_armor|全 身 板 甲 
-itm_plate_armor_pl|全 身 板 甲 
-itm_black_armor|黑 甲 
-itm_black_armor_pl|黑 甲 
-itm_fashizhuang1|学 员 服 （光 明 ）
-itm_fashizhuang1_pl|学 员 服 （光 明 ）
-itm_fashizhuang2|学 士 服 （光 明 ）
-itm_fashizhuang2_pl|学 士 服 （光 明 ）
-itm_fashizhuang3|导 师 服 （光 明 ）
-itm_fashizhuang3_pl|导 师 服 （光 明 ）
-itm_fashizhuang4|院 士 服 （光 明 ）
-itm_fashizhuang4_pl|院 士 服 （光 明 ）
-itm_mingzushaonv|民 族 少 女 服 
-itm_mingzushaonv_pl|民 族 少 女 服 
-itm_luxueqi|陆 雪 琪 
-itm_luxueqi_pl|陆 雪 琪 
-itm_mujingling1|木 精 灵 
-itm_mujingling1_pl|木 精 灵 
-itm_shuijingling1|水 精 灵 
-itm_shuijingling1_pl|水 精 灵 
-itm_longtengjia|龙 腾 甲 
-itm_longtengjia_pl|龙 腾 甲 
-itm_longtengjiao|龙 腾 护 腿 
-itm_longtengjiao_pl|龙 腾 护 腿 
-itm_longtengshou|龙 腾 护 手 
-itm_longtengshou_pl|龙 腾 护 手 
-itm_pingbishou|屏 蔽 手 
-itm_pingbishou_pl|屏 蔽 手 
-itm_pingbijiao|屏 蔽 脚 
-itm_pingbijiao_pl|屏 蔽 脚 
-itm_pingbitou|屏 蔽 头 
-itm_pingbitou_pl|屏 蔽 头 
-itm_heiantou|黑 骑 士 头 盔 
-itm_heiantou_pl|黑 骑 士 头 盔 
-itm_heianshengti|黑 骑 士 铠 甲 
-itm_heianshengti_pl|黑 骑 士 铠 甲 
-itm_heianshou|黑 骑 士 护 手 
-itm_heianshou_pl|黑 骑 士 护 手 
-itm_heianjiao|黑 骑 士 长 靴 
-itm_heianjiao_pl|黑 骑 士 长 靴 
-itm_heianjian|黑 皇 剑 
-itm_heianjian_pl|黑 皇 剑 
-itm_heiandun|暗 炎 盾 
-itm_heiandun_pl|暗 炎 盾 
-itm_heianqiang|黑 暗 嗜 杀 者 
-itm_heianqiang_pl|黑 暗 嗜 杀 者 
-itm_heianshuangshou|乌 阙 
-itm_heianshuangshou_pl|乌 阙 
-itm_yinjiatou|猎 鹰 银 面 甲 
-itm_yinjiatou_pl|猎 鹰 银 面 甲 
-itm_yinjiashengti|猎 鹰 银 甲 
-itm_yinjiashengti_pl|猎 鹰 银 甲 
-itm_yinjiashou|猎 鹰 银 护 手  
-itm_yinjiashou_pl|猎 鹰 银 护 手  
-itm_yinjiajiao|猎 鹰 银 护 腿  
-itm_yinjiajiao_pl|猎 鹰 银 护 腿  
-itm_jinjiatou|猎 鹰 金 面 甲 
-itm_jinjiatou_pl|猎 鹰 金 面 甲 
-itm_jinjiashengti|猎 鹰 金 甲 
-itm_jinjiashengti_pl|猎 鹰 金 甲 
-itm_jinjiashou|猎 鹰 金 护 手  
-itm_jinjiashou_pl|猎 鹰 金 护 手  
-itm_jinjiajiao|猎 鹰 金 护 腿 
-itm_jinjiajiao_pl|猎 鹰 金 护 腿 
-itm_longqibingdun|龙 骑 兵 之 盾 
-itm_longqibingdun_pl|龙 骑 兵 之 盾 
-itm_longqibingqiang|龙 骑 兵 之 矛 
-itm_longqibingqiang_pl|龙 骑 兵 之 矛 
-itm_tianqingyue|天 情 月  
-itm_tianqingyue_pl|天 情 月 
-itm_tianqingyue2|天 情 月  
-itm_tianqingyue2_pl|天 情 月 
-itm_wanglingzeishou|影 武 者 手 套 
-itm_wanglingzeishou_pl|影 武 者 手 套 
-itm_wanglingzeijiao|影 武 者 长 靴 
-itm_wanglingzeijiao_pl|影 武 者 长 靴  
-itm_wanglingzeitou|影 武 者 面 纱 
-itm_wanglingzeitou_pl|影 武 者 面 纱 
-itm_wanglingzeishengti|影 武 者 护 甲 
-itm_wanglingzeishengti_pl|影 武 者 护 甲 
-itm_wanglingzeishengti2|二 阶 影 武 者 护 甲 
-itm_wanglingzeishengti2_pl|二 阶 影 武 者 护 甲 
-itm_wanglingzeishengti3|三 阶 影 武 者 护 甲 
-itm_wanglingzeishengti3_pl|三 阶 影 武 者 护 甲 
-itm_wanglingzeishou5|影 手 · 取 命 
-itm_wanglingzeishou5_pl|影 手 · 取 命 
-itm_wanglingzeijiao5|影 靴 · 化 雪 
-itm_wanglingzeijiao5_pl|影 靴 · 化 雪  
-itm_wanglingzeitou5|影 面 · 止 风  
-itm_wanglingzeitou5_pl|影 面 · 止 风  
-itm_wanglingzeishengti5|影 甲 · 静 心  
-itm_wanglingzeishengti5_pl|影 甲 · 静 心  
-itm_gandaofutou|卡 门 
-itm_gandaofutou_pl|卡 门 
-itm_gandaofushengti|法 师 战 袍  
-itm_gandaofushengti_pl|法 师 战 袍  
-itm_gandaofujiao|法 师 战 护 腿  
-itm_gandaofujiao_pl|法 师 护 腿  
-itm_baimofazhang2|白 魔 法 杖 
-itm_baimofazhang2_pl|白 魔 法 杖 
-itm_baimofazhang|白 魔 法 杖 
-itm_baimofazhang_pl|白 魔 法 杖 
-itm_heitianshi|天 使 
-itm_heitianshi_pl|天 使 
-itm_huangtiangshi|天 使 
-itm_huangtiangshi_pl|天 使 
-itm_hongtianshi|炽 热 天 使 
-itm_hongtianshi_pl|炽 热 天 使 
-itm_tianshijian|审 判 · 之 刃 
-itm_tianshijian_pl|审 判 · 之 刃 
-itm_tianshifeidao|天 使 之 标 
-itm_tianshifeidao_pl|天 使 之 标 
-itm_yemanrenjia|野 蛮 人 甲 
-itm_yemanrenjia_pl|野 蛮 人 甲 
-itm_arrows2|精 灵 箭 
-itm_arrows2_pl|精 灵 箭 
-itm_short_bow2|精 灵 短 弓 
-itm_short_bow2_pl|精 灵 短 弓 
-itm_short_bow3|精 灵 长 弓 
-itm_short_bow3_pl|精 灵 长 弓 
-itm_short_bow4|精 灵 弓 · 暮 语 
-itm_short_bow4_pl|精 灵 弓 · 暮 语 
-itm_short_bow5|精 灵 骑 弓 
-itm_short_bow5_pl|精 灵 骑 弓 
-itm_longyujia|黑 暗 战 袍 
-itm_longyujia_pl|黑 暗 战 袍 
-itm_longyutou|黄 金 头 盔 
-itm_longyutou_pl|黄 金 头 盔 
-itm_longyujiao|黑 暗 护 腿 
-itm_longyujiao_pl|黑 暗 护 腿 
-itm_longyujian|黄 金 圣 剑 
-itm_longyujian_pl|黄 金 圣 剑 
-itm_longyushou|黑 暗 护 手 
-itm_longyushou_pl|黑 暗 护 手 
-itm_chuangqingdao|单 刀 · 创 清 
-itm_chuangqingdao_pl|创 清 
-itm_heianhuaji|双 月 · 魅 斩 
-itm_heianhuaji_pl|双 月 · 魅 斩 
-itm_heianhuaji2|双 月 斩 
-itm_heianhuaji2_pl|双 月 斩 
-itm_huoyanjian|烈 焰 · 炽 心 
-itm_huoyanjian_pl|烈 焰 · 炽 心 
-itm_gedou1|一 段 格 斗 袍 
-itm_gedou1_pl|一 段 格 斗 袍 
-itm_gedou2|三 段 格 斗 袍 
-itm_gedou2_pl|三 段 格 斗 袍 
-itm_gedou3|五 段 格 斗 甲 
-itm_gedou3_pl|五 段 格 斗 甲 
-itm_gedou4|七 段 格 斗 甲 
-itm_gedou4_pl|七 段 格 斗 甲 
-itm_gedou5|九 段 格 斗 甲 
-itm_gedou5_pl|九 段 格 斗 甲 
-itm_gedou6|宗 师 格 斗 甲 
-itm_gedou6_pl|宗 师 格 斗 甲 
-itm_tanxianjiafu1|西 洋 服 
-itm_tanxianjiafu1_pl|西 洋 服 
-itm_tanxianjiafu2|西 洋 甲 
-itm_tanxianjiafu2_pl|西 洋 甲 
-itm_tanxianjiafu3|西 洋 战 斗 服 
-itm_tanxianjiafu3_pl|西 洋 战 斗 服 
-itm_tanxianjiafu4|西 洋 战 斗 甲 
-itm_tanxianjiafu4_pl|西 洋 战 斗 甲 
-itm_tanxianjiamaozi1|西 洋 帽 
-itm_tanxianjiamaozi1_pl|西 洋 帽 
-itm_tanxianjiamaozi2|西 洋 帽 
-itm_tanxianjiamaozi2_pl|西 洋 帽 
-itm_tanxianjiaxiezi|西 洋 靴
-itm_tanxianjiaxiezi_pl|西 洋 靴
-itm_jinglingyifu1|一 阶 绿 甲 
-itm_jinglingyifu1_pl|一 阶 绿 甲 
-itm_jinglingyifu2|二 阶 绿 甲 
-itm_jinglingyifu2_pl|二 阶 绿 甲 
-itm_jinglingyifu3|三 阶 绿 甲 
-itm_jinglingyifu3_pl|三 阶 绿 甲 
-itm_jinglingyifu4|四 阶 绿 甲 
-itm_jinglingyifu4_pl|四 阶 绿 甲 
-itm_pelt_coat|毛 皮 外 套 
-itm_pelt_coat_pl|毛 皮 外 套 
-itm_khergit_elite_armor|库 吉 特 精 锐 甲 
-itm_khergit_elite_armor_pl|库 吉 特 精 锐 甲 
-itm_vaegir_elite_armor|维 基 亚 精 锐 甲 
-itm_vaegir_elite_armor_pl|维 基 亚 精 锐 甲 
-itm_sarranid_elite_armor|萨 兰 德 精 锐 甲 
-itm_sarranid_elite_armor_pl|萨 兰 德 精 锐 甲 
-itm_sarranid_dress_a|连 衣 裙 
-itm_sarranid_dress_a_pl|连 衣 裙 
-itm_sarranid_dress_b|连 衣 裙 
-itm_sarranid_dress_b_pl|连 衣 裙 
-itm_sarranid_cloth_robe|旧 长 袍 
-itm_sarranid_cloth_robe_pl|旧 长 袍 
-itm_sarranid_cloth_robe_b|旧 长 袍 
-itm_sarranid_cloth_robe_b_pl|旧 长 袍 
-itm_skirmisher_armor|游 击 射 手 甲 
-itm_skirmisher_armor_pl|游 击 射 手 甲 
-itm_archers_vest|射 手 棉 背 心 
-itm_archers_vest_pl|射 手 棉 背 心 
-itm_sarranid_leather_armor|萨 兰 德 皮 甲 
-itm_sarranid_leather_armor_pl|萨 兰 德 皮 甲 
-itm_sarranid_cavalry_robe|骑 兵 长 袍 
-itm_sarranid_cavalry_robe_pl|骑 兵 长 袍 
-itm_arabian_armor_b|萨 兰 德 卫 士 甲 
-itm_arabian_armor_b_pl|萨 兰 德 卫 士 甲 
-itm_sarranid_mail_shirt|萨 兰 德 链 甲 衫 
-itm_sarranid_mail_shirt_pl|萨 兰 德 链 甲 衫 
-itm_shamobuyi|沙 漠 布 衣 
-itm_shamobuyi_pl|沙 漠 布 衣 
-itm_shamolingzhutiejia|沙 漠 侵 略 者 战 斗 服
-itm_shamolingzhutiejia_pl|沙 漠 侵 略 者 战 斗 服
-itm_shamolingzhuzhanyi|沙 漠 领 主 战 衣
-itm_shamolingzhuzhanyi_pl|沙 漠 领 主 战 衣 
-itm_shamolingzhuzhanjia|沙 漠 领 主 战 甲
-itm_shamolingzhuzhanjia_pl|沙 漠 领 主 战 甲
-itm_shamowandao|沙 漠 弯 刀 
-itm_shamowandao_pl|沙 漠 弯 刀
-itm_salandeqibingdun|萨 兰 德 骑 兵 盾 
-itm_salandeqibingdun_pl|萨 兰 德 骑 兵 盾 
-itm_kujitechenjia|库 吉 特 衬 甲
-itm_kujitechenjia_pl|库 吉 特 衬 甲
-itm_kujiteyoumupao|库 吉 特 游 民 装
-itm_kujiteyoumupao_pl|库 吉 特 游 民 装
-itm_youmuheipao|游 牧 黑 袍
-itm_youmuheipao_pl|游 牧 黑 袍
-itm_kujiteyouminzhuang|库 吉 特 游 牧 袍
-itm_kujiteyouminzhuang_pl|库 吉 特 游 牧 袍
-itm_kujitejingruizhanxue|库 吉 特 精 锐 战 靴 
-itm_kujitejingruizhanxue_pl|库 吉 特 精 锐 战 靴 
-itm_kujitejingruizhankui|库 吉 特 精 锐 战 盔 
-itm_kujitejingruizhankui_pl|库 吉 特 精 锐 战 盔 
-itm_kujitezhanglaopao|库 吉 特 长 老 袍 
-itm_kujitezhanglaopao_pl|库 吉 特 长 老 袍
-itm_kujitegongtingzhanjia1|库 吉 特 宫 廷 战 甲（ 蓝 ）
-itm_kujitegongtingzhanjia1_pl|库 吉 特 宫 廷 战 甲（ 蓝 ）
-itm_kujitegongtingzhanjia2|库 吉 特 宫 廷 战 甲（ 纯 阳 ）
-itm_kujitegongtingzhanjia2_pl|库 吉 特 宫 廷 战 甲（ 纯 阳 ）
-itm_kujitegongtingzhanjia3| 库 吉 特 宫 廷 战 甲（ 翡 翠 ）
-itm_kujitegongtingzhanjia3_pl|库 吉 特 宫 廷 战 甲（ 翡 翠 ）
-itm_kujitetiejiazhanma|库 吉 特 铁 甲 战 马
-itm_kujitetiejiazhanma_pl|库 吉 特 铁 甲 战 马
-itm_kujiteyoujizhanma|库 吉 特 游 击 披 甲 马
-itm_kujiteyoujizhanma_pl|库 吉 特 游 击 披 甲 马
-itm_youjijia|游 击 甲
-itm_youjijia_pl|游 击 甲
-itm_jingruiyoujijia|精 锐 游 击 甲
-itm_jingruiyoujijia_pl|精 锐 游 击 甲
-itm_youjixue|游 击 靴
-itm_youjixue_pl|游 击 靴
-itm_shuizeijia|水 贼 甲
-itm_shuizeijia_pl|水 贼 甲
-itm_haizeishan|海 贼 衫
-itm_haizeishan_pl|海 贼 衫
-itm_shuishoushan|水 手 衫
-itm_shuishoushan_pl|水 手 衫
-itm_haidaozhanjia|海 盗 战 甲
-itm_haidaozhanjia_pl|海 盗 战 甲
-itm_haidaojia|海 盗 甲
-itm_haidaojia_pl|海 盗 甲
-itm_haishangzhengfuzhezhanjia|海 上 征 服 者 战 甲
-itm_haishangzhengfuzhezhanjia_pl|海 上 征 服 者 战 甲
-itm_haishangzhengfuzhejingruijia|海 上 征 服 者 精 锐 甲
-itm_haishangzhengfuzhejingruijia_pl|海 上 征 服 者 精 锐 甲
-itm_kujitegongtingzhanjia4|库 吉 特 宫 廷 战 甲（ 天 尊 ）
-itm_kujitegongtingzhanjia4_pl|库 吉 特 宫 廷 战 甲（ 天 尊 ）
-itm_haiwangya|海 陆 战 靴
-itm_haiwangya_pl|海 陆 战 靴
-
-
-itm_nufanzhongjia|奴 贩 重 甲
-itm_nufanzhongjia_pl|奴 贩 重 甲
-itm_jiangyang6|三 啸 军 狩 猎 甲
-itm_jiangyang6_pl|三 啸 军 狩 猎 甲
-itm_jiangyang5|三 啸 军 精 板 甲
-itm_jiangyang5_pl|三 啸 军 精 板 甲 
-itm_jiangyang3|领 主 战 甲 
-itm_jiangyang3_pl|领 主 战 甲 
-itm_shenpanzhe|审 判 者
-itm_shenpanzhe_pl|审 判 者 
-itm_jianghuwandao|江 湖 弯 刀
-itm_jianghuwandao_pl|江 湖 弯 刀
-itm_zhanzhengzhidun|正 义 之 盾
-itm_zhanzhengzhidun_pl|正 义 之 盾
-itm_haojie5|红 连 靴
-itm_haojie5_pl|红 连 靴
-
-itm_nvzhonghaojie2|神 圣 骑 士 盔 甲
-itm_nvzhonghaojie2_pl|神 圣 骑 士 盔 甲
-
-itm_xianvkui1|神 圣 骑 士 头 盔 
-itm_xianvkui1_pl|神 圣 骑 士 头 盔 
-itm_yueyingliuxing|神 殿 骑 士 战 马
-itm_yueyingliuxing_pl|神 殿 骑 士 战 马
-
-
-itm_mengguzhanyi|蒙 古 战 甲
-itm_mengguzhanyi_pl|蒙 古 战 甲
-itm_mengguzhanyi2|蒙 古 精 锐 战 甲
-itm_mengguzhanyi2_pl|蒙 古 精 锐 战 甲
-
-itm_zhujue1|青 英 甲
-itm_zhujue1_pl|青 英 甲
-
-itm_jiangyang4|盗 贼 战 甲 
-itm_jiangyang4_pl|盗 贼 战 甲 
-
-itm_gouhunlian|夺 命 狂 镰
-itm_gouhunlian_pl|夺 命 狂 镰
-itm_duantoutai|断 头 台
-itm_duantoutai_pl|断 头 台
-itm_guiwan|鬼 丸 国 刚
-itm_guiwan_pl|鬼 丸 国 刚
-
-itm_renju1|忍 具
-itm_renju1_pl|忍 具
-itm_renju2|足 具
-itm_renju2_pl|足 具
-itm_renju3|忍 具
-itm_renju3_pl|忍 具
-itm_renju4|忍 具
-itm_renju4_pl|忍 具
-
-
-itm_daozeitoujin|盗 贼 头 巾 
-itm_daozeitoujin_pl|盗 贼 头 巾 
-itm_shamolingzhuzhanma|沙 漠 领 主 战 马
-itm_shamolingzhuzhanma_pl|沙 漠 领 主 战 马 
-
-
-itm_mamluke_mail|马 穆 鲁 克 链 甲 
-itm_mamluke_mail_pl|马 穆 鲁 克 链 甲 
-itm_burlap_tunic|麻 布 短 袍 
-itm_burlap_tunic_pl|麻 布 短 袍 
-itm_heraldic_mail_with_surcoat|纹 章 甲 带 外 套 
-itm_heraldic_mail_with_surcoat_pl|纹 章 甲 带 外 套 
-itm_heraldic_mail_with_tunic|纹 章 甲 
-itm_heraldic_mail_with_tunic_pl|纹 章 甲 
-itm_heraldic_mail_with_tunic_b|纹 章 甲 
-itm_heraldic_mail_with_tunic_b_pl|纹 章 甲 
-itm_heraldic_mail_with_tabard|纹 章 甲 带 罩 袍 
-itm_heraldic_mail_with_tabard_pl|纹 章 甲 带 罩 袍 
-itm_turret_hat_ruby|硬 边 女 帽 
-itm_turret_hat_ruby_pl|硬 边 女 帽 
-itm_turret_hat_blue|硬 边 女 帽 
-itm_turret_hat_blue_pl|硬 边 女 帽 
-itm_turret_hat_green|炮 台 帽 
-itm_turret_hat_green_pl|炮 台 帽 
-itm_head_wrappings|包 头 巾 
-itm_head_wrappings_pl|包 头 巾 
-itm_court_hat|硬 边 女 帽 
-itm_court_hat_pl|硬 边 女 帽 
-itm_wimple_a|包 头 巾 
-itm_wimple_a_pl|包 头 巾 
-itm_wimple_with_veil|带 面 纱 头 巾 
-itm_wimple_with_veil_pl|带 面 纱 头 巾 
-itm_straw_hat|草 帽 
-itm_straw_hat_pl|草 帽 
-itm_common_hood|风 帽 
-itm_common_hood_pl|风 帽 
-itm_hood_b|风 帽 
-itm_hood_b_pl|风 帽 
-itm_hood_c|风 帽 
-itm_hood_c_pl|风 帽 
-itm_hood_d|风 帽 
-itm_hood_d_pl|风 帽 
-itm_headcloth|包 头 巾 
-itm_headcloth_pl|包 头 巾 
-itm_woolen_hood|羊 毛 风 帽 
-itm_woolen_hood_pl|羊 毛 风 帽 
-itm_arming_cap|战 士 帽 
-itm_arming_cap_pl|战 士 帽 
-itm_fur_hat|毛 皮 帽 
-itm_fur_hat_pl|毛 皮 帽 
-itm_nomad_cap|游 牧 帽 
-itm_nomad_cap_pl|游 牧 帽 
-itm_nomad_cap_b|游 牧 帽 
-itm_nomad_cap_b_pl|游 牧 帽 
-itm_steppe_cap|草 原 帽 
-itm_steppe_cap_pl|草 原 帽 
-itm_padded_coif|头 肩 巾 
-itm_padded_coif_pl|头 肩 巾 
-itm_woolen_cap|羊 毛 帽 
-itm_woolen_cap_pl|羊 毛 帽 
-itm_felt_hat|毡 帽 
-itm_felt_hat_pl|毡 帽 
-itm_felt_hat_b|毡 帽 
-itm_felt_hat_b_pl|毡 帽 
-itm_leather_cap|皮 帽 
-itm_leather_cap_pl|皮 帽 
-itm_female_hood|女 士 头 巾 
-itm_female_hood_pl|女 士 头 巾 
-itm_leather_steppe_cap_a|草 原 帽 
-itm_leather_steppe_cap_a_pl|草 原 帽 
-itm_leather_steppe_cap_b|草 原 帽 
-itm_leather_steppe_cap_b_pl|草 原 帽 
-itm_leather_steppe_cap_c|草 原 帽 
-itm_leather_steppe_cap_c_pl|草 原 帽 
-itm_leather_warrior_cap|皮 勇 士 帽 
-itm_leather_warrior_cap_pl|皮 勇 士 帽 
-itm_skullcap|无 边 盔 
-itm_skullcap_pl|无 边 盔 
-itm_mail_coif|链 甲 头 肩 巾 
-itm_mail_coif_pl|链 甲 头 肩 巾 
-itm_footman_helmet|步 兵 盔 
-itm_footman_helmet_pl|步 兵 盔 
-itm_nasal_helmet|带 护 鼻 盔 
-itm_nasal_helmet_pl|带 护 鼻 盔 
-itm_norman_helmet|带 帽 头 盔 
-itm_norman_helmet_pl|带 帽 头 盔 
-itm_segmented_helmet|组 合 盔 
-itm_segmented_helmet_pl|组 合 盔 
-itm_helmet_with_neckguard|带 护 颈 头 盔 
-itm_helmet_with_neckguard_pl|带 护 颈 头 盔 
-itm_flat_topped_helmet|平 顶 盔 
-itm_flat_topped_helmet_pl|平 顶 盔 
-itm_kettle_hat|锅 盔 
-itm_kettle_hat_pl|锅 盔 
-itm_spiked_helmet|锥 顶 头 盔 
-itm_spiked_helmet_pl|锥 顶 头 盔 
-itm_nordic_helmet|日 尔 曼 盔 
-itm_nordic_helmet_pl|日 尔 曼 盔 
-itm_khergit_lady_hat|库 吉 特 女 式 帽 
-itm_khergit_lady_hat_pl|库 吉 特 女 式 帽 
-itm_khergit_lady_hat_b|库 吉 特 女 式 皮 帽 
-itm_khergit_lady_hat_b_pl|库 吉 特 女 式 皮 帽 
-itm_sarranid_felt_hat|萨 兰 德 毡 帽 
-itm_sarranid_felt_hat_pl|萨 兰 德 毡 帽 
-itm_turban|头 巾 
-itm_turban_pl|头 巾 
-itm_desert_turban|沙 漠 头 巾 
-itm_desert_turban_pl|沙 漠 头 巾 
-itm_sarranid_warrior_cap|萨 兰 德 勇 士 帽 
-itm_sarranid_warrior_cap_pl|萨 兰 德 勇 士 帽 
-itm_sarranid_horseman_helmet|骑 手 盔 
-itm_sarranid_horseman_helmet_pl|骑 手 盔 
-itm_sarranid_helmet1|萨 兰 德 头 巾 盔 
-itm_sarranid_helmet1_pl|萨 兰 德 头 巾 盔 
-itm_sarranid_mail_coif|萨 兰 德 链 甲 头 肩 巾 
-itm_sarranid_mail_coif_pl|萨 兰 德 链 甲 头 肩 巾 
-itm_sarranid_veiled_helmet|萨 兰 德 遮 面 盔 
-itm_sarranid_veiled_helmet_pl|萨 兰 德 遮 面 盔 
-itm_nordic_archer_helmet|日 耳 曼 皮 盔 
-itm_nordic_archer_helmet_pl|日 耳 曼 皮 盔 
-itm_nordic_veteran_archer_helmet|日 耳 曼 皮 盔 
-itm_nordic_veteran_archer_helmet_pl|日 耳 曼 皮 盔 
-itm_nordic_footman_helmet|日 耳 曼 步 兵 盔 
-itm_nordic_footman_helmet_pl|日 耳 曼 步 兵 盔 
-itm_nordic_fighter_helmet|日 耳 曼 斗 士 盔 
-itm_nordic_fighter_helmet_pl|日 耳 曼 斗 士 盔 
-itm_nordic_huscarl_helmet|日 耳 曼 皇 家 侍 卫 盔 
-itm_nordic_huscarl_helmet_pl|日 耳 曼 皇 家 侍 卫 盔 
-itm_nordic_warlord_helmet|日 耳 曼 战 神 盔 
-itm_nordic_warlord_helmet_pl|日 耳 曼 战 神 盔 
-itm_vaegir_fur_cap|毛 皮 盔 
-itm_vaegir_fur_cap_pl|毛 皮 盔 
-itm_vaegir_fur_helmet|维 基 亚 盔 
-itm_vaegir_fur_helmet_pl|维 基 亚 盔 
-itm_vaegir_spiked_helmet|锥 顶 帽 
-itm_vaegir_spiked_helmet_pl|锥 顶 帽 
-itm_vaegir_lamellar_helmet|鳞 片 护 甲 盔 
-itm_vaegir_lamellar_helmet_pl|鳞 片 护 甲 盔 
-itm_vaegir_noble_helmet|维 基 亚 贵 族 盔 
-itm_vaegir_noble_helmet_pl|维 基 亚 贵 族 盔 
-itm_vaegir_war_helmet|维 基 亚 战 盔 
-itm_vaegir_war_helmet_pl|维 基 亚 战 盔 
-itm_vaegir_mask|维 基 亚 面 具 战 盔 
-itm_vaegir_mask_pl|维 基 亚 面 具 战 盔 
-itm_bascinet|尖 顶 盔 
-itm_bascinet_pl|尖 顶 盔 
-itm_bascinet_2|带 面 罩 尖 顶 盔 
-itm_bascinet_2_pl|带 面 罩 尖 顶 盔 
-itm_bascinet_3|带 护 鼻 尖 顶 盔 
-itm_bascinet_3_pl|带 护 鼻 尖 顶 盔 
-itm_guard_helmet|护 盔 
-itm_guard_helmet_pl|护 盔 
-itm_black_helmet|黑 盔 
-itm_black_helmet_pl|黑 盔 
-itm_full_helm|覆 面 盔 
-itm_full_helm_pl|覆 面 盔 
-itm_great_helmet|巨 盔 
-itm_great_helmet_pl|巨 盔 
-itm_winged_great_helmet|带 翼 巨 盔 
-itm_winged_great_helmet_pl|带 翼 巨 盔 
-itm_wooden_stick|木 枝 
-itm_wooden_stick_pl|木 枝 
-itm_cudgel|短 棍 
-itm_cudgel_pl|短 棍 
-itm_hammer|锤 子 
-itm_hammer_pl|锤 子 
-itm_club|木 棒 
-itm_club_pl|木 棒 
-itm_winged_mace|凸 缘 杖 
-itm_winged_mace_pl|凸 缘 杖 
-itm_spiked_mace|尖 头 杖 
-itm_spiked_mace_pl|尖 头 杖 
-itm_military_hammer|军 用 锤 
-itm_military_hammer_pl|军 用 锤 
-itm_military_hammer2|战 锤 
-itm_military_hammer2_pl|战 锤 
-itm_maul|木 锤 
-itm_maul_pl|木 锤 
-itm_sledgehammer|大 锤 
-itm_sledgehammer_pl|大 锤 
-itm_warhammer|巨 锤 
-itm_warhammer_pl|巨 锤 
-itm_pickaxe|鹤 嘴 锄 
-itm_pickaxe_pl|鹤 嘴 锄 
-itm_spiked_club|尖 头 棒 
-itm_spiked_club_pl|尖 头 棒 
-itm_fighting_pick|格 斗 锄 
-itm_fighting_pick_pl|格 斗 锄 
-itm_military_pick|军 用 锄 
-itm_military_pick_pl|军 用 锄 
-itm_morningstar|钉 头 锤 
-itm_morningstar_pl|钉 头 锤 
-itm_sickle|镰 刀 
-itm_sickle_pl|镰 刀 
-itm_cleaver|菜 刀 
-itm_cleaver_pl|菜 刀 
-itm_knife|小 刀 
-itm_knife_pl|小 刀 
-itm_butchering_knife|屠 宰 刀 
-itm_butchering_knife_pl|屠 宰 刀 
-itm_dagger|匕 首 
-itm_dagger_pl|匕 首 
-itm_dagger2|精 良 匕 首 
-itm_dagger2_pl|精 良 匕 首 
-itm_dagger3|精 锐 匕 首 
-itm_dagger3_pl|精 锐 匕 首 
-itm_dagger4|鱼 肠 剑 
-itm_dagger4_pl|鱼 肠 剑 
-itm_falchion|单 刀 
-itm_falchion_pl|单 刀 
-itm_scimitar|弯 刀 
-itm_scimitar_pl|弯 刀 
-itm_scimitar_b|精 锐 弯 刀 
-itm_scimitar_b_pl|精 锐 弯 刀 
-itm_arabian_sword_a|萨 兰 德 剑 
-itm_arabian_sword_a_pl|萨 兰 德 剑 
-itm_arabian_sword_b|萨 兰 德 战 士 剑 
-itm_arabian_sword_b_pl|萨 兰 德 战 士 剑 
-itm_sarranid_cavalry_sword|萨 兰 德 骑 兵 剑 
-itm_sarranid_cavalry_sword_pl|萨 兰 德 骑 兵 剑 
-itm_arabian_sword_d|萨 兰 德 卫 士 剑 
-itm_arabian_sword_d_pl|萨 兰 德 卫 士 剑 
-itm_great_sword|巨 剑 
-itm_great_sword_pl|巨 剑 
-itm_sword_of_war|战 争 之 剑 
-itm_sword_of_war_pl|战 争 之 剑 
-itm_yinshejian|银 蛇 之 吻 
-itm_yinshejian_pl|银 蛇 之 吻 
-itm_yinshejian2|金 蛇 之 吻 
-itm_yinshejian2_pl|金 蛇 之 吻 
-itm_hatchet|短 斧 
-itm_hatchet_pl|短 斧 
-itm_hand_axe|手 斧 
-itm_hand_axe_pl|手 斧 
-itm_fighting_axe|格 斗 斧 
-itm_fighting_axe_pl|格 斗 斧 
-itm_axe|斧 
-itm_axe_pl|斧 
-itm_voulge|长 柄 砍 刀 
-itm_voulge_pl|长 柄 砍 刀 
-itm_battle_axe|战 斗 斧 
-itm_battle_axe_pl|战 斗 斧 
-itm_war_axe|战 斧 
-itm_war_axe_pl|双 刃 斧 
-itm_sword_two_handed_b|双 手 剑 
-itm_sword_two_handed_b_pl|双 手 剑 
-itm_sword_two_handed_a|巨 剑 
-itm_sword_two_handed_a_pl|巨 剑 
-itm_khergit_sword_two_handed_a|双 手 弯 刀 
-itm_khergit_sword_two_handed_a_pl|双 手 弯 刀 
-itm_khergit_sword_two_handed_b|双 手 弯 刀 
-itm_khergit_sword_two_handed_b_pl|双 手 弯 刀 
-itm_two_handed_cleaver|直 刃 战 刀 
-itm_two_handed_cleaver_pl|直 刃 战 刀 
-itm_military_cleaver_b|直 刃 士 兵 刀 
-itm_military_cleaver_b_pl|直 刃 士 兵 刀 
-itm_military_cleaver_c|直 刃 军 用 刀 
-itm_military_cleaver_c_pl|直 刃 军 用 刀 
-itm_military_sickle_a|军 用 镰 刀 
-itm_military_sickle_a_pl|军 用 镰 刀 
-itm_bastard_sword_a|手 半 剑 
-itm_bastard_sword_a_pl|手 半 剑 
-itm_bastard_sword_b|重 型 手 半 剑 
-itm_bastard_sword_b_pl|重 型 手 半 剑 
-itm_one_handed_war_axe_a|单 手 斧 
-itm_one_handed_war_axe_a_pl|单 手 斧 
-itm_one_handed_battle_axe_a|单 手 战 斗 斧 
-itm_one_handed_battle_axe_a_pl|单 手 战 斗 斧 
-itm_one_handed_war_axe_b|单 手 战 斧 
-itm_one_handed_war_axe_b_pl|单 手 战 斧 
-itm_one_handed_battle_axe_b|单 手 战 斗 斧 
-itm_one_handed_battle_axe_b_pl|单 手 战 斗 斧 
-itm_one_handed_battle_axe_c|单 手 战 斗 斧 
-itm_one_handed_battle_axe_c_pl|单 手 战 斗 斧 
-itm_two_handed_axe|双 手 斧 
-itm_two_handed_axe_pl|双 手 斧 
-itm_two_handed_battle_axe_2|双 手 战 斧 
-itm_two_handed_battle_axe_2_pl|双 手 战 斧 
-itm_shortened_voulge|短 柄 砍 刀 
-itm_shortened_voulge_pl|短 柄 砍 刀 
-itm_great_axe|巨 斧 
-itm_great_axe_pl|巨 斧 
-itm_long_axe|长 斧 
-itm_long_axe_pl|长 斧 
-itm_long_axe_alt|长 斧 
-itm_long_axe_alt_pl|长 斧 
-itm_long_axe_b|长 战 斧 
-itm_long_axe_b_pl|长 战 斧 
-itm_long_axe_b_alt|长 战 斧 
-itm_long_axe_b_alt_pl|长 战 斧 
-itm_long_axe_c|巨 型 长 斧 
-itm_long_axe_c_pl|巨 型 长 斧 
-itm_long_axe_c_alt|巨 型 长 斧 
-itm_long_axe_c_alt_pl|巨 型 长 斧 
-itm_bardiche|月 刃 斧 
-itm_bardiche_pl|月 刃 斧 
-itm_great_bardiche|巨 型 月 刃 斧 
-itm_great_bardiche_pl|巨 型 月 刃 斧 
-itm_long_bardiche|长 月 刃 斧 
-itm_long_bardiche_pl|长 月 刃 斧 
-itm_great_long_bardiche|巨 型 长 月 刃 斧 
-itm_great_long_bardiche_pl|巨 型 长 月 刃 斧 
-itm_hafted_blade_b|偃 月 刀 
-itm_hafted_blade_b_pl|偃 月 刀 
-itm_hafted_blade_a|宽 刃 刀 
-itm_hafted_blade_a_pl|宽 刃 刀 
-itm_shortened_military_scythe|短 柄 军 用 镰 
-itm_shortened_military_scythe_pl|短 柄 军 用 镰 
-itm_sword_medieval_a|剑 
-itm_sword_medieval_a_pl|剑 
-itm_sword_medieval_b|剑 
-itm_sword_medieval_b_pl|剑 
-itm_sword_medieval_b_small|短 剑 
-itm_sword_medieval_b_small_pl|短 剑 
-itm_sword_medieval_c|战 士 剑 
-itm_sword_medieval_c_pl|战 士 剑 
-itm_sword_medieval_c_small|战 士 短 剑 
-itm_sword_medieval_c_small_pl|战 士 短 剑 
-itm_sword_medieval_c_long|战 士 剑 
-itm_sword_medieval_c_long_pl|战 士 剑 
-itm_sword_medieval_d_long|战 士 长 剑 
-itm_sword_medieval_d_long_pl|战 士 长 剑 
-itm_sword_viking_1|日 耳 曼 剑 
-itm_sword_viking_1_pl|日 耳 曼 剑 
-itm_sword_viking_2|日 耳 曼 剑 
-itm_sword_viking_2_pl|日 耳 曼 剑 
-itm_sword_viking_2_small|日 耳 曼 短 剑 
-itm_sword_viking_2_small_pl|日 耳 曼 短 剑 
-itm_sword_viking_3|日 耳 曼 战 剑 
-itm_sword_viking_3_pl|日 耳 曼 战 剑 
-itm_sword_viking_3_small|日 耳 曼 短 战 剑 
-itm_sword_viking_3_small_pl|日 耳 曼 短 战 剑 
-itm_sword_khergit_1|游 牧 弯 刀 
-itm_sword_khergit_1_pl|游 牧 弯 刀 
-itm_sword_khergit_2|弯 刀 
-itm_sword_khergit_2_pl|弯 刀 
-itm_sword_khergit_3|弯 刀 
-itm_sword_khergit_3_pl|弯 刀 
-itm_sword_khergit_4|重 型 弯 刀 
-itm_sword_khergit_4_pl|重 型 弯 刀 
-itm_mace_1|尖 头 棒 
-itm_mace_1_pl|尖 头 棒 
-itm_mace_2|圆 头 杖 
-itm_mace_2_pl|圆 头 杖 
-itm_mace_3|尖 头 杖 
-itm_mace_3_pl|尖 头 杖 
-itm_mace_4|翼 头 杖 
-itm_mace_4_pl|翼 头 杖 
-itm_club_with_spike_head|尖 头 棍 
-itm_club_with_spike_head_pl|尖 头 棍 
-itm_long_spiked_club|长 钉 棒 
-itm_long_spiked_club_pl|长 钉 棒 
-itm_long_hafted_knobbed_mace|长 柄 圆 头 杖 
-itm_long_hafted_knobbed_mace_pl|长 柄 圆 头 杖 
-itm_long_hafted_spiked_mace|长 柄 尖 头 杖 
-itm_long_hafted_spiked_mace_pl|长 柄 尖 头 杖 
-itm_sarranid_two_handed_mace_1|铁 杖 
-itm_sarranid_two_handed_mace_1_pl|铁 杖 
-itm_sarranid_mace_1|铁 杖 
-itm_sarranid_mace_1_pl|铁 杖 
-itm_sarranid_axe_a|铁 战 斗 斧 
-itm_sarranid_axe_a_pl|铁 战 斗 斧 
-itm_sarranid_axe_b|铁 战 斧 
-itm_sarranid_axe_b_pl|铁 战 斧 
-itm_sarranid_two_handed_axe_a|萨 兰 德 战 斗 斧 
-itm_sarranid_two_handed_axe_a_pl|萨 兰 德 战 斗 斧 
-itm_sarranid_two_handed_axe_b|萨 兰 德 战 斧 
-itm_sarranid_two_handed_axe_b_pl|萨 兰 德 战 斧 
-itm_scythe|长 柄 镰 刀 
-itm_scythe_pl|长 柄 镰 刀 
-itm_pitch_fork|耙 子 
-itm_pitch_fork_pl|耙 子 
-itm_military_fork|军 用 叉 
-itm_military_fork_pl|军 用 叉 
-itm_battle_fork|战 斗 叉 
-itm_battle_fork_pl|战 斗 叉 
-itm_boar_spear|尖 矛 
-itm_boar_spear_pl|尖 矛 
-itm_jousting_lance|练 习 骑 枪 
-itm_jousting_lance_pl|练 习 骑 枪 
-itm_double_sided_lance|双 头 骑 枪 
-itm_double_sided_lance_pl|双 头 骑 枪 
-itm_glaive|长 柄 大 刀 
-itm_glaive_pl|长 柄 大 刀 
-itm_poleaxe|长 柄 斧 
-itm_poleaxe_pl|长 柄 斧 
-itm_polehammer|长 柄 锤 
-itm_polehammer_pl|长 柄 锤 
-itm_staff|棍 
-itm_staff_pl|棍 
-itm_staff2|棍 
-itm_staff2_pl|棍 
-itm_quarter_staff|铁 头 棍 
-itm_quarter_staff_pl|铁 头 棍 
-itm_iron_staff|铁 棍 
-itm_iron_staff_pl|铁 棍 
-itm_iron_staff2|军 棍 
-itm_iron_staff2_pl|军 棍 
-itm_iron_staff3|军 棍 · 教 鞭 
-itm_iron_staff3_pl|军 棍 · 教 鞭 
-itm_shortened_spear|短 柄 矛 
-itm_shortened_spear_pl|短 柄 矛 
-itm_spear|矛 
-itm_spear_pl|矛 
-itm_bamboo_spear|竹 矛 
-itm_bamboo_spear_pl|竹 矛 
-itm_war_spear|战 矛 
-itm_war_spear_pl|战 矛 
-itm_military_scythe|军 用 镰 
-itm_military_scythe_pl|军 用 镰 
-itm_light_lance|轻 型 骑 枪 
-itm_light_lance_pl|轻 型 骑 枪 
-itm_lance|骑 枪 
-itm_lance_pl|骑 枪 
-itm_heavy_lance|重 型 骑 枪 
-itm_heavy_lance_pl|重 型 骑 枪 
-itm_great_lance|巨 型 骑 枪 
-itm_great_lance_pl|巨 型 骑 枪 
-itm_great_lance2|精 锐 骑 枪 
-itm_great_lance2_pl|精 锐 骑 枪 
-itm_pike|枪 
-itm_pike_pl|枪 
-itm_chaochangmao1|罗 多 克 长 枪  
-itm_chaochangmao1_pl|罗 多 克 长 枪 
-itm_chaochangmao2|罗 多 克 精 良 长 枪 
-itm_chaochangmao2_pl|罗 多 克 精 良 长 枪 
-itm_chaochangmao3|杀 马 特 长 枪 
-itm_chaochangmao3_pl|杀 马 特 长 枪 
-itm_chaochangmao4|杀 马 特 长 枪 · 云 戈 
-itm_chaochangmao4_pl|杀 马 特 长 枪 · 云 戈 
-itm_ashwood_pike|灰 木 枪 
-itm_ashwood_pike_pl|灰 木 枪 
-itm_awlpike|锥 头 枪 
-itm_awlpike_pl|锥 头 枪 
-itm_awlpike_long|长 锥 头 枪 
-itm_awlpike_long_pl|长 锥 头 枪 
-itm_bec_de_corbin_a|战 锤 
-itm_bec_de_corbin_a_pl|战 锤 
-itm_wooden_shield|木 盾 
-itm_wooden_shield_pl|木 盾 
-itm_nordic_shield|日 尔 曼 盾 
-itm_nordic_shield_pl|日 尔 曼 盾 
-itm_fur_covered_shield|蒙 皮 盾 
-itm_fur_covered_shield_pl|蒙 皮 盾 
-itm_steel_shield|钢 盾 
-itm_steel_shield_pl|钢 盾 
-itm_steel_shield2|火 焰 盾 
-itm_steel_shield2_pl|火 焰 盾 
-itm_plate_covered_round_shield|覆 板 圆 盾 
-itm_plate_covered_round_shield_pl|覆 板 圆 盾 
-itm_leather_covered_round_shield|蒙 皮 圆 盾 
-itm_leather_covered_round_shield_pl|蒙 皮 圆 盾 
-itm_hide_covered_round_shield|兽 皮 圆 盾 
-itm_hide_covered_round_shield_pl|兽 皮 圆 盾 
-itm_shield_heater_c|扇 形 盾 
-itm_shield_heater_c_pl|扇 形 盾 
-itm_norman_shield_1|筝 形 盾 
-itm_norman_shield_1_pl|筝 形 盾 
-itm_norman_shield_2|筝 形 盾 
-itm_norman_shield_2_pl|筝 形 盾 
-itm_norman_shield_3|筝 形 盾 
-itm_norman_shield_3_pl|筝 形 盾 
-itm_norman_shield_4|筝 形 盾 
-itm_norman_shield_4_pl|筝 形 盾 
-itm_norman_shield_5|筝 形 盾 
-itm_norman_shield_5_pl|筝 形 盾 
-itm_norman_shield_6|筝 形 盾 
-itm_norman_shield_6_pl|筝 形 盾 
-itm_norman_shield_7|筝 形 盾 
-itm_norman_shield_7_pl|筝 形 盾 
-itm_norman_shield_8|筝 形 盾 
-itm_norman_shield_8_pl|筝 形 盾 
-itm_tab_shield_round_a2|木 质 锅 盖 
-itm_tab_shield_round_a2_pl|木 质 锅 盖 
-itm_tab_shield_round_a|旧 圆 盾 
-itm_tab_shield_round_a_pl|旧 圆 盾 
-itm_tab_shield_round_b|简 易 圆 盾 
-itm_tab_shield_round_b_pl|简 易 圆 盾 
-itm_tab_shield_round_c|圆 盾 
-itm_tab_shield_round_c_pl|圆 盾 
-itm_tab_shield_round_d|重 型 圆 盾 
-itm_tab_shield_round_d_pl|重 型 圆 盾 
-itm_tab_shield_round_e|皇 家 侍 卫 圆 盾 
-itm_tab_shield_round_e_pl|皇 家 侍 卫 圆 盾 
-itm_tab_shield_kite_a|旧 筝 形 盾 
-itm_tab_shield_kite_a_pl|旧 筝 形 盾 
-itm_tab_shield_kite_b|简 易 筝 形 盾 
-itm_tab_shield_kite_b_pl|简 易 筝 形 盾 
-itm_tab_shield_kite_c|筝 形 盾 
-itm_tab_shield_kite_c_pl|筝 形 盾 
-itm_tab_shield_kite_d|重 型 筝 形 盾 
-itm_tab_shield_kite_d_pl|重 型 筝 形 盾 
-itm_tab_shield_kite_cav_a|骑 手 筝 形 盾 
-itm_tab_shield_kite_cav_a_pl|骑 手 筝 形 盾 
-itm_tab_shield_kite_cav_b|骑 士 筝 形 盾 
-itm_tab_shield_kite_cav_b_pl|骑 士 筝 形 盾 
-itm_tab_shield_heater_a|旧 扇 形 盾 
-itm_tab_shield_heater_a_pl|旧 扇 形 盾 
-itm_tab_shield_heater_b|简 易 扇 形 盾 
-itm_tab_shield_heater_b_pl|简 易 扇 形 盾 
-itm_tab_shield_heater_c|扇 形 盾 
-itm_tab_shield_heater_c_pl|扇 形 盾 
-itm_tab_shield_heater_d|重 扇 形 盾 
-itm_tab_shield_heater_d_pl|重 扇 形 盾 
-itm_tab_shield_heater_cav_a|骑 手 扇 形 盾 
-itm_tab_shield_heater_cav_a_pl|骑 手 扇 形 盾 
-itm_tab_shield_heater_cav_b|骑 士 扇 形 盾 
-itm_tab_shield_heater_cav_b_pl|骑 士 扇 形 盾 
-itm_tab_shield_pavise_a|旧 阔 盾 
-itm_tab_shield_pavise_a_pl|旧 阔 盾 
-itm_tab_shield_pavise_b|平 面 阔 盾 
-itm_tab_shield_pavise_b_pl|平 面 阔 盾 
-itm_tab_shield_pavise_c|阔 盾 
-itm_tab_shield_pavise_c_pl|阔 盾 
-itm_tab_shield_pavise_d|重 型 阔 盾 
-itm_tab_shield_pavise_d_pl|重 型 阔 盾 
-itm_tab_shield_small_round_a|平 面 骑 兵 盾 
-itm_tab_shield_small_round_a_pl|平 面 骑 兵 盾 
-itm_tab_shield_small_round_b|圆 骑 兵 盾 
-itm_tab_shield_small_round_b_pl|圆 骑 兵 盾 
-itm_tab_shield_small_round_c|精 锐 骑 兵 盾 
-itm_tab_shield_small_round_c_pl|精 锐 骑 兵 盾 
-itm_darts|梭 镖 
-itm_darts_pl|梭 镖 
-itm_war_darts|战 镖 
-itm_war_darts_pl|战 镖 
-itm_javelin|标 枪 
-itm_javelin_pl|标 枪 
-itm_javelin_melee|标 枪 
-itm_javelin_melee_pl|标 枪 
-itm_throwing_spears|投 矛 
-itm_throwing_spears_pl|投 矛 
-itm_throwing_spear_melee|投 矛 
-itm_throwing_spear_melee_pl|投 矛 
-itm_jarid|短 标 枪 
-itm_jarid_pl|短 标 枪 
-itm_jarid_melee|短 标 枪 
-itm_jarid_melee_pl|短 标 枪 
-itm_jarid2|精 品 标 枪 
-itm_jarid2_pl|精 品 标 枪 
-itm_jarid_melee2|精 品 标 枪 
-itm_jarid_melee2_pl|精 品 标 枪 
-itm_jarid3|标 枪 · 玫 瑰 
-itm_jarid3_pl|标 枪 · 玫 瑰 
-itm_jarid_melee3|标 枪 · 玫 瑰 
-itm_jarid_melee3_pl|标 枪 · 玫 瑰 
-itm_stones|石 子 
-itm_stones_pl|石 子 
-itm_stones2|没 羽 箭 
-itm_stones2_pl|没 羽 箭 
-itm_stones3|守 城 砸 石 
-itm_stones3_pl|守 城 砸 石 
-itm_stones4|砸 石 
-itm_stones4_pl|砸 石 
-itm_stones5|石 子 · 笔 碳 头 
-itm_stones5_pl|石 子 · 笔 碳 头 
-itm_throwing_knives|飞 刀 
-itm_throwing_knives_pl|飞 刀 
-itm_throwing_daggers|重 飞 刀 
-itm_throwing_daggers_pl|重 飞 刀 
-itm_shoushudao|手 术 刀 · 砭 镰 
-itm_shoushudao_pl|手 术 刀 · 砭 镰 
-itm_shoushudao2|手 术 刀 · 砭 镰 
-itm_shoushudao2_pl|手 术 刀 · 砭 镰 
-itm_light_throwing_axes|轻 型 飞 斧 
-itm_light_throwing_axes_pl|轻 型 飞 斧 
-itm_light_throwing_axes_melee|轻 型 飞 斧 
-itm_light_throwing_axes_melee_pl|轻 型 飞 斧 
-itm_throwing_axes|飞 斧 
-itm_throwing_axes_pl|飞 斧 
-itm_throwing_axes_melee|飞 斧 
-itm_throwing_axes_melee_pl|飞 斧 
-itm_heavy_throwing_axes|重 型 飞 斧 
-itm_heavy_throwing_axes_pl|重 型 飞 斧 
-itm_heavy_throwing_axes_melee|重 型 飞 斧 
-itm_heavy_throwing_axes_melee_pl|重 型 飞 斧 
-itm_heavy_throwing_axes2|精 品 飞 斧 
-itm_heavy_throwing_axes2_pl|精 品 飞 斧 
-itm_heavy_throwing_axes_melee2|精 品 飞 斧 
-itm_heavy_throwing_axes_melee2_pl|精 品 飞 斧 
-itm_heavy_throwing_axes3|玫 花 镖 
-itm_heavy_throwing_axes3_pl|玫 花 镖 
-itm_heavy_throwing_axes_melee3|玫 花 镖 
-itm_heavy_throwing_axes_melee3_pl|玫 花 镖 
-itm_hunting_bow|猎 弓 
-itm_hunting_bow_pl|猎 弓 
-itm_short_bow|短 弓 
-itm_short_bow_pl|短 弓 
-itm_nomad_bow|游 牧 弓 
-itm_nomad_bow_pl|游 牧 弓 
-itm_long_bow|长 弓 
-itm_long_bow_pl|长 弓 
-itm_khergit_bow|库 吉 特 弓 
-itm_khergit_bow_pl|库 吉 特 弓 
-itm_khergit_bow2|精 锐 骑 弓 
-itm_khergit_bow2_pl|精 锐 骑 弓 
-itm_khergit_bow3|汗 王 烈 弓 
-itm_khergit_bow3_pl|汗 王 烈 弓 
-itm_strong_bow|硬 弓 
-itm_strong_bow_pl|硬 弓 
-itm_war_bow|战 弓 
-itm_war_bow_pl|战 弓 
-itm_war_bow3|维 基 亚 战 弓 
-itm_war_bow3_pl|维 基 亚 战 弓 
-itm_war_bow2|仁 慈 之 翼 
-itm_war_bow2_pl|仁 慈 之 翼 
-itm_hunting_crossbow|猎 弩 
-itm_hunting_crossbow_pl|猎 弩 
-itm_light_crossbow|轻 弩 
-itm_light_crossbow_pl|轻 弩 
-itm_light_crossbow2|三 啸 特 制 混 合 弓 
-itm_light_crossbow2_pl|三 啸 特 制 混 合 弓 
-itm_crossbow|连 弩 
-itm_crossbow_pl|连 弩 
-itm_heavy_crossbow|重 连 弩 
-itm_heavy_crossbow_pl|重 连 弩 
-itm_sniper_crossbow|攻 城 连 弩 
-itm_sniper_crossbow_pl|攻 城 连 弩 
-itm_sniper_crossbow2|机 械 连 弩 
-itm_sniper_crossbow2_pl|机 械 连 弩 
-itm_sniper_crossbow3|诸 葛 连 弩 
-itm_sniper_crossbow3_pl|诸 葛 连 弩 
-itm_sniper_crossbow4|重 骑 弩 
-itm_sniper_crossbow4_pl|重 骑 弩 
-itm_sniper_crossbow5|战 姬 弩
-itm_sniper_crossbow5_pl|战 姬 弩 
-itm_flintlock_pistol|燧 石 发 火 手 枪 
-itm_flintlock_pistol_pl|燧 石 发 火 手 枪 
-itm_flintlock_pistol2|晋 阶 燧 石 发 火 枪 
-itm_flintlock_pistol2_pl|晋 阶 燧 石 发 火 枪 
-itm_flintlock_pistol3|燧 石 发 火 连 发 手 枪 
-itm_flintlock_pistol3_pl|燧 石 发 连 发 火 枪 
-itm_flintlock_pistol4|晋 阶 燧 石 发 火 连 发 枪 
-itm_flintlock_pistol4_pl|晋 阶 燧 石 发 火 连 发 枪 
-itm_flintlock_pistol5|手 枪 · 燃 烬 
-itm_flintlock_pistol5_pl|手 枪 · 燃 烬 
-itm_fazhang1|一 阶 法 杖 
-itm_fazhang1_pl|一 阶 法 杖 
-itm_fazhang2|贰 阶 法 杖 
-itm_fazhang2_pl|贰 阶 法 杖 
-itm_fazhang3|叁 阶 法 杖 
-itm_fazhang3_pl|叁 阶 法 杖 
-itm_fazhang4|肆 阶 法 杖 
-itm_fazhang4_pl|肆 阶 法 杖 
-itm_fazhang5|法 杖 · 莫 名 
-itm_fazhang5_pl|法 杖 · 莫 名 
-itm_iron_staff5|法 杖 · 莫 名 
-itm_iron_staff5_pl|法 杖 · 莫 名 
-itm_fazhang12|一 阶 法 杖 （ 近 战 模 式 ）
-itm_fazhang12_pl|一 阶 法 杖 （ 近 战 模 式 ）
-itm_fazhang22|贰 阶 法 杖 （ 近 战 模 式 ）
-itm_fazhang22_pl|贰 阶 法 杖 （ 近 战 模 式 ）
-itm_fazhang32|叁 阶 法 杖 （ 近 战 模 式 ）
-itm_fazhang32_pl|叁 阶 法 杖 （ 近 战 模 式 ）
-itm_fazhang42|肆 阶 法 杖 （ 近 战 模 式 ）
-itm_fazhang42_pl|肆 阶 法 杖 （ 近 战 模 式 ）
-itm_flintlock_pistol0|看 不 懂 的 武 器 
-itm_flintlock_pistol0_pl|看 不 懂 的 武 器 
-itm_torch|火 把 
-itm_torch_pl|火 把 
-itm_lyre|里 拉 琴 
-itm_lyre_pl|里 拉 琴 
-itm_lute|鲁 特 琴 
-itm_lute_pl|鲁 特 琴 
-itm_strange_armor|奇 形 甲 
-itm_strange_armor_pl|奇 形 甲 
-itm_strange_boots|奇 形 靴 
-itm_strange_boots_pl|奇 形 靴 
-itm_strange_helmet|奇 形 盔 
-itm_strange_helmet_pl|奇 形 盔 
-itm_strange_sword|奇 形 刀 
-itm_strange_sword_pl|奇 形 刀 
-itm_strange_great_sword|奇 形 长 刀 
-itm_strange_great_sword_pl|奇 形 长 刀 
-itm_strange_short_sword|奇 形 短 刀 
-itm_strange_short_sword_pl|奇 形 短 刀 
-itm_strange_armor2|精 英 武 士 甲 
-itm_strange_armor2_pl|精 英 武 士 甲 
-itm_strange_boots2|精 英 武 士 靴 
-itm_strange_boots2_pl|精 英 武 士 靴 
-itm_strange_helmet2|精 英 武 士 盔 
-itm_strange_helmet2_pl|精 英 武 士 盔 
-itm_strange_sword2|精 英 武 士 刀 
-itm_strange_sword2_pl|精 英 武 士 刀 
-itm_strange_sword3|战 刃 · 止 水 
-itm_strange_sword3_pl|战 刃 · 止 水 
-itm_strange_great_sword2|精 英 武 士 长 刀 
-itm_strange_great_sword2_pl|精 英 武 士 长 刀 
-itm_strange_great_sword3|长 刃 · 村 雨 
-itm_strange_great_sword3_pl|长 刃 · 村 雨 
-itm_strange_short_sword2|精 英 武 士 短 刀 
-itm_strange_short_sword2_pl|精 英 武 士 短 刀 
-itm_strange_short_sword3|短 刃 · 雪 妖  
-itm_strange_short_sword3_pl|短 刃 · 雪 妖 
-itm_court_dress|侍 女 裙 
-itm_court_dress_pl|侍 女 裙 
-itm_rich_outfit|华 服 
-itm_rich_outfit_pl|华 服 
-itm_khergit_guard_armor|库 吉 特 护 甲 
-itm_khergit_guard_armor_pl|库 吉 特 护 甲 
-itm_felt_steppe_cap|草 原 带 沿 帽 
-itm_felt_steppe_cap_pl|草 原 带 沿 帽 
-itm_khergit_war_helmet|库 吉 特 战 盔 
-itm_khergit_war_helmet_pl|库 吉 特 战 盔 
-itm_khergit_helmet|库 吉 特 盔 
-itm_khergit_helmet_pl|库 吉 特 盔 
-itm_khergit_guard_boots|库 吉 特 护 靴 
-itm_khergit_guard_boots_pl|库 吉 特 护 靴 
-itm_khergit_guard_helmet|库 吉 特 护 盔 
-itm_khergit_guard_helmet_pl|库 吉 特 护 盔 
-itm_khergit_cavalry_helmet|库 吉 特 骑 盔 
-itm_khergit_cavalry_helmet_pl|库 吉 特 骑 盔 
-itm_black_hood|黑 风 帽 
-itm_black_hood_pl|黑 风 帽 
-itm_light_leather|轻 皮 甲 
-itm_light_leather_pl|轻 皮 甲 
-itm_light_leather_boots|轻 皮 靴 
-itm_light_leather_boots_pl|轻 皮 靴 
-itm_mail_and_plate|链 板 复 合 甲 
-itm_mail_and_plate_pl|链 板 复 合 甲 
-itm_light_mail_and_plate|轻 链 板 复 合 甲 
-itm_light_mail_and_plate_pl|轻 链 板 复 合 甲 
-itm_light_mail_and_plate2|火 精 灵 战 甲 
-itm_light_mail_and_plate2_pl|火 精 灵 战 甲 
-itm_byzantion_helmet_a|拜 占 庭 盔 
-itm_byzantion_helmet_a_pl|拜 占 庭 盔 
-itm_magyar_helmet_a|马 扎 尔 盔 
-itm_magyar_helmet_a_pl|马 扎 尔 盔 
-itm_rus_helmet_a|钢 盔 
-itm_rus_helmet_a_pl|钢 盔 
-itm_sipahi_helmet_a|西 帕 希 盔 
-itm_sipahi_helmet_a_pl|西 帕 希 盔 
-itm_shahi|萨 希 
-itm_shahi_pl|萨 希 
-itm_rabati|拉 巴 特 
-itm_rabati_pl|拉 巴 特 
-itm_tunic_with_green_cape|绿 色 带 披 风 短 袍 
-itm_tunic_with_green_cape_pl|绿 色 带 披 风 短 袍 
-itm_keys|钥 匙 串 
-itm_keys_pl|钥 匙 串 
-itm_bride_dress|新 娘 装 
-itm_bride_dress_pl|新 娘 装 
-itm_bride_crown|花 冠 
-itm_bride_crown_pl|花 冠 
-itm_bride_shoes|新 娘 鞋 
-itm_bride_shoes_pl|新 娘 鞋 
-itm_practice_bow_2|练 习 弓 
-itm_practice_bow_2_pl|练 习 弓 
-itm_practice_arrows_2|练 习 箭 
-itm_practice_arrows_2_pl|练 习 箭 
-itm_plate_boots|板 甲 靴 
-itm_plate_boots_pl|板 甲 靴 
-itm_mail_boots_for_tableau|链 甲 靴 
-itm_mail_boots_for_tableau_pl|链 甲 靴 
-itm_warhorse_sarranid|萨 兰 德 军 马 
-itm_warhorse_sarranid_pl|萨 兰 德 军 马 
-itm_warhorse_steppe|草 原 战 马 
-itm_warhorse_steppe_pl|草 原 战 马 
-itm_warhorse_steppe2|蒙 古 飞 鹰 
-itm_warhorse_steppe2_pl|蒙 古 飞 鹰 
-itm_langyabang|狼 牙 棒 
-itm_langyabang_pl|狼 牙 棒 
-itm_langyabang2|狼 牙 棒 · 暴 雪 
-itm_langyabang2_pl|狼 牙 棒 · 暴 雪 
-itm_emojia|魔 兽 
-itm_emojia_pl|魔 兽 
-itm_emojia2|魔 兽 战 士 
-itm_emojia2_pl|魔 兽 战 士 
-itm_emojia3|魔 兽 战 将 
-itm_emojia3_pl|魔 兽 战 将  
-itm_emojia4|魔 兽 领 主 
-itm_emojia4_pl|魔 兽 领 主 
-itm_mujlgong|魔 手 
-itm_mujlgong_pl|魔 手 
-itm_mujlgong2|魔 手 
-itm_mujlgong2_pl|魔 手 
-itm_emodun|魔 手 盾 
-itm_emodun_pl|魔 手 盾 
-itm_mujljian|精 灵 法 力 
-itm_mujljian_pl|精 灵 法 力 
-itm_gold_tourney_armor2|土 精 灵 甲 
-itm_wangzhezhiren|魂 之 · 挽 歌 
-itm_kafeigong|将 军 角 弓 
-itm_kafeigong_pl|将 军 角 弓 
-itm_kafeijian|铁 脊 箭 
-itm_kafeijian_pl|铁 脊 箭 
-itm_kafeidun|龙 城 盾 
-itm_kafeidun_pl|龙 城 盾 
-itm_kafeichangjian|将 军 剑 
-itm_kafeichangjian_pl|将 军 剑 
-itm_kafeima|名 驹 · 大 黄 蜂 
-itm_kafeima_pl|名 驹 · 大 黄 蜂 
-itm_kafeijia|将 军 甲 
-itm_kafeijia_pl|将 军 甲 
-itm_kafeitou|将 军 胄 
-itm_kafeitou_pl|将 军 胄 
-itm_kafeijiangjunjia|护 领 玄 铁 甲 
-itm_kafeijiangjunjia_pl|护 领 玄 铁 甲 
-itm_kafeijiangjuntou|玄 铁 胄 
-itm_kafeijiangjuntou_pl|玄 铁 胄 
-itm_kafeiqinweijia|铁 甲 
-itm_kafeiqinweijia_pl|铁 甲 
-itm_kafeiqinweitou|铁 胄 
-itm_kafeiqinweitou_pl|铁 胄 
-itm_kafeizhuisuizhejia|轻 铁 甲 
-itm_kafeizhuisuizhejia_pl|轻 铁 甲 
-itm_kafeizhuisuizhejia|轻 铁 甲 
-itm_kafeizhuisuizhejia_pl|轻 铁 甲 
-itm_shennvtou|圣 女 头 
-itm_shennvtou_pl|圣 女 头 
-itm_shennvshengti|圣 女 甲 
-itm_shennvshengti_pl|圣 女 甲 
-itm_items_end|Items End 
-itm_items_end_pl|Items End 
+﻿lockitver|DO NOT DELETE THIS LINE! 2896
+itm_no_item|OBJET INVALIDE
+itm_no_item_pl|OBJETS INVALIDES
+itm_tutorial_spear|Épieu
+itm_tutorial_spear_pl|Épieux
+itm_tutorial_club|Gourdin
+itm_tutorial_club_pl|Gourdins
+itm_tutorial_battle_axe|Hache de combat
+itm_tutorial_battle_axe_pl|Haches de combat
+itm_tutorial_arrows|Flèches 
+itm_tutorial_arrows_pl|Flèches 
+itm_tutorial_bolts|Carreaux 
+itm_tutorial_bolts_pl|Carreaux 
+itm_tutorial_short_bow|Arc court 
+itm_tutorial_short_bow_pl|Arcs courts
+itm_tutorial_crossbow|Arbalète 
+itm_tutorial_crossbow_pl|Arbalètes
+itm_tutorial_throwing_daggers|Dagues de jet 
+itm_tutorial_throwing_daggers_pl|Dagues de jet 
+itm_tutorial_saddle_horse|Cheval de selle
+itm_tutorial_saddle_horse_pl|Chevaux de selle
+itm_tutorial_shield|Grand écu
+itm_tutorial_shield_pl|Grands écus
+itm_tutorial_staff_no_attack|Bâton
+itm_tutorial_staff_no_attack_pl|Bâtons
+itm_tutorial_staff|Bâton
+itm_tutorial_staff_pl|Bâtons
+itm_tutorial_sword|Épée
+itm_tutorial_sword_pl|Épées
+itm_tutorial_axe|Hache 
+itm_tutorial_axe_pl|Haches
+itm_tutorial_dagger|Dague
+itm_tutorial_dagger_pl|Dagues
+itm_horse_meat|Viande de cheval
+itm_horse_meat_pl|Viandes de cheval
+itm_practice_sword|Épée d'entraînement
+itm_practice_sword_pl|Épées d'entraînement
+itm_heavy_practice_sword|Épée lourde d'entraînement 
+itm_heavy_practice_sword_pl|Épées lourdes d'entraînement 
+itm_practice_dagger|Dague d'entraînement
+itm_practice_dagger_pl|Dagues d'entraînement
+itm_practice_axe|Hache d'entraînement
+itm_practice_axe_pl|Haches d'entraînement
+itm_arena_axe|Hache 
+itm_arena_axe_pl|Haches 
+itm_arena_sword|Épée
+itm_arena_sword_pl|Épées
+itm_arena_sword_two_handed|Épée à deux mains
+itm_arena_sword_two_handed_pl|Épées à deux mains
+itm_arena_lance|Lance
+itm_arena_lance_pl|Lances
+itm_practice_staff|Bâton d'entraînement
+itm_practice_staff_pl|Bâtons d'entraînement
+itm_practice_lance|Lance d'entraînement
+itm_practice_lance_pl|Lances d'entraînement
+itm_practice_shield|Bouclier d'entraînement
+itm_practice_shield_pl|Boucliers d'entraînement
+itm_practice_bow|Arc d'entraînement 
+itm_practice_bow_pl|Arcs d'entraînement 
+itm_practice_crossbow|Arbalète d'entraînement
+itm_practice_crossbow_pl|Arbalètes d'entraînement
+itm_practice_javelin|Javelot d'entraînement
+itm_practice_javelin_pl|Javelots d'entraînement
+itm_practice_javelin_melee|Javeline d'entraînement
+itm_practice_javelin_melee_pl|Javelines d'entraînement
+itm_practice_throwing_daggers|Dagues de jet 
+itm_practice_throwing_daggers_pl|Dagues de jet 
+itm_practice_throwing_daggers_100_amount|Dagues de jet 
+itm_practice_throwing_daggers_100_amount_pl|Dagues de jet 
+itm_practice_horse|Cheval d'entraînement
+itm_practice_horse_pl|Chevaux d'entraînement
+itm_practice_arrows|Flèches d'entraînement
+itm_practice_arrows_pl|Flèches d'entraînement
+itm_practice_bolts|Carreaux d'entraînement
+itm_practice_bolts_pl|Carreaux d'entraînement
+itm_practice_arrows_10_amount|Flèches d'entraînement
+itm_practice_arrows_10_amount_pl|Flèches d'entraînement
+itm_practice_arrows_100_amount|Flèches d'entraînement
+itm_practice_arrows_100_amount_pl|Flèches d'entraînement
+itm_practice_bolts_9_amount|Carreaux d'entraînement
+itm_practice_bolts_9_amount_pl|Carreaux d'entraînement
+itm_practice_boots|Bottes d'entraînement
+itm_practice_boots_pl|Bottes d'entraînement
+itm_red_tourney_armor|Armure de tournoi rouge
+itm_red_tourney_armor_pl|Armures de tournoi rouges
+itm_blue_tourney_armor|Armure de tournoi bleue
+itm_blue_tourney_armor_pl|Armures de tournoi bleues
+itm_green_tourney_armor|Armure de tournoi verte
+itm_green_tourney_armor_pl|Armures de tournoi vertes
+itm_gold_tourney_armor|Armure de tournoi dorée
+itm_gold_tourney_armor_pl|Armures de tournoi dorées
+itm_red_tourney_helmet|Heaume de tournoi rouge
+itm_red_tourney_helmet_pl|Heaumes de tournoi rouges
+itm_blue_tourney_helmet|Heaume de tournoi bleu
+itm_blue_tourney_helmet_pl|Heaumes de tournoi bleus
+itm_green_tourney_helmet|Heaume de tournoi vert
+itm_green_tourney_helmet_pl|Heaumes de tournoi verts
+itm_gold_tourney_helmet|Heaume de tournoi doré
+itm_gold_tourney_helmet_pl|Heaumes de tournoi dorés
+itm_arena_shield_red|Bouclier
+itm_arena_shield_red_pl|Boucliers
+itm_arena_shield_blue|Bouclier
+itm_arena_shield_blue_pl|Boucliers
+itm_arena_shield_green|Bouclier
+itm_arena_shield_green_pl|Boucliers
+itm_arena_shield_yellow|Bouclier
+itm_arena_shield_yellow_pl|Boucliers
+itm_arena_armor_white|Armure de gladiateur blanche
+itm_arena_armor_white_pl|Armures de gladiateur blanches
+itm_arena_armor_red|Armure de gladiateur rouge
+itm_arena_armor_red_pl|Armures de gladiateur rouges
+itm_arena_armor_blue|Armure de gladiateur bleue
+itm_arena_armor_blue_pl|Armures de gladiateur bleues
+itm_arena_armor_green|Armure de galdiateur verte
+itm_arena_armor_green_pl|Armures de gladiateur vertes
+itm_arena_armor_yellow|Armure de gladiateur jaune
+itm_arena_armor_yellow_pl|Armures de gladiateur jaunes
+itm_arena_tunic_white|Tunique de gladiateur blanche
+itm_arena_tunic_white_pl|Tuniques de gladiateur blanches
+itm_arena_tunic_red|Tunique de gladiateur rouge
+itm_arena_tunic_red_pl|Tuniques de gladiateur rouges
+itm_arena_tunic_blue|Tunique de gladiateur bleue
+itm_arena_tunic_blue_pl|Tuniques de gladiateur bleues
+itm_arena_tunic_green|Tunique de gladiateur verte
+itm_arena_tunic_green_pl|Tuniques de gladiateur vertes
+itm_arena_tunic_yellow|Tunique de gladiateur jaune
+itm_arena_tunic_yellow_pl|Tuniques de gladiateur jaunes
+itm_arena_helmet_red|Heaume de gladiateur rouge
+itm_arena_helmet_red_pl|Heaumes de gladiateur rouges
+itm_arena_helmet_blue|Heaume de gladiateur bleu
+itm_arena_helmet_blue_pl|Heaumes de gladiateur bleus
+itm_arena_helmet_green|Heaume de gladiateur vert
+itm_arena_helmet_green_pl|Heaumes de gladiateur verts
+itm_arena_helmet_yellow|Heaume de gladiateur jaune
+itm_arena_helmet_yellow_pl|Heaumes de gladiateur jaunes
+itm_steppe_helmet_white|Heaume des steppes blanc
+itm_steppe_helmet_white_pl|Heaumes des steppes blancs
+itm_steppe_helmet_red|Heaume des steppes rouge
+itm_steppe_helmet_red_pl|Heaumes des steppes rouges
+itm_steppe_helmet_blue|Heaume des steppes bleu
+itm_steppe_helmet_blue_pl|Heaumes des steppes bleus
+itm_steppe_helmet_green|Heaume des steppes vert
+itm_steppe_helmet_green_pl|Heaumes des steppes verts
+itm_steppe_helmet_yellow|Heaume des steppes jaune
+itm_steppe_helmet_yellow_pl|Heaumes des steppes jaunes
+itm_tourney_helm_white|Casque de tournoi blanc
+itm_tourney_helm_white_pl|Casques de tournoi blancs
+itm_tourney_helm_red|Casque de tournoi rouge
+itm_tourney_helm_red_pl|Casques de tournoi rouges
+itm_tourney_helm_blue|Casque de tournoi bleu
+itm_tourney_helm_blue_pl|Casques de tournoi bleus
+itm_tourney_helm_green|Casque de tournoi vert
+itm_tourney_helm_green_pl|Casques de tournoi verts
+itm_tourney_helm_yellow|Casque de tournoi jaune
+itm_tourney_helm_yellow_pl|Casques de tournoi jaunes
+itm_arena_turban_red|Turban de l'arène
+itm_arena_turban_red_pl|Turbans de l'arène
+itm_arena_turban_blue|Turban de l'arène
+itm_arena_turban_blue_pl|Turbans de l'arène
+itm_arena_turban_green|Turban de l'arène
+itm_arena_turban_green_pl|Turbans de l'arène
+itm_arena_turban_yellow|Turban de l'arène
+itm_arena_turban_yellow_pl|Turbans de l'arène
+itm_book_tactics|De Re Militari
+itm_book_tactics_pl|De Re Militari
+itm_book_persuasion|La Rhéthorique à Herennius
+itm_book_persuasion_pl|La Rhéthorique à Herennius
+itm_book_leadership|La Vie d'Alixenus le Grand
+itm_book_leadership_pl|La Vie d'Alixenus le Grand
+itm_book_intelligence|Essais sur la Logique 
+itm_book_intelligence_pl|Essais sur la Logique 
+itm_book_trade|Un Traité sur la Valeur des Choses
+itm_book_trade_pl|Un Traité sur la Valeur des Choses
+itm_book_weapon_mastery|Sur l'Art de Combattre avec des Épées
+itm_book_weapon_mastery_pl|Sur l'Art de Combattre avec des Épées
+itm_book_engineering|Méthode des Théorèmes Mécaniques
+itm_book_engineering_pl|Méthode des Théorèmes Mécaniques
+itm_book_wound_treatment_reference|Le Livre de la Guérison
+itm_book_wound_treatment_reference_pl|Le Livre de la Guérison
+itm_book_training_reference|Manuel d'Armes
+itm_book_training_reference_pl|Manuel d'Armes
+itm_book_surgery_reference|Le Grand Livre de la Chirurgie 
+itm_book_surgery_reference_pl|Le Grand Livre de la Chirurgie 
+itm_spice|Épice
+itm_spice_pl|Épices
+itm_salt|Sel
+itm_salt_pl|Sels
+itm_oil|Huile
+itm_oil_pl|Huiles
+itm_pottery|Poterie
+itm_pottery_pl|Poteries
+itm_raw_flax|Botte de lin
+itm_raw_flax_pl|Bottes de lin
+itm_linen|Lin
+itm_linen_pl|Lins
+itm_wool|Laine
+itm_wool_pl|Laines
+itm_wool_cloth|Tissu de laine
+itm_wool_cloth_pl|Tissus de laine
+itm_raw_silk|Soie brute
+itm_raw_silk_pl|Soie brute
+itm_raw_dyes|Teinture
+itm_raw_dyes_pl|Teintures
+itm_velvet|Velours
+itm_velvet_pl|Velours
+itm_iron|Fer 
+itm_iron_pl|Fers
+itm_tools|Outils
+itm_tools_pl|Outils
+itm_raw_leather|Peau
+itm_raw_leather_pl|Peaux
+itm_leatherwork|Atelier de cuir
+itm_leatherwork_pl|Ateliers de cuir
+itm_raw_date_fruit|Datte
+itm_raw_date_fruit_pl|Dattes
+itm_furs|Fourrures 
+itm_furs_pl|Fourrures 
+itm_wine|Vin
+itm_wine_pl|Vins
+itm_ale|Bière 
+itm_ale_pl|Bières
+itm_smoked_fish|Poisson fumé 
+itm_smoked_fish_pl|Poissons fumés
+itm_cheese|Fromage
+itm_cheese_pl|Fromages
+itm_honey|Miel 
+itm_honey_pl|Miels
+itm_sausages|Saucisses
+itm_sausages_pl|Saussices
+itm_cabbages|Chou
+itm_cabbages_pl|Choux
+itm_dried_meat|Viande séchée 
+itm_dried_meat_pl|Viandes séchées
+itm_apples|Fruit
+itm_apples_pl|Fruits
+itm_raw_grapes|Raisin
+itm_raw_grapes_pl|Raisin
+itm_raw_olives|Olive
+itm_raw_olives_pl|Olives
+itm_grain|Céréale
+itm_grain_pl|Céréales
+itm_cattle_meat|Bœuf
+itm_cattle_meat_pl|Bœufs
+itm_bread|Pain
+itm_bread_pl|Pains
+itm_chicken|Poulet 
+itm_chicken_pl|Poulets
+itm_pork|Porc
+itm_pork_pl|Porcs
+itm_butter|Beurre
+itm_butter_pl|Beurres
+itm_siege_supply|Provisions
+itm_siege_supply_pl|Provisions
+itm_quest_wine|Vin
+itm_quest_wine_pl|Vins
+itm_quest_ale|Bière 
+itm_quest_ale_pl|Bières
+itm_sumpter_horse|Cheval de somme
+itm_sumpter_horse_pl|Chevaux de somme
+itm_saddle_horse|Cheval de selle
+itm_saddle_horse_pl|Chevaux de selle
+itm_steppe_horse|Cheval des steppes
+itm_steppe_horse_pl|Chevaux des steppes
+itm_arabian_horse_a|Cheval du désert
+itm_arabian_horse_a_pl|Chevaux du désert
+itm_courser|Coursier
+itm_courser_pl|Coursiers
+itm_arabian_horse_b|Cheval sarranide
+itm_arabian_horse_b_pl|Chevaux sarranides
+itm_hunter|Cheval de chasse 
+itm_hunter_pl|Chevaux de chasse 
+itm_warhorse|Cheval de guerre 
+itm_warhorse_pl|Chevaux de guerre 
+itm_charger|Cheval de bataille 
+itm_charger_pl|Chevaux de bataille 
+itm_arrows|Flèches 
+itm_arrows_pl|Flèches 
+itm_khergit_arrows|Flèches khergits
+itm_khergit_arrows_pl|Flèches khergits
+itm_barbed_arrows|Flèches barbelées 
+itm_barbed_arrows_pl|Flèches barbelées 
+itm_bodkin_arrows|Flèches perçantes 
+itm_bodkin_arrows_pl|Flèches perçantes 
+itm_bolts|Carreaux 
+itm_bolts_pl|Carreaux 
+itm_steel_bolts|Carreaux de fer
+itm_steel_bolts_pl|Carreaux de fer
+itm_cartridges|Cartouches
+itm_cartridges_pl|Cartouches
+itm_pilgrim_disguise|Déguisement de pélerin
+itm_pilgrim_disguise_pl|Déguisements de pélerin
+itm_pilgrim_hood|Capuchon de pélerin
+itm_pilgrim_hood_pl|Capuchons de pélerin
+itm_leather_gloves|Gants en cuir 
+itm_leather_gloves_pl|Gants en cuir 
+itm_mail_mittens|Mitaines de mailles
+itm_mail_mittens_pl|Mitaines de mailles
+itm_scale_gauntlets|Gantelets d'écailles
+itm_scale_gauntlets_pl|Gantelets d'écailles
+itm_lamellar_gauntlets|Gantelet lamellaire
+itm_lamellar_gauntlets_pl|Gantelets lamellaires
+itm_gauntlets|Gantelets
+itm_gauntlets_pl|Gantelets 
+itm_wrapping_boots|Bandes molletières
+itm_wrapping_boots_pl|Bandes molletières
+itm_woolen_hose|Bas de laine
+itm_woolen_hose_pl|Bas de laine
+itm_blue_hose|Bas bleu
+itm_blue_hose_pl|Bas bleus
+itm_hunter_boots|Botte de chasse
+itm_hunter_boots_pl|Bottes de chasse
+itm_hide_boots|Bottes en peau
+itm_hide_boots_pl|Bottes en peau
+itm_ankle_boots|Bottines 
+itm_ankle_boots_pl|Bottines 
+itm_nomad_boots|Bottes de nomade
+itm_nomad_boots_pl|Bottes de nomade
+itm_leather_boots|Bottes de cuir 
+itm_leather_boots_pl|Bottes de cuir 
+itm_splinted_leather_greaves|Grèves lamellaires en cuir 
+itm_splinted_leather_greaves_pl|Grèves lamellaires en cuir 
+itm_mail_chausses|Chausses de mailles 
+itm_mail_chausses_pl|Chausses de mailles 
+itm_splinted_greaves|Grèves lamellaires 
+itm_splinted_greaves_pl|Grèves lamellaires 
+itm_mail_boots|Bottes de mailles 
+itm_mail_boots_pl|Bottes de mailles 
+itm_iron_greaves|Grèves en fer 
+itm_iron_greaves_pl|Grèves en fer 
+itm_black_greaves|Grèves noires
+itm_black_greaves_pl|Grèves noires
+itm_khergit_leather_boots|Bottes de cuir khergits
+itm_khergit_leather_boots_pl|Bottes de cuir khergits
+itm_sarranid_boots_a|Chaussures sarranides
+itm_sarranid_boots_a_pl|Chaussures sarranides
+itm_sarranid_boots_b|Bottes de cuir sarranides
+itm_sarranid_boots_b_pl|Bottes de cuir sarranides
+itm_sarranid_boots_c|Bottes en plaques
+itm_sarranid_boots_c_pl|Bottes en plaques
+itm_sarranid_boots_d|Bottes de mailles sarranides
+itm_sarranid_boots_d_pl|Bottes de mailles sarranides
+itm_sarranid_head_cloth|Turban de femme
+itm_sarranid_head_cloth_pl|Turbans de femmes
+itm_sarranid_head_cloth_b|Turban de femme
+itm_sarranid_head_cloth_b_pl|Turbans de femmes
+itm_sarranid_felt_head_cloth|Turban
+itm_sarranid_felt_head_cloth_pl|Turbans
+itm_sarranid_felt_head_cloth_b|Turban
+itm_sarranid_felt_head_cloth_b_pl|Turbans
+itm_lady_dress_ruby|Robe de dame
+itm_lady_dress_ruby_pl|Robes de dame
+itm_lady_dress_green|Robe de dame
+itm_lady_dress_green_pl|Robes de dame
+itm_lady_dress_blue|Robe de dame
+itm_lady_dress_blue_pl|Robes de dame
+itm_red_dress|Robe rouge
+itm_red_dress_pl|Robes rouges
+itm_brown_dress|Robe marron
+itm_brown_dress_pl|Robes marron
+itm_green_dress|Robe verte
+itm_green_dress_pl|Robes vertes
+itm_khergit_lady_dress|Robe pour femme khergit
+itm_khergit_lady_dress_pl|Robes pour femme khergit
+itm_khergit_lady_dress_b|Robe de femme khergit en cuir
+itm_khergit_lady_dress_b_pl|Robes de femmes khergits en cuir
+itm_sarranid_lady_dress|Robe de femme sarranide
+itm_sarranid_lady_dress_pl|Robes de femmes sarranides
+itm_sarranid_lady_dress_b|Robe de femme sarranide
+itm_sarranid_lady_dress_b_pl|Robes de femmes sarranides
+itm_sarranid_common_dress|Robe sarranide
+itm_sarranid_common_dress_pl|Robes sarranides
+itm_sarranid_common_dress_b|Robe sarranide
+itm_sarranid_common_dress_b_pl|Robes sarranides
+itm_courtly_outfit|Tenue élégante
+itm_courtly_outfit_pl|Tenues élégantes
+itm_nobleman_outfit|Tenue de noble
+itm_nobleman_outfit_pl|Tenues de noble
+itm_nomad_armor|Armure de nomade
+itm_nomad_armor_pl|Armures de nomade
+itm_khergit_armor|Armure khergit
+itm_khergit_armor_pl|Armures khergits
+itm_leather_jacket|Pourpoint en cuir 
+itm_leather_jacket_pl|Pourpoints en cuir 
+itm_rawhide_coat|Manteau de cuir brut
+itm_rawhide_coat_pl|Manteaux de cuir brut
+itm_leather_armor|Armure en cuir 
+itm_leather_armor_pl|Armures en cuir 
+itm_fur_coat|Manteau de fourrure 
+itm_fur_coat_pl|Manteaux de fourrure 
+itm_coat|Manteau
+itm_coat_pl|Manteaux
+itm_leather_coat|Manteau de cuir 
+itm_leather_coat_pl|Manteaux de cuir
+itm_mail_coat|Cotte de mailles
+itm_mail_coat_pl|Cottes de mailles
+itm_long_mail_coat|Longue cotte de mailles
+itm_long_mail_coat_pl|Longues cottes de mailles
+itm_sleeveless_mail_coat|Cotte de mailles sans manches 
+itm_sleeveless_mail_coat_pl|Cottes de mailles sans manches 
+itm_sleeveless_coat|Manteau sans manches
+itm_sleeveless_coat_pl|Manteaux sans manches
+itm_hide_coat|Manteau en peau
+itm_hide_coat_pl|Manteaux en peau
+itm_merchant_outfit|Tenue de marchand
+itm_merchant_outfit_pl|Tenues de marchand
+itm_homespun_dress|Robe filée à la main 
+itm_homespun_dress_pl|Robes filées à la main 
+itm_thick_coat|Manteau épais
+itm_thick_coat_pl|Manteaux épais
+itm_coat_with_cape|Manteau avec cape 
+itm_coat_with_cape_pl|Manteaux avec cape 
+itm_steppe_outfit|Tenue des steppes 
+itm_steppe_outfit_pl|Tenues des steppes 
+itm_nordic_outfit|Tenue nordique 
+itm_nordic_outfit_pl|Tenues nordiques
+itm_nordic_armor|Armure nordique
+itm_nordic_armor_pl|Armures nordiques
+itm_hide_armor|Armure en peau
+itm_hide_armor_pl|Armures en peau
+itm_cloaked_tunic|Tunique drapée
+itm_cloaked_tunic_pl|Tuniques drapées
+itm_sleeveless_tunic|Tunique sans manches
+itm_sleeveless_tunic_pl|Tuniques sans manches
+itm_sleeveless_leather_tunic|Tunique de cuir sans manches
+itm_sleeveless_leather_tunic_pl|Tuniques de cuir sans manches
+itm_linen_shirt|Chemise de lin 
+itm_linen_shirt_pl|Chemises de lin 
+itm_wool_coat|Manteau en laine 
+itm_wool_coat_pl|Manteaux en laine 
+itm_dress|Robe
+itm_dress_pl|Robes
+itm_blue_dress|Robe bleue
+itm_blue_dress_pl|Robes bleues
+itm_peasant_dress|Robe de paysanne
+itm_peasant_dress_pl|Robes de paysanne
+itm_woolen_dress|Robe en laine 
+itm_woolen_dress_pl|Robes en laine 
+itm_shirt|Chemise 
+itm_shirt_pl|Chemises
+itm_linen_tunic|Tunique de lin
+itm_linen_tunic_pl|Tuniques de lin
+itm_short_tunic|Tunique verte
+itm_short_tunic_pl|Tuniques vertes
+itm_red_shirt|Chemise rouge
+itm_red_shirt_pl|Chemises rouges
+itm_red_tunic|Tunique rouge
+itm_red_tunic_pl|Tuniques rouges
+itm_green_tunic|Tunique verte
+itm_green_tunic_pl|Tuniques vertes
+itm_blue_tunic|Tunique bleue
+itm_blue_tunic_pl|Tuniques bleues
+itm_robe|Robe
+itm_robe_pl|Robes
+itm_coarse_tunic|Tunique avec gilet
+itm_coarse_tunic_pl|Tuniques avec gilet
+itm_leather_apron|Tablier de cuir
+itm_leather_apron_pl|Tabliers de cuir
+itm_tabard|Tabard
+itm_tabard_pl|Tabards
+itm_leather_vest|Gilet en cuir 
+itm_leather_vest_pl|Gilets en cuir 
+itm_steppe_armor|Armure des steppes
+itm_steppe_armor_pl|Armures des steppes
+itm_gambeson|Gambison
+itm_gambeson_pl|Gambisons
+itm_blue_gambeson|Gambison bleu
+itm_blue_gambeson_pl|Gambisons bleus
+itm_red_gambeson|Gambison rouge
+itm_red_gambeson_pl|Gambisons rouges
+itm_padded_cloth|Jaque
+itm_padded_cloth_pl|Jaques
+itm_aketon_green|Vêtement matelassé
+itm_aketon_green_pl|Vêtements matelassés
+itm_leather_jerkin|Broigne de cuir
+itm_leather_jerkin_pl|Broignes de cuir
+itm_nomad_vest|Gilet de nomade
+itm_nomad_vest_pl|Gilets de nomade
+itm_ragged_outfit|Haillon
+itm_ragged_outfit_pl|Haillons
+itm_padded_leather|Cuir matelassé
+itm_padded_leather_pl|Cuirs matelassés
+itm_tribal_warrior_outfit|Tenue de guerrier tribal
+itm_tribal_warrior_outfit_pl|Tenues de guerrier tribal
+itm_nomad_robe|Robe de nomade
+itm_nomad_robe_pl|Robes de nomade
+itm_studded_leather_coat|Manteau en cuir clouté 
+itm_studded_leather_coat_pl|Manteaux en cuir clouté 
+itm_byrnie|Haubert
+itm_byrnie_pl|Hauberts
+itm_haubergeon|Haubergeon
+itm_haubergeon_pl|Haubergeons
+itm_lamellar_vest|Gilet lamellaire 
+itm_lamellar_vest_pl|Gilets lamellaires
+itm_lamellar_vest_khergit|Gilet lamellaire khergit
+itm_lamellar_vest_khergit_pl|Gilets lamellaires khergits
+itm_mail_shirt|Chemise de mailles 
+itm_mail_shirt_pl|Chemises de mailles 
+itm_mail_hauberk|Haubert de mailles 
+itm_mail_hauberk_pl|Hauberts de mailles 
+itm_mail_with_surcoat|Cotte de mailles avec surcot 
+itm_mail_with_surcoat_pl|Cottes de mailles avec surcot 
+itm_surcoat_over_mail|Surcot sur cotte de mailles 
+itm_surcoat_over_mail_pl|Surcots sur cotte de mailles 
+itm_brigandine_red|Brigandine
+itm_brigandine_red_pl|Brigandines
+itm_lamellar_armor|Armure lamellaire 
+itm_lamellar_armor_pl|Armures lamellaires
+itm_scale_armor|Armure d'écailles
+itm_scale_armor_pl|Armures d'écailles
+itm_banded_armor|Armure cerclée
+itm_banded_armor_pl|Armures cerclées
+itm_cuir_bouilli|Cuir bouilli
+itm_cuir_bouilli_pl|Cuirs bouillis
+itm_coat_of_plates|Cotte de plates
+itm_coat_of_plates_pl|Cottes de plates
+itm_coat_of_plates_red|Cotte de plates
+itm_coat_of_plates_red_pl|Cottes de plates
+itm_plate_armor|Armure de plate
+itm_plate_armor_pl|Armures de plate
+itm_black_armor|Amure noire
+itm_black_armor_pl|Amures noires
+itm_pelt_coat|Manteau de fourrure
+itm_pelt_coat_pl|Manteaux de fourrure
+itm_khergit_elite_armor|Armure d'élite khergit
+itm_khergit_elite_armor_pl|Armures d'élite khergits
+itm_vaegir_elite_armor|Armure d'élite vaegir
+itm_vaegir_elite_armor_pl|Armures d'élite vaegirs
+itm_sarranid_elite_armor|Armure d'élite sarranide
+itm_sarranid_elite_armor_pl|Armures d'élite sarranides
+itm_sarranid_dress_a|Robe
+itm_sarranid_dress_a_pl|Robes
+itm_sarranid_dress_b|Robe
+itm_sarranid_dress_b_pl|Robes
+itm_sarranid_cloth_robe|Robe usée
+itm_sarranid_cloth_robe_pl|Robes usées
+itm_sarranid_cloth_robe_b|Robe usée
+itm_sarranid_cloth_robe_b_pl|Robes usées
+itm_skirmisher_armor|Armure de tirailleur
+itm_skirmisher_armor_pl|Armures de tirailleurs
+itm_archers_vest|Gilet matelassé d'archer
+itm_archers_vest_pl|Gilets matelassés d'archers
+itm_sarranid_leather_armor|Armure en cuir sarranide
+itm_sarranid_leather_armor_pl|Armures en cuir sarranides
+itm_sarranid_cavalry_robe|Robe de cavalier
+itm_sarranid_cavalry_robe_pl|Robes de cavaliers
+itm_arabian_armor_b|Armure de garde sarranide
+itm_arabian_armor_b_pl|Armures de gardes sarranides
+itm_sarranid_mail_shirt|Chemise de mailles sarranide
+itm_sarranid_mail_shirt_pl|Chemises de mailles sarranides
+itm_mamluke_mail|Cotte de mailles de Mamelouk
+itm_mamluke_mail_pl|Cottes de mailles de Mamelouk
+itm_burlap_tunic|Tunique en toile de jute
+itm_burlap_tunic_pl|Tuniques en toile de jute
+itm_heraldic_mail_with_surcoat|Cotte de mailles aux armoiries avec surcot 
+itm_heraldic_mail_with_surcoat_pl|Cottes de mailles aux armoiries avec surcot 
+itm_heraldic_mail_with_tunic|Cotte de mailles avec armoiries
+itm_heraldic_mail_with_tunic_pl|Cottes de mailles avec armoiries
+itm_heraldic_mail_with_tunic_b|Cotte de mailles avec armoiries
+itm_heraldic_mail_with_tunic_b_pl|Cottes de mailles avec armoiries
+itm_heraldic_mail_with_tabard|Cotte de mailles aux armoiries avec tabard 
+itm_heraldic_mail_with_tabard_pl|Cottes de mailles aux armoiries avec tabard
+itm_turret_hat_ruby|Touret 
+itm_turret_hat_ruby_pl|Tourets
+itm_turret_hat_blue|Touret 
+itm_turret_hat_blue_pl|Tourets
+itm_turret_hat_green|Barbette 
+itm_turret_hat_green_pl|Barbettes
+itm_head_wrappings|Châle
+itm_head_wrappings_pl|Châles
+itm_court_hat|Touret 
+itm_court_hat_pl|Tourets
+itm_wimple_a|Guimpe
+itm_wimple_a_pl|Guimpes
+itm_wimple_with_veil|Guimpe avec cagoule
+itm_wimple_with_veil_pl|Guimpes avec cagoule
+itm_straw_hat|Chapeau de paille 
+itm_straw_hat_pl|Chapeaux de paille 
+itm_common_hood|Capuchon
+itm_common_hood_pl|Capuchons
+itm_hood_b|Capuchon
+itm_hood_b_pl|Capuchons
+itm_hood_c|Capuchon
+itm_hood_c_pl|Capuchons
+itm_hood_d|Capuchon
+itm_hood_d_pl|Capuchons
+itm_headcloth|Chaperon façonné
+itm_headcloth_pl|Chaperons façonnés
+itm_woolen_hood|Capuchon de laine 
+itm_woolen_hood_pl|Capuchons de laine 
+itm_arming_cap|Capuchon matelassé 
+itm_arming_cap_pl|Capuchons matelassés
+itm_fur_hat|Chapeau de fourrure 
+itm_fur_hat_pl|Chapeaux de fourrure 
+itm_nomad_cap|Bonnet de nomade 
+itm_nomad_cap_pl|Bonnets de nomade 
+itm_nomad_cap_b|Bonnet de nomade 
+itm_nomad_cap_b_pl|Bonnets de nomades
+itm_steppe_cap|Bonnet des steppes 
+itm_steppe_cap_pl|Bonnets des steppes 
+itm_padded_coif|Coiffe renforçée 
+itm_padded_coif_pl|Coiffes renforçées
+itm_woolen_cap|Bonnet de laine 
+itm_woolen_cap_pl|Bonnets de laine 
+itm_felt_hat|Chapeau de feutre 
+itm_felt_hat_pl|Chapeaux de feutre 
+itm_felt_hat_b|Chapeau de feutre 
+itm_felt_hat_b_pl|Chapeaux de feutre 
+itm_leather_cap|Capuchon en cuir 
+itm_leather_cap_pl|Capuchons en cuir 
+itm_female_hood|Capuchon de dame 
+itm_female_hood_pl|Capuchons de dame 
+itm_leather_steppe_cap_a|Bonnet des steppes 
+itm_leather_steppe_cap_a_pl|Bonnets des steppes 
+itm_leather_steppe_cap_b|Bonnet des steppes  
+itm_leather_steppe_cap_b_pl|Bonnets des steppes  
+itm_leather_steppe_cap_c|Bonnet des steppes 
+itm_leather_steppe_cap_c_pl|Bonnets des steppes 
+itm_leather_warrior_cap|Capuchon de guerrier en cuir 
+itm_leather_warrior_cap_pl|Capuchons de guerrier en cuir 
+itm_skullcap|Calotte
+itm_skullcap_pl|Calottes
+itm_mail_coif|Camail
+itm_mail_coif_pl|Camails
+itm_footman_helmet|Casque de fantassin
+itm_footman_helmet_pl|Casques de fantassin
+itm_nasal_helmet|Heaume nasal 
+itm_nasal_helmet_pl|Heaumes nasaux
+itm_norman_helmet|Heaume avec capuchon
+itm_norman_helmet_pl|Heaumes avec capuchon
+itm_segmented_helmet|Spangelhelm
+itm_segmented_helmet_pl|Spangelhelms
+itm_helmet_with_neckguard|Heaume avec gorgerin
+itm_helmet_with_neckguard_pl|Heaumes avec gorgerin
+itm_flat_topped_helmet|Heaume cylindrique à dessus plat 
+itm_flat_topped_helmet_pl|Heaumes cylindriques à dessus plat 
+itm_kettle_hat|Chapel de fer 
+itm_kettle_hat_pl|Chapels de fer 
+itm_spiked_helmet|Heaume à pointe
+itm_spiked_helmet_pl|Heaumes à pointe
+itm_nordic_helmet|Casque nordique 
+itm_nordic_helmet_pl|Casques nordiques
+itm_khergit_lady_hat|Chapeau pour femme khergit
+itm_khergit_lady_hat_pl|Chapeaux pour femme khergit
+itm_khergit_lady_hat_b|Chapeau de femme khergit en cuir
+itm_khergit_lady_hat_b_pl|Chapeaux de femmes khergits en cuir
+itm_sarranid_felt_hat|Chapeau de feutre sarranide
+itm_sarranid_felt_hat_pl|Chapeaux de feutre sarranides
+itm_turban|Turban
+itm_turban_pl|Turbans
+itm_desert_turban|Turban du désert
+itm_desert_turban_pl|Turbans du désert
+itm_sarranid_warrior_cap|Capuchon de guerrier sarranide
+itm_sarranid_warrior_cap_pl|Capuchons de guerriers sarranides
+itm_sarranid_horseman_helmet|Casque de cavalier
+itm_sarranid_horseman_helmet_pl|Casques de cavaliers
+itm_sarranid_helmet1|Casque keffieh sarranide
+itm_sarranid_helmet1_pl|Casques keffiehs sarranides
+itm_sarranid_mail_coif|Camail sarranide
+itm_sarranid_mail_coif_pl|Camails sarranides
+itm_sarranid_veiled_helmet|Casque avec voile sarranide
+itm_sarranid_veiled_helmet_pl|Casques avec voile sarranides
+itm_nordic_archer_helmet|Casque en cuir nordique
+itm_nordic_archer_helmet_pl|Casques en cuir nordiques
+itm_nordic_veteran_archer_helmet|Casque en cuir nordique
+itm_nordic_veteran_archer_helmet_pl|Casques en cuir nordiques
+itm_nordic_footman_helmet|Casque de troupier nordique
+itm_nordic_footman_helmet_pl|Casques de troupiers nordiques
+itm_nordic_fighter_helmet|Casque de combattant nordique
+itm_nordic_fighter_helmet_pl|Casques de combattants nordiques
+itm_nordic_huscarl_helmet|Casque de huscarl nordique
+itm_nordic_huscarl_helmet_pl|Casques de huscarls nordiques
+itm_nordic_warlord_helmet|Casque de seigneur de la guerre nordique
+itm_nordic_warlord_helmet_pl|Casques de seigneurs de la guerre nordiques
+itm_vaegir_fur_cap|Chapeau fourré
+itm_vaegir_fur_cap_pl|Chapeaux fourrés
+itm_vaegir_fur_helmet|Casque vaegir
+itm_vaegir_fur_helmet_pl|Casques vaegirs
+itm_vaegir_spiked_helmet|Coiffe à pointe
+itm_vaegir_spiked_helmet_pl|Coiffes à pointe
+itm_vaegir_lamellar_helmet|Casque avec visière lamellaire
+itm_vaegir_lamellar_helmet_pl|Casques avec visière lamellaire
+itm_vaegir_noble_helmet|Casque de noble vaegir
+itm_vaegir_noble_helmet_pl|Casques de nobles vaegirs
+itm_vaegir_war_helmet|Casque de guerre vaegir
+itm_vaegir_war_helmet_pl|Casques de guerre vaegirs
+itm_vaegir_mask|Masque de guerre vaegir
+itm_vaegir_mask_pl|Masques de guerre vaegirs
+itm_bascinet|Bassinet 
+itm_bascinet_pl|Bassinets
+itm_bascinet_2|Bassinet avec camail d'armure
+itm_bascinet_2_pl|Bassinets avec camail d'armure
+itm_bascinet_3|Bassinet avec protège-nez
+itm_bascinet_3_pl|Bassinets avec protège-nez
+itm_guard_helmet|Casque de garde 
+itm_guard_helmet_pl|Casques de garde 
+itm_black_helmet|Heaume noir
+itm_black_helmet_pl|Heaumes noirs
+itm_full_helm|Casque fermé
+itm_full_helm_pl|Casques fermés
+itm_great_helmet|Grand heaume
+itm_great_helmet_pl|Grands heaumes
+itm_winged_great_helmet|Grand heaume ailé
+itm_winged_great_helmet_pl|Grands heaumes ailés
+itm_wooden_stick|Bâton en bois 
+itm_wooden_stick_pl|Bâtons en bois 
+itm_cudgel|Massue 
+itm_cudgel_pl|Massues
+itm_hammer|Marteau
+itm_hammer_pl|Marteaux
+itm_club|Gourdin
+itm_club_pl|Gourdins
+itm_winged_mace|Masse d'armes à ailettes 
+itm_winged_mace_pl|Masses d'armes à ailettes 
+itm_spiked_mace|Masse d'armes à pointes 
+itm_spiked_mace_pl|Masses d'armes à pointes 
+itm_military_hammer|Marteau de bataille  
+itm_military_hammer_pl|Marteaux de bataille  
+itm_maul|Maillet
+itm_maul_pl|Maillets
+itm_sledgehammer|Masse
+itm_sledgehammer_pl|Masses
+itm_warhammer|Grand marteau
+itm_warhammer_pl|Grands marteaux
+itm_pickaxe|Pioche
+itm_pickaxe_pl|Pioches
+itm_spiked_club|Gourdin à pointes
+itm_spiked_club_pl|Gourdins à pointes
+itm_fighting_pick|Pique de combat
+itm_fighting_pick_pl|Piques de combat
+itm_military_pick|Pique de guerre 
+itm_military_pick_pl|Piques de guerre 
+itm_morningstar|Fléau d'armes
+itm_morningstar_pl|Fléaux d'armes
+itm_sickle|Faucille 
+itm_sickle_pl|Faucilles
+itm_cleaver|Couperet 
+itm_cleaver_pl|Couperets
+itm_knife|Couteau 
+itm_knife_pl|Couteaux
+itm_butchering_knife|Couteau de boucher
+itm_butchering_knife_pl|Couteaux de boucher
+itm_dagger|Dague
+itm_dagger_pl|Dagues
+itm_falchion|Fauchon
+itm_falchion_pl|Fauchons
+itm_scimitar|Cimeterre 
+itm_scimitar_pl|Cimeterres
+itm_scimitar_b|Cimeterre d'élite
+itm_scimitar_b_pl|Cimeterres d'élite
+itm_arabian_sword_a|Épée sarranide
+itm_arabian_sword_a_pl|Épées sarranides
+itm_arabian_sword_b|Épée d'armes sarranide
+itm_arabian_sword_b_pl|Épées d'armes sarranides
+itm_sarranid_cavalry_sword|Épée de cavalerie sarranide
+itm_sarranid_cavalry_sword_pl|Épées de cavalerie sarranides
+itm_arabian_sword_d|Épée de garde sarranide
+itm_arabian_sword_d_pl|Épées de gardes sarranides
+itm_great_sword|Estramaçon
+itm_great_sword_pl|Estramaçons
+itm_sword_of_war|Épée de guerre 
+itm_sword_of_war_pl|Épées de guerre 
+itm_hatchet|Hachette 
+itm_hatchet_pl|Hachettes
+itm_hand_axe|Hache courte 
+itm_hand_axe_pl|Haches courtes
+itm_fighting_axe|Hache de combat
+itm_fighting_axe_pl|Haches de combat 
+itm_axe|Hache
+itm_axe_pl|Haches
+itm_voulge|Fauchard
+itm_voulge_pl|Fauchards
+itm_battle_axe|Hache de bataille
+itm_battle_axe_pl|Haches de bataille
+itm_war_axe|Hache de guerre 
+itm_war_axe_pl|Haches de guerre 
+itm_sword_two_handed_b|Épée à deux mains
+itm_sword_two_handed_b_pl|Épées à deux mains
+itm_sword_two_handed_a|Estramaçon
+itm_sword_two_handed_a_pl|Estramaçons
+itm_khergit_sword_two_handed_a|Sabre à deux mains
+itm_khergit_sword_two_handed_a_pl|Sabres à deux mains
+itm_khergit_sword_two_handed_b|Sabre à deux mains
+itm_khergit_sword_two_handed_b_pl|Sabres à deux mains
+itm_two_handed_cleaver|Couperet de guerre
+itm_two_handed_cleaver_pl|Couperets de guerre
+itm_military_cleaver_b|Couperet de soldat
+itm_military_cleaver_b_pl|Couperets de soldats
+itm_military_cleaver_c|Couperet militaire
+itm_military_cleaver_c_pl|Couperets militaires
+itm_military_sickle_a|Faucille militaire
+itm_military_sickle_a_pl|Faucilles militaires
+itm_bastard_sword_a|Épée bâtarde 
+itm_bastard_sword_a_pl|Épées bâtardes
+itm_bastard_sword_b|Lourde épée bâtarde 
+itm_bastard_sword_b_pl|Lourdes épées bâtardes
+itm_one_handed_war_axe_a|Hache à une main
+itm_one_handed_war_axe_a_pl|Haches à une main
+itm_one_handed_battle_axe_a|Hache de bataille à une main
+itm_one_handed_battle_axe_a_pl|Haches de bataille à une main
+itm_one_handed_war_axe_b|Hache de guerre à une main 
+itm_one_handed_war_axe_b_pl|Haches de guerre à une main 
+itm_one_handed_battle_axe_b|Hache de bataille à une main
+itm_one_handed_battle_axe_b_pl|Haches de bataille à une main
+itm_one_handed_battle_axe_c|Hache de bataille à une main
+itm_one_handed_battle_axe_c_pl|Haches de bataille à une main
+itm_two_handed_axe|Hache à deux mains 
+itm_two_handed_axe_pl|Haches à deux mains 
+itm_two_handed_battle_axe_2|Hache de guerre à deux mains 
+itm_two_handed_battle_axe_2_pl|Haches de guerre à deux mains 
+itm_shortened_voulge|Fauchard court
+itm_shortened_voulge_pl|Fauchards courts
+itm_great_axe|Grande hache 
+itm_great_axe_pl|Grandes haches
+itm_long_axe|Hache longue
+itm_long_axe_pl|Haches longues
+itm_long_axe_alt|Hache longue
+itm_long_axe_alt_pl|Haches longues
+itm_long_axe_b|Hache longue de guerre
+itm_long_axe_b_pl|Haches longues de guerre
+itm_long_axe_b_alt|Hache longue de guerre
+itm_long_axe_b_alt_pl|Haches longues de guerre
+itm_long_axe_c|Grande hache longue
+itm_long_axe_c_pl|Grandes haches longues
+itm_long_axe_c_alt|Grande hache longue
+itm_long_axe_c_alt_pl|Grandes haches longues
+itm_bardiche|Bardiche
+itm_bardiche_pl|Bardiches
+itm_great_bardiche|Grande bardiche
+itm_great_bardiche_pl|Grandes bardiches
+itm_long_bardiche|Bardiche longue
+itm_long_bardiche_pl|Bardiches longues
+itm_great_long_bardiche|Grande bardiche longue
+itm_great_long_bardiche_pl|Grandes bardiches longues
+itm_hafted_blade_b|Lame à long manche
+itm_hafted_blade_b_pl|Lames à long manche
+itm_hafted_blade_a|Lame à long manche
+itm_hafted_blade_a_pl|Lames à long manche
+itm_shortened_military_scythe|Faux à manche court  
+itm_shortened_military_scythe_pl|Faux à manche court  
+itm_sword_medieval_a|Épée
+itm_sword_medieval_a_pl|Épées
+itm_sword_medieval_b|Épée
+itm_sword_medieval_b_pl|Épées
+itm_sword_medieval_b_small|Épée courte 
+itm_sword_medieval_b_small_pl|Épées courtes
+itm_sword_medieval_c|Épée d'armes 
+itm_sword_medieval_c_pl|Épées d'armes
+itm_sword_medieval_c_small|Épée d'armes courte
+itm_sword_medieval_c_small_pl|Épées d'armes courtes
+itm_sword_medieval_c_long|Épée d'armes
+itm_sword_medieval_c_long_pl|Épées d'armes
+itm_sword_medieval_d_long|Épée d'armes longue
+itm_sword_medieval_d_long_pl|Épées d'armes longues
+itm_sword_viking_1|Épée nordique
+itm_sword_viking_1_pl|Épées nordiques
+itm_sword_viking_2|Épée nordique
+itm_sword_viking_2_pl|Épées nordiques
+itm_sword_viking_2_small|Épée nordique courte 
+itm_sword_viking_2_small_pl|Épées nordiques courtes
+itm_sword_viking_3|Épée de guerre nordique
+itm_sword_viking_3_pl|Épées de guerre nordiques
+itm_sword_viking_3_small|Courte épée de guerre nordique
+itm_sword_viking_3_small_pl|Courtes épées de guerre nordiques
+itm_sword_khergit_1|Sabre de nomade
+itm_sword_khergit_1_pl|Sabres de nomade
+itm_sword_khergit_2|Sabre
+itm_sword_khergit_2_pl|Sabres
+itm_sword_khergit_3|Sabre
+itm_sword_khergit_3_pl|Sabres
+itm_sword_khergit_4|Sabre lourd
+itm_sword_khergit_4_pl|Sabres lourds
+itm_mace_1|Gourdin à pointes
+itm_mace_1_pl|Gourdins à pointes
+itm_mace_2|Masse d'armes à tête sphérique
+itm_mace_2_pl|Masses d'armes à tête sphérique
+itm_mace_3|Masse d'armes à pointes 
+itm_mace_3_pl|Masses d'armes à pointes 
+itm_mace_4|Masse d'armes à ailettes 
+itm_mace_4_pl|Masses d'armes à ailettes
+itm_club_with_spike_head|Bâton à pointe
+itm_club_with_spike_head_pl|Bâtons à pointe
+itm_long_spiked_club|Long gourdin à pointes
+itm_long_spiked_club_pl|Longs gourdins à pointes
+itm_long_hafted_knobbed_mace|Masse d'armes à tête sphérique et à long manche
+itm_long_hafted_knobbed_mace_pl|Masses d'armes à tête sphérique et à long manche
+itm_long_hafted_spiked_mace|Masse d'armes à tête sphérique et à long manche
+itm_long_hafted_spiked_mace_pl|Masses d'armes à tête sphérique et à long manche
+itm_sarranid_two_handed_mace_1|Masse en fer
+itm_sarranid_two_handed_mace_1_pl|Masses en fer
+itm_sarranid_mace_1|Masse en fer
+itm_sarranid_mace_1_pl|Masses en fer
+itm_sarranid_axe_a|Hache de combat en fer
+itm_sarranid_axe_a_pl|Haches de combat en fer
+itm_sarranid_axe_b|Hache de guerre en fer
+itm_sarranid_axe_b_pl|Haches de guerre en fer
+itm_sarranid_two_handed_axe_a|Hache de combat sarranide
+itm_sarranid_two_handed_axe_a_pl|Haches de combat sarranides
+itm_sarranid_two_handed_axe_b|Hache de guerre sarranide
+itm_sarranid_two_handed_axe_b_pl|Haches de guerre sarranides
+itm_scythe|Faux
+itm_scythe_pl|Faux
+itm_pitch_fork|Fourche à foin
+itm_pitch_fork_pl|Fourches à foin
+itm_military_fork|Fourche 
+itm_military_fork_pl|Fourches
+itm_battle_fork|Fourche de bataille
+itm_battle_fork_pl|Fourches de bataille
+itm_boar_spear|Épieu de chasse 
+itm_boar_spear_pl|Épieux de chasse 
+itm_jousting_lance|Lance de joute 
+itm_jousting_lance_pl|Lances de joute 
+itm_double_sided_lance|Lance à double tranchant
+itm_double_sided_lance_pl|Lances à double tranchant 
+itm_glaive|Glaive 
+itm_glaive_pl|Glaives
+itm_poleaxe|Hache d'armes
+itm_poleaxe_pl|Haches d'armes
+itm_polehammer|Marteau d'armes
+itm_polehammer_pl|Marteaux d'armes
+itm_staff|Bâton
+itm_staff_pl|Bâtons
+itm_quarter_staff|Bâton de combat
+itm_quarter_staff_pl|Bâtons de combat
+itm_iron_staff|Bâton en acier 
+itm_iron_staff_pl|Bâtons en acier 
+itm_shortened_spear|Épieu court
+itm_shortened_spear_pl|Épieux courts
+itm_spear|Épieu
+itm_spear_pl|Épieux
+itm_bamboo_spear|Épieu en bambou
+itm_bamboo_spear_pl|Épieux en bambou
+itm_war_spear|Épieu de guerre 
+itm_war_spear_pl|Épieux de guerre 
+itm_military_scythe|Faux de guerre 
+itm_military_scythe_pl|Faux de guerre 
+itm_light_lance|Lance légère 
+itm_light_lance_pl|Lances légères
+itm_lance|Lance 
+itm_lance_pl|Lances
+itm_heavy_lance|Lance lourde 
+itm_heavy_lance_pl|Lances lourdes
+itm_great_lance|Grande lance
+itm_great_lance_pl|Grandes lances
+itm_pike|Pique 
+itm_pike_pl|Piques
+itm_ashwood_pike|Pique en bois de frêne 
+itm_ashwood_pike_pl|Piques en bois de frêne 
+itm_awlpike|Ahlspiess 
+itm_awlpike_pl|Ahlspiess
+itm_awlpike_long|Ahlspiess long
+itm_awlpike_long_pl|Ahlspiess longs
+itm_bec_de_corbin_a|Marteau de guerre
+itm_bec_de_corbin_a_pl|Marteaux de guerre
+itm_wooden_shield|Bouclier en bois 
+itm_wooden_shield_pl|Boucliers en bois 
+itm_nordic_shield|Bouclier nordique 
+itm_nordic_shield_pl|Boucliers nordiques
+itm_fur_covered_shield|Bouclier couvert de fourrure 
+itm_fur_covered_shield_pl|Boucliers couverts de fourrure 
+itm_steel_shield|Bouclier en acier
+itm_steel_shield_pl|Boucliers en acier
+itm_plate_covered_round_shield|Bouclier rond couvert de plates 
+itm_plate_covered_round_shield_pl|Boucliers ronds couverts de plates 
+itm_leather_covered_round_shield|Bouclier rond couvert de cuir 
+itm_leather_covered_round_shield_pl|Boucliers ronds couverts de cuir 
+itm_hide_covered_round_shield|Bouclier rond couvert de peau
+itm_hide_covered_round_shield_pl|Boucliers ronds couverts de peau
+itm_shield_heater_c|Écu
+itm_shield_heater_c_pl|Écus
+itm_norman_shield_1|Grand écu
+itm_norman_shield_1_pl|Grands écus
+itm_norman_shield_2|Grand écu
+itm_norman_shield_2_pl|Grands écus
+itm_norman_shield_3|Grand écu
+itm_norman_shield_3_pl|Grands écus
+itm_norman_shield_4|Grand écu
+itm_norman_shield_4_pl|Grands écus
+itm_norman_shield_5|Grand écu 
+itm_norman_shield_5_pl|Grands écus
+itm_norman_shield_6|Grand écu
+itm_norman_shield_6_pl|Grands écus
+itm_norman_shield_7|Grand écu
+itm_norman_shield_7_pl|Grands écus
+itm_norman_shield_8|Grand écu
+itm_norman_shield_8_pl|Grands écus
+itm_tab_shield_round_a|Vieux bouclier rond
+itm_tab_shield_round_a_pl|Vieux boucliers ronds
+itm_tab_shield_round_b|Bouclier rond simple 
+itm_tab_shield_round_b_pl|Boucliers ronds simples
+itm_tab_shield_round_c|Bouclier rond  
+itm_tab_shield_round_c_pl|Boucliers ronds
+itm_tab_shield_round_d|Lourd bouclier rond 
+itm_tab_shield_round_d_pl|Lourds boucliers ronds
+itm_tab_shield_round_e|Bouclier rond d'huscarl 
+itm_tab_shield_round_e_pl|Boucliers ronds d'huscarl
+itm_tab_shield_kite_a|Grand écu ancien 
+itm_tab_shield_kite_a_pl|Grands écus anciens
+itm_tab_shield_kite_b|Grand écu simple
+itm_tab_shield_kite_b_pl|Grands écus simples
+itm_tab_shield_kite_c|Grand écu
+itm_tab_shield_kite_c_pl|Grands écus
+itm_tab_shield_kite_d|Grand écu lourd
+itm_tab_shield_kite_d_pl|Grands écus lourds
+itm_tab_shield_kite_cav_a|Grand écu de cavalier 
+itm_tab_shield_kite_cav_a_pl|Grands écus de cavalier 
+itm_tab_shield_kite_cav_b|Grand écu de chevalier 
+itm_tab_shield_kite_cav_b_pl|Grands écus de chevalier 
+itm_tab_shield_heater_a|Vieil écu 
+itm_tab_shield_heater_a_pl|Vieux écus
+itm_tab_shield_heater_b|Écu simple
+itm_tab_shield_heater_b_pl|Écus simples
+itm_tab_shield_heater_c|Écu
+itm_tab_shield_heater_c_pl|Écus
+itm_tab_shield_heater_d|Écu lourd
+itm_tab_shield_heater_d_pl|Écus lourds
+itm_tab_shield_heater_cav_a|Écu de cavalier 
+itm_tab_shield_heater_cav_a_pl|Écus de cavalier 
+itm_tab_shield_heater_cav_b|Écu de chevalier
+itm_tab_shield_heater_cav_b_pl|Écus de chevalier
+itm_tab_shield_pavise_a|Vieux bouclier en planches 
+itm_tab_shield_pavise_a_pl|Vieux boucliers en planches 
+itm_tab_shield_pavise_b|Bouclier en planches simple 
+itm_tab_shield_pavise_b_pl|Boucliers en planches simples
+itm_tab_shield_pavise_c|Bouclier en planches 
+itm_tab_shield_pavise_c_pl|Boucliers en planches 
+itm_tab_shield_pavise_d|Lourd bouclier en planches 
+itm_tab_shield_pavise_d_pl|Lourds boucliers en planches 
+itm_tab_shield_small_round_a|Bouclier de cavalerie simple
+itm_tab_shield_small_round_a_pl|Boucliers de cavalerie simples
+itm_tab_shield_small_round_b|Bouclier rond de cavalerie
+itm_tab_shield_small_round_b_pl|Boucliers ronds de cavalerie
+itm_tab_shield_small_round_c|Bouclier de cavalerie d'élite
+itm_tab_shield_small_round_c_pl|Boucliers de cavalerie d'élite
+itm_darts|Flèche
+itm_darts_pl|Flèches
+itm_war_darts|Flèche de guerre
+itm_war_darts_pl|Flèches de guerre
+itm_javelin|Javelot
+itm_javelin_pl|Javelots
+itm_javelin_melee|Javelot
+itm_javelin_melee_pl|Javelots
+itm_throwing_spears|Lance de jet
+itm_throwing_spears_pl|Lances de jet
+itm_throwing_spear_melee|Lance de jet
+itm_throwing_spear_melee_pl|Lances de jet
+itm_jarid|Angon
+itm_jarid_pl|Angons
+itm_jarid_melee|Angon
+itm_jarid_melee_pl|Angons
+itm_stones|Pierres
+itm_stones_pl|Pierres
+itm_throwing_knives|Couteaux de jet 
+itm_throwing_knives_pl|Couteaux de jet 
+itm_throwing_daggers|Dagues de jet 
+itm_throwing_daggers_pl|Dagues de jet 
+itm_light_throwing_axes|Hache de jet légère
+itm_light_throwing_axes_pl|Haches de jet légères
+itm_light_throwing_axes_melee|Hache de jet légère
+itm_light_throwing_axes_melee_pl|Haches de jet légères
+itm_throwing_axes|Haches de jet 
+itm_throwing_axes_pl|Haches de jet 
+itm_throwing_axes_melee|Hache de jet
+itm_throwing_axes_melee_pl|Haches de jet
+itm_heavy_throwing_axes|Hache de jet lourde
+itm_heavy_throwing_axes_pl|Haches de jet lourdes
+itm_heavy_throwing_axes_melee|Hache de jet lourde
+itm_heavy_throwing_axes_melee_pl|Haches de jet lourdes
+itm_hunting_bow|Arc de chasseur 
+itm_hunting_bow_pl|Arcs de chasseur 
+itm_short_bow|Arc court 
+itm_short_bow_pl|Arcs courts
+itm_nomad_bow|Arc de nomade 
+itm_nomad_bow_pl|Arcs de nomade 
+itm_long_bow|Arc long 
+itm_long_bow_pl|Arcs longs
+itm_khergit_bow|Arc khergit
+itm_khergit_bow_pl|Arcs khergits
+itm_strong_bow|Arc puissant 
+itm_strong_bow_pl|Arcs puissants
+itm_war_bow|Arc de guerre 
+itm_war_bow_pl|Arcs de guerre 
+itm_hunting_crossbow|Arbalète de chasse
+itm_hunting_crossbow_pl|Arbalètes de chasse
+itm_light_crossbow|Arbalète légère
+itm_light_crossbow_pl|Arbalètes légères
+itm_crossbow|Arbalète
+itm_crossbow_pl|Arbalètes
+itm_heavy_crossbow|Arbalète lourde
+itm_heavy_crossbow_pl|Arbalètes lourdes
+itm_sniper_crossbow|Arbalète de siège 
+itm_sniper_crossbow_pl|Arbalètes de siège 
+itm_flintlock_pistol|Fusil à silex 
+itm_flintlock_pistol_pl|Fusils à silex 
+itm_torch|Torche
+itm_torch_pl|Torches
+itm_lyre|Lyre
+itm_lyre_pl|Lyres
+itm_lute|Luth
+itm_lute_pl|Luths
+itm_strange_armor|Armure étrange 
+itm_strange_armor_pl|Armures étranges
+itm_strange_boots|Bottes étranges 
+itm_strange_boots_pl|Bottes étranges 
+itm_strange_helmet|Casque étrange 
+itm_strange_helmet_pl|Casques étranges
+itm_strange_sword|Épée étrange 
+itm_strange_sword_pl|Épées étranges
+itm_strange_great_sword|Estramaçon étrange 
+itm_strange_great_sword_pl|Estramaçons étranges
+itm_strange_short_sword|Estramaçon étrange 
+itm_strange_short_sword_pl|Estramaçons étranges
+itm_court_dress|Robe courte 
+itm_court_dress_pl|Robes courtes
+itm_rich_outfit|Tenue de riche 
+itm_rich_outfit_pl|Tenues de riche 
+itm_khergit_guard_armor|Armure de garde khergit 
+itm_khergit_guard_armor_pl|Armures de garde khergit 
+itm_felt_steppe_cap|Bonnet de feutre des steppes 
+itm_felt_steppe_cap_pl|Bonnets de feutre des steppes 
+itm_khergit_war_helmet|Casque de guerre khergit 
+itm_khergit_war_helmet_pl|Casques de guerre khergit 
+itm_khergit_helmet|Casque khergit
+itm_khergit_helmet_pl|Casques khergits
+itm_khergit_guard_boots|Bottes de garde khergit 
+itm_khergit_guard_boots_pl|Bottes de garde khergit 
+itm_khergit_guard_helmet|Casque de garde khergit
+itm_khergit_guard_helmet_pl|Casques de garde khergit
+itm_khergit_cavalry_helmet|Casque de cavalerie khergit
+itm_khergit_cavalry_helmet_pl|Casques de cavalerie khergit
+itm_black_hood|Capuchon noir 
+itm_black_hood_pl|Capuchons noirs
+itm_light_leather|Cuir léger 
+itm_light_leather_pl|Cuirs légers
+itm_light_leather_boots|Bottes en cuir léger 
+itm_light_leather_boots_pl|Bottes en cuir léger 
+itm_mail_and_plate|Mailles et plates 
+itm_mail_and_plate_pl|Mailles et plates 
+itm_light_mail_and_plate|Mailles légères et plates 
+itm_light_mail_and_plate_pl|Mailles légères et plates 
+itm_byzantion_helmet_a|Casque byzantin 
+itm_byzantion_helmet_a_pl|Casques byzantins
+itm_magyar_helmet_a|Casque magyar
+itm_magyar_helmet_a_pl|Casques magyars
+itm_rus_helmet_a|Casque varègue 
+itm_rus_helmet_a_pl|Casques varègues
+itm_sipahi_helmet_a|Casque de sipahi 
+itm_sipahi_helmet_a_pl|Casques de sipahi
+itm_shahi|Shahi 
+itm_shahi_pl|Shahis
+itm_rabati|Rabati 
+itm_rabati_pl|Rabatis
+itm_tunic_with_green_cape|Tunique avec cape verte
+itm_tunic_with_green_cape_pl|Tuniques avec cape verte
+itm_keys|Trousseau de clés
+itm_keys_pl|Trousseaux de clés
+itm_bride_dress|Robe de mariée
+itm_bride_dress_pl|Robes de mariée
+itm_bride_crown|Couronne de fleurs
+itm_bride_crown_pl|Couronnes de fleurs
+itm_bride_shoes|Chaussures de mariée
+itm_bride_shoes_pl|Chaussures de mariée
+itm_practice_bow_2|Arc d'entraînement
+itm_practice_bow_2_pl|Arcs d'entraînement
+itm_practice_arrows_2|Flèche d'entraînement
+itm_practice_arrows_2_pl|Flèches d'entraînement
+itm_plate_boots|Bottes en plaques
+itm_plate_boots_pl|Bottes en plaques
+itm_items_end|Fin des objets
+itm_items_end_pl|Fin des objets

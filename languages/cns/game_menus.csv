@@ -60,7 +60,6 @@ mno_start_female|卡 拉 德 公 主 （ 有 剧 情 ）
 mno_start_male2|男 （ 无 剧 情 ）
 mno_start_male3|异 国 商 人 （ 剧 情 制 作 中 ）
 mno_start_female2|女 （ 无 剧 情 ）
-mno_start_female5|圣 女 （ 无 码 ） 
 mno_start_female6|不 死 族 （ 感 染 模 式 ）
 menu_start_character_1|当 你 很 多 年 前 出 生 在 一 片 遥 远 的 大 陆 时 ， 你 的 父 亲 是 … … 
 mno_start_noble|一 位 没 落 的 贵 族 。 
@@ -147,8 +146,6 @@ mno_cattle_kill_5|五 。
 menu_arena_duel_fight|你 和 你 的 对 手 准 备 决 斗 。 
 menu_simple_encounter|{s2}你 将 以 {reg10}人 的 部 队 迎 战 对 手 {reg11}人 。 
 mno_encounter_attack|攻 入 敌 阵 ！ 
-mno_encounter_attack3|请 求 {s30} 支 援 . (将 有 {reg0} 人 加 入 ) 
-mno_encounter_attack8|布 置 亡 灵 加 入 战 场 . (将 有 {reg0} 人 加 入 ) 
 mno_encounter_order_attack|坐 镇 指 挥 ， 让 你 的 部 队 攻 击 。 
 mno_encounter_leave|离 开 。 
 mno_encounter_retreat|以 留 下 少 量 部 队 掩 护 为 代 价 撤 退 。 

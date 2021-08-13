@@ -1,85 +1,85 @@
-﻿
-skl_trade|交 易 
-skl_trade_desc|每 点 技 能 减 少 5%%的 交 易 损 失 。 （ 队 伍 技 能 , 上 限 1 0 级 ） 
-skl_leadership|统 御 
-skl_leadership_desc|每 技 能 等 级 增 加 等 级 平 方 带 兵 人 数 ， 每 点 增 加 俘 虏 上 限 等 级 平 方 人 ，每 点 提 高 部 队 士 气 ， 减 少 部 队 开 销 和 工 资 5%%（ 领 袖 技 能 ） 。队 伍 NPC 也 会 根 据 统 御 等 级 招 护 卫 进 行 战 斗 ， 并 每 天 额 外 提 供 等 级 平 方 点 招 兵 点 ！（个 人 技 能 ，上 限 10 级 ）
-skl_prisoner_management|俘 虏 管 理 
-skl_prisoner_management_desc|每 点 增 加 俘 虏 上 限 5人 。队 伍 技 能 最 高 NPC 与 玩 家 叠 加 （ 队 伍 技 能 ，上 限 15 级  , 上 限 1 0 级 ） 
-skl_reserved_1|Reserved Skill 1 
-skl_reserved_1_desc|This is a reserved skill.
-skl_reserved_2|Reserved Skill 2 
-skl_reserved_2_desc|This is a reserved skill.
-skl_reserved_3|激 扬 士 气  
-skl_reserved_3_desc|每 点 额 外 增 加 10%%本 人 杀 敌 经 验 ，此 经 验 战 后 平 分 给 队 伍 。并 每 级 增 加 5%%几 率 获 得 战 场 士 气 ，战 场 士 气 上 限 150点 ，每 1点 增 加 1%%全 军 伤 害 ,战 场 士 气 开 战 时 已 部 队 士 气 为 基 数 ，战 后 不 会 改 变 部 队 士 气 （个 人 技 能 ，所 有 NPC 有 效 ，上 限 15 级 ）
-skl_reserved_4|毅 念 /才 艺 
-skl_reserved_4_desc|毅 念 ：每 三 秒 恢 复 到 自 己 最 低 血 量 （ 最 低 血 量 为 5+意 念 等 级 x2 ） 。^^才 艺 ：大 地 图 上 一 定 几 率 增 加 全 军 士 气 。（等 级 对 应 为 ：11%%,24%%,39%,56%%,75%%… … 375%%）（才 艺 总 和 除 全 军 人 数 为 触 发 几 率 ） （个 人 技 能 ，上 限 15 级 ）
-skl_persuasion|说 服 力 
-skl_persuasion_desc|此 技 能 帮 助 你 ， 使 你 的 观 点 更 容 易 让 人 接 受 。 同 时 还 能 降 低 让 NPC按 照 你 所 说 的 去 做 所 需 的 最 低 关 系 值 。 （ 个 人 技 能 ） 
-skl_engineer|科 技 学 
-skl_engineer_desc|此 技 能 使 你 更 有 效 地 建 造 攻 城 器 械 和 加 快 封 地 建 设 ，并 提 高 科 技 点 获 得 速 度 ，效 果 为 等 级 的 平 方 %%（队 伍 技 能 ）。 并 每 天 额 外 提 供 等 级 平 方 点 科 技 点（个 人 技 能 ，上 限 15 级 ）。
-skl_first_aid|急 救 
-skl_first_aid_desc|每 点 返 还 给 英 雄 们 6%%在 上 次 战 斗 中 损 失 的 生 命 值 。在 战 场 上 拥 有 急 救 的 士 兵 会 每 三 秒 恢 复 周 围 1 0 米 以 内 友 军 3 点 生 命 ，每 个 等 级 提 供 4%% 恢 复 上 限 （ 队 伍 技 能 ，上 限 12 级  ） 
-skl_surgery|手 术 
-skl_surgery_desc|每 点 增 加 4%%的 机 会 ， 使 得 本 来 会 死 亡 的 队 伍 成 员 保 住 性 命 （ 对 不 死 族 无 效 ）。 （ 队 伍 技 能 ，上 限 6级  ） 
-skl_wound_treatment|疗 伤 
-skl_wound_treatment_desc|每 点 增 加 队 伍 生 命 值 回 复 速 度 20%%。 （ 队 伍 技 能 ，上 限 12 级 ） 
-skl_inventory_management|物 品 管 理 
-skl_inventory_management_desc|每 点 增 加 物 品 栏 容 量 6格 。 （ 领 袖 技 能 ）^^此 技 能 现 在 会 随 队 伍 NPC的 最 高 技 能 永 久 增 长 ，不 建 议 领 袖 自 己 点 此 技 能 。 
-skl_spotting|侦 察 
-skl_spotting_desc|每 点 增 加 队 伍 侦 察 范 围 10%%。从 脚 印 和 其 它 印 迹 中 发 现 更 多 信 息 。（ 队 伍 技 能 ） 
-skl_pathfinding|向 导 
-skl_pathfinding_desc|增 加 队 伍 地 图 移 动 速 度 3xA+(AxA/2)%%。  A 为 技 能 等 级 （ 队 伍 技 能 ） 
-skl_tactics|谋 略  
-skl_tactics_desc|每 2点 增 加 1点 战 场 优 势 （ 影 响 敌 我 上 场 人 数 比 例 ），并 提 升 计 划 成 功 率 。（ 队 伍 技 能 ，上 限 15 级 ） 
-skl_tracking|跟 踪 
-skl_tracking_desc|从 脚 印 和 其 它 印 迹 中 发 现 更 多 信 息 。 （ 队 伍 技 能 ） 
-skl_trainer|教 练 
-skl_trainer_desc|每 天 每 位 有 该 项 技 能 的 英 雄 会 增 加 经 验 值 给 其 它 级 别 较 低 的 队 伍 成 员 。 传 授 的 经 验 值 依 次 为 ： 0， 4， 10， 16， 23， 30， 38， 46， 55， 65， 80 。 （ 个 人 技 能 ） 
-skl_reserved_5|几 何 瞄 准 
-skl_reserved_5_desc|每 点 增 加 10%%弩 箭 与 火 枪 、火 球 伤 害 ！（个 人 技 能 ，上 限 15 级 ）
-skl_reserved_6|Reserved Skill 6 
-skl_reserved_6_desc|This is a reserved skill.
-skl_reserved_7|Reserved Skill 7 
-skl_reserved_7_desc|This is a reserved skill.
-skl_reserved_8|Reserved Skill 8 
-skl_reserved_8_desc|This is a reserved skill.
-skl_looting|掠 夺 
-skl_looting_desc|每 点 提 高 获 得 战 利 品 的 数 量 10%%。 （ 队 伍 技 能 ）， 并 且 杀 敌 也 能 掠 夺 金 钱 ！( 个 人 技 能 ，上 限 15 级 ) 
-skl_horse_archery|骑 射 
-skl_horse_archery_desc|减 少 在 马 背 上 射 箭 与 投 掷 的 精 度 和 伤 害 损 失 。 （ 个 人 技 能 ） 
-skl_riding|骑 术 
-skl_riding_desc|可 以 骑 更 好 的 马 ， 提 高 骑 行 速 度 和 操 纵 ，并 每 级 提 升 10%%马 匹 生 命 和 撞 击 伤 害 。 每 级 增 加 5%马 匹 撞 击 暴 击 几 率 ，马 匹 暴 击 几 率 只 有 骑 术 加 成 。（ 个 人 技 能 ，上 限 15 级 ） 
-skl_athletics|步 战  
-skl_athletics_desc|提 高 跑 动 速 度 ，每 点 提 高 3%% 暴 击 几 率 和 格 挡 几 率 , 步 战 时 生 效 ，攻 击 者 暴 击 几 率 与 受 伤 者 格 挡 几 率 相 减 后 再 计 算 格 挡 或 者 暴 击 ！（ 个 人 技 能 ，上 限 15 级 ） 
-skl_shield|格 挡  
-skl_shield_desc|减 少 盾 的 损 坏 程 度 （ 每 点 减 少 8%%） 和 提 高 盾 的 格 挡 速 度 ， 以 及 覆 盖 范 围 ，每 点 增 加 5%% 机 会 格 挡 攻 击 ，降 低 25%% ，超过100%%的 几 率 为 降 低 44% ，攻 击 者 暴 击 几 率 与 受 伤 者 格 挡 几 率 相 减 后 再 计 算 格 挡 或 者 暴 击 ！  （ 个 人 技 能 ，上 限 15 级 ） 
-skl_weapon_master|武 器 掌 握 
-skl_weapon_master_desc|每 点 提 升 5%% 暴 击 几 率 （ 暴 击 造 成 1.5倍 伤 害 ，概 率 超 过 100%%的 部 分 有 几 率 造 成 2.25倍 伤 害 ），攻 击 者 暴 击 几 率 与 受 伤 者 格 挡 几 率 相 减 后 再 计 算 格 挡 或 者 暴 击 ！并 让 武 器 熟 练 度 提 升 的 更 快 ， 并 且 提 高 武 器 熟 练 度 的 上 限 。 上 限 依 次 为 ： 60， 100， 140， 180， 220， 260， 300， 340， 380， 420 。 （ 个 人 技 能 ，上 限 15 级 ） 
-skl_reserved_9|Reserved Skill 9 
-skl_reserved_9_desc|This is a reserved skill.
-skl_reserved_10|Reserved Skill 10 
-skl_reserved_10_desc|This is a reserved skill.
-skl_reserved_11|Reserved Skill 11 
-skl_reserved_11_desc|This is a reserved skill.
-skl_reserved_12|Reserved Skill 12 
-skl_reserved_12_desc|This is a reserved skill.
-skl_reserved_13|Reserved Skill 13 
-skl_reserved_13_desc|This is a reserved skill.
-skl_power_draw|强 弓 
-skl_power_draw_desc|角 色 可 以 使 用 更 强 力 的 弓 。 每 点 增 加 弓 箭 伤 害 14%%， 最 高 有 效 等 级 不 超 过 弓 的 等 级 加 4。 （ 个 人 技 能 ，上 限 15 级 ） 
-skl_power_throw|强 掷 
-skl_power_throw_desc|现 在 加 强 击 会 自 动 加 该 技 能 。 （ 个 人 技 能 ，上 限 15 级 ） 
-skl_power_strike|强 击 
-skl_power_strike_desc|每 点 增 加 8%%的 近 战 伤 害 ，每 点 增 加 10%%的 投 掷 伤 害 。  （ 个 人 技 能 ，上 限 15 级 ） 
-skl_ironflesh|铁 骨 
-skl_ironflesh_desc|每 点 增 加 2点 生 命 值 并 降 低 所 受 伤 害 3%% ！ （ 个 人 技 能 ，上 限 15 级 ） 
-skl_reserved_14|Reserved Skill 14 
-skl_reserved_14_desc|This is a reserved skill.
-skl_reserved_15|Reserved Skill 15 
-skl_reserved_15_desc|This is a reserved skill.
-skl_reserved_16|Reserved Skill 16 
-skl_reserved_16_desc|This is a reserved skill.
-skl_reserved_17|Reserved Skill 17 
-skl_reserved_17_desc|This is a reserved skill.
-skl_reserved_18|Reserved Skill 18 
-skl_reserved_18_desc|This is a reserved skill.
+﻿lockitver|DO NOT DELETE THIS LINE! 2896
+skl_trade|Handel
+skl_trade_desc|Jede Stufe dieser Fertigkeit reduziert Eure Handelsabzüge um 5%%. (Trupp-Fertigkeit)
+skl_leadership|Anführerschaft
+skl_leadership_desc|Jeder Punkt erhöht die Maximalzahl der Soldaten, die Ihr befehligen könnt, um 5, erhöht Eure Trupp-Moral und reduziert die Solde um 5%%. (Anführer-Fertigkeit)
+skl_prisoner_management|Gefangenen-Handhabung
+skl_prisoner_management_desc|Jede Stufe dieser Fertigkeit erhöht die Maximalzahl der Gefangenen um %d. (Anführer-Fertigkeit)
+skl_reserved_1|Reservierte Fertigkeit 1
+skl_reserved_1_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_2|Reservierte Fertigkeit 2
+skl_reserved_2_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_3|Reservierte Fertigkeit 3
+skl_reserved_3_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_4|Reservierte Fertigkeit 4
+skl_reserved_4_desc|Dies ist eine reservierte Fertigkeit.
+skl_persuasion|Überzeugungskraft
+skl_persuasion_desc|Diese Fertigkeit lässt andere Leute Euren Standpunkt einsehen. (Persönliche Fertigkeit)
+skl_engineer|Konstrukteur
+skl_engineer_desc|Diese Fertigkeit hilft Euch beim Bau von Belagerungsmaschinen und Verbesserungen von Lehen. (Trupp-Fertigkeit)
+skl_first_aid|Erste Hilfe
+skl_first_aid_desc|Helden erhalten pro Fertigkeitsstufe 5%% von bei Missionen verlorenen Trefferpunkten wieder. (Trupp-Fertigkeit)
+skl_surgery|Chirurgie
+skl_surgery_desc|Jeder Punkt dieser Fertigkeit ermöglicht eine 4%% Chance, dass ein tödlich verwundetes Truppmitglied nur verwundet statt getötet wird. (Trupp-Fertigkeit)
+skl_wound_treatment|Wundbehandlung
+skl_wound_treatment_desc|Die Heilungsgeschwindigkeit des Trupps wird um 20%% pro Fertigkeitsstufe erhöht. (Trupp-Fertigkeit)
+skl_inventory_management|Inventarverwaltung
+skl_inventory_management_desc|Erhöht das Aufnahmevermögen des Inventars um +6 pro Fertigkeitsstufe. (Anführer-Fertigkeit)
+skl_spotting|Aufklärung
+skl_spotting_desc|Die Sichtweite des Trupps wird 10%% pro Fertigkeitsstufe erhöht. (Trupp-Fertigkeit)
+skl_pathfinding|Wegfindung
+skl_pathfinding_desc|Die Kartengeschwindigkeit des Trupps wird um 3%% pro Fertigkeitsstufe erhöht. (Trupp-Fertigkeit)
+skl_tactics|Taktiken
+skl_tactics_desc|Jeweils zwei Stufen dieser Fertigkeit erhöhen den Kampfbeginnsvorteil um 1. (Trupp-Fertigkeit)
+skl_tracking|Spurensuche
+skl_tracking_desc|Spuren werden informativer. (Trupp-Fertigkeit)
+skl_trainer|Ausbilder
+skl_trainer_desc|Jeden Tag verleiht jeder Held mit dieser Fertigkeit jedem anderen Truppmitglied mit geringerer Stufe ein bisschen Erfahrung. Die Erfahrung wächst wie folgt : {0,4,10,16,23,30,38,46,55,65,80}. (Persönliche Fertigkeit)
+skl_reserved_5|Reservierte Fertigkeit 5
+skl_reserved_5_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_6|Reservierte Fertigkeit 6
+skl_reserved_6_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_7|Reservierte Fertigkeit 7
+skl_reserved_7_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_8|Reservierte Fertigkeit 8
+skl_reserved_8_desc|Dies ist eine reservierte Fertigkeit.
+skl_looting|Plündern
+skl_looting_desc|Diese Fertigkeit erhöht die Menge des erhaltenen Plünderguts um 10%% pro Fertigkeitsstufe. (Trupp-Fertigkeit)
+skl_horse_archery|Berittenes Bogenschießen
+skl_horse_archery_desc|Reduziert Schadens- und Genauigkeitsabzüge für Bogenschießen und Stürze vom Pferd. (Persönliche Fertigkeit)
+skl_riding|Reiten
+skl_riding_desc|Erlaubt Euch, Pferde höherer Schwierigkeitsstufen zu reiten und erhöht Eure Reitgeschwindigkeit und Manövrierfähigkeit. (Persönliche Fertigkeit)
+skl_athletics|Athletik
+skl_athletics_desc|Erhöht Eure Laufgeschwindigkeit. (Persönliche Fertigkeit)
+skl_shield|Schild
+skl_shield_desc|Reduziert den Schaden an Schilden (um 8%% pro Fertigkeitsstufe) und verbessert die Schildgeschwindigkeit und Deckfläche. (Persönliche Fertigkeit)
+skl_weapon_master|Waffenmeister
+skl_weapon_master_desc|Erhöht die Grenzen der Waffenfertigkeiten. Die Beschränkungen sehen wie folgt aus: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Persönliche Fertigkeit)
+skl_reserved_9|Reservierte Fertigkeit 9
+skl_reserved_9_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_10|Reservierte Fertigkeit 10
+skl_reserved_10_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_11|Reservierte Fertigkeit 11
+skl_reserved_11_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_12|Reservierte Fertigkeit 12
+skl_reserved_12_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_13|Reservierte Fertigkeit 13
+skl_reserved_13_desc|Dies ist eine reservierte Fertigkeit.
+skl_power_draw|Bogenzugkraft
+skl_power_draw_desc|Lässt die Figur stärkere Bögen benutzen. Jeder zusätzliche Punkt dieser Fertigkeit (bis zu vier plus Spannwert-Anforderung für den Bogen) erhöht den vom Bogen angerichteten Schaden um 12%%. (Persönliche Fertigkeit)
+skl_power_throw|Wurfkraft
+skl_power_throw_desc|Jeder zusätzliche Punkt dieser Fertigkeit erhöht den Wurfschaden um 10%%. (Persönliche Fertigkeit)
+skl_power_strike|Schlagkraft
+skl_power_strike_desc|Jeder zusätzliche Punkt dieser Fertigkeit erhöht den Nahkampfschaden um 8%%. (Persönliche Fertigkeit)
+skl_ironflesh|Eisenschwarte
+skl_ironflesh_desc|Jeder zusätzliche Punkt dieser Fertigkeit erhöht Trefferpunkte um +2. (Persönliche Fertigkeit)
+skl_reserved_14|Reservierte Fertigkeit 14
+skl_reserved_14_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_15|Reservierte Fertigkeit 15
+skl_reserved_15_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_16|Reservierte Fertigkeit 16
+skl_reserved_16_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_17|Reservierte Fertigkeit 17
+skl_reserved_17_desc|Dies ist eine reservierte Fertigkeit.
+skl_reserved_18|Reservierte Fertigkeit 18
+skl_reserved_18_desc|Dies ist eine reservierte Fertigkeit.
