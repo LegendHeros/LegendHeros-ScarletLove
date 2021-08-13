@@ -1,168 +1,180 @@
 partytemplatesfile version 1
-166
+178
 pt_none none 2 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_rescued_prisoners Rescued_Prisoners 2 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_enemy Enemy 2 0 36 7 -1 -1 -1 -1 -1 -1 
 pt_hero_party Hero_Party 2 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_village_defenders Village_Defenders 6 0 1 7 27 10 20 0 301 0 5 0 -1 -1 -1 -1 
+pt_village_defenders Village_Defenders 6 0 1 7 27 10 20 0 310 0 5 0 -1 -1 -1 -1 
 pt_cattle_herd Cattle_Herd 2814749767122982 0 3 7 26 80 120 0 -1 -1 -1 -1 -1 
-pt_looters Looters 9 0 2 312 217 0 8 0 216 8 45 0 -1 -1 -1 -1 
-pt_looters2 Looters2 9 0 2 312 217 12 45 0 218 6 22 0 -1 -1 -1 -1 
-pt_looters3 Looters3 9 0 35 312 243 0 10 0 242 3 45 0 -1 -1 -1 -1 
-pt_looters4 Looters4 9 0 35 312 245 0 10 0 244 1 25 0 243 3 55 0 -1 -1 -1 
-pt_manhunters Manhunters 2 0 32 137 242 2 20 0 241 9 40 0 -1 -1 -1 -1 
-pt_steppe_bandits Steppe_Bandits 7 0 2 312 229 4 108 0 -1 -1 -1 -1 -1 
-pt_steppe_bandits2 Steppe_Bandits 7 0 2 312 230 4 158 0 -1 -1 -1 -1 -1 
-pt_steppe_bandits3 Steppe_Bandits 7 0 2 312 239 4 158 0 -1 -1 -1 -1 -1 
-pt_steppe_bandits4 Steppe_Bandits 7 0 6 312 240 4 158 0 -1 -1 -1 -1 -1 
-pt_taiga_bandits Tundra_Bandits 9 0 2 312 231 4 108 0 -1 -1 -1 -1 -1 
-pt_forest_bandits Forest_Bandits 9 0 2 312 223 15 102 0 -1 -1 -1 -1 -1 
-pt_taiga_bandits2 Tundra_Bandits 9 0 2 312 232 4 158 0 -1 -1 -1 -1 -1 
-pt_taiga_bandits3 Tundra_Bandits 9 0 2 312 233 4 158 0 -1 -1 -1 -1 -1 
-pt_taiga_bandits4 Tundra_Bandits 9 0 6 312 234 4 158 0 -1 -1 -1 -1 -1 
-pt_desert_bandits Desert_Bandits 3 0 2 312 235 4 128 0 -1 -1 -1 -1 -1 
-pt_desert_bandits2 Desert_Bandits 3 0 2 312 236 4 158 0 -1 -1 -1 -1 -1 
-pt_desert_bandits3 Desert_Bandits 3 0 2 312 237 4 158 0 -1 -1 -1 -1 -1 
-pt_desert_bandits4 Desert_Bandits 3 0 6 312 238 4 158 0 -1 -1 -1 -1 -1 
-pt_mountain_bandits Mountain_Bandits 7 0 34 312 219 15 100 0 -1 -1 -1 -1 -1 
-pt_mountain_bandits2 Mountain_Bandits 7 0 34 312 220 20 160 0 -1 -1 -1 -1 -1 
-pt_mountain_bandits3 Mountain_Bandits 7 0 34 312 221 20 160 0 -1 -1 -1 -1 -1 
-pt_mountain_bandits4 Mountain_Bandits 7 0 6 312 222 20 160 0 -1 -1 -1 -1 -1 
-pt_sea_raiders Sea_Raiders 9 0 2 312 225 15 100 0 -1 -1 -1 -1 -1 
-pt_sea_raiders2 Sea_Raiders 9 0 2 312 226 25 160 0 -1 -1 -1 -1 -1 
-pt_sea_raiders3 Sea_Raiders 9 0 2 312 227 25 160 0 -1 -1 -1 -1 -1 
-pt_sea_raiders4 Sea_Raiders 9 0 6 312 228 25 160 0 -1 -1 -1 -1 -1 
+pt_looters Looters 9 0 2 312 226 0 8 0 225 8 45 0 -1 -1 -1 -1 
+pt_looters2 Looters2 9 0 2 312 226 12 45 0 227 6 22 0 -1 -1 -1 -1 
+pt_looters3 Looters3 9 0 35 312 252 0 10 0 251 3 45 0 -1 -1 -1 -1 
+pt_looters4 Looters4 9 0 35 312 254 0 10 0 253 1 25 0 252 3 55 0 -1 -1 -1 
+pt_manhunters Manhunters 2 0 32 137 251 2 20 0 250 9 40 0 -1 -1 -1 -1 
+pt_steppe_bandits Steppe_Bandits 7 0 2 312 238 4 108 0 -1 -1 -1 -1 -1 
+pt_steppe_bandits2 Steppe_Bandits 7 0 2 312 239 4 158 0 -1 -1 -1 -1 -1 
+pt_steppe_bandits3 Steppe_Bandits 7 0 2 312 248 4 158 0 -1 -1 -1 -1 -1 
+pt_steppe_bandits4 Steppe_Bandits 7 0 6 312 249 4 158 0 -1 -1 -1 -1 -1 
+pt_taiga_bandits Tundra_Bandits 9 0 2 312 240 4 108 0 -1 -1 -1 -1 -1 
+pt_forest_bandits Forest_Bandits 9 0 2 312 232 15 102 0 -1 -1 -1 -1 -1 
+pt_taiga_bandits2 Tundra_Bandits 9 0 2 312 241 4 158 0 -1 -1 -1 -1 -1 
+pt_taiga_bandits3 Tundra_Bandits 9 0 2 312 242 4 158 0 -1 -1 -1 -1 -1 
+pt_taiga_bandits4 Tundra_Bandits 9 0 6 312 243 4 158 0 -1 -1 -1 -1 -1 
+pt_desert_bandits Desert_Bandits 3 0 2 312 244 4 128 0 -1 -1 -1 -1 -1 
+pt_desert_bandits2 Desert_Bandits 3 0 2 312 245 4 158 0 -1 -1 -1 -1 -1 
+pt_desert_bandits3 Desert_Bandits 3 0 2 312 246 4 158 0 -1 -1 -1 -1 -1 
+pt_desert_bandits4 Desert_Bandits 3 0 6 312 247 4 158 0 -1 -1 -1 -1 -1 
+pt_mountain_bandits Mountain_Bandits 7 0 34 312 228 15 100 0 -1 -1 -1 -1 -1 
+pt_mountain_bandits2 Mountain_Bandits 7 0 34 312 229 20 160 0 -1 -1 -1 -1 -1 
+pt_mountain_bandits3 Mountain_Bandits 7 0 34 312 230 20 160 0 -1 -1 -1 -1 -1 
+pt_mountain_bandits4 Mountain_Bandits 7 0 6 312 231 20 160 0 -1 -1 -1 -1 -1 
+pt_sea_raiders Sea_Raiders 9 0 2 312 234 15 100 0 -1 -1 -1 -1 -1 
+pt_sea_raiders2 Sea_Raiders 9 0 2 312 235 25 160 0 -1 -1 -1 -1 -1 
+pt_sea_raiders3 Sea_Raiders 9 0 2 312 236 25 160 0 -1 -1 -1 -1 -1 
+pt_sea_raiders4 Sea_Raiders 9 0 6 312 237 25 160 0 -1 -1 -1 -1 -1 
 pt_deserters Deserters 3 0 33 312 -1 -1 -1 -1 -1 -1 
-pt_merchant_caravan Merchant_Caravan 8444249301712898 0 1 11 302 2 15 0 30 5 25 0 -1 -1 -1 -1 
-pt_troublesome_bandits Troublesome_Bandits 278537 0 3 312 217 14 55 0 -1 -1 -1 -1 -1 
-pt_busi1 Forest_Bandits 9 0 36 312 249 15 152 0 250 15 152 0 -1 -1 -1 -1 
-pt_busi2 Forest_Bandits 9 0 36 312 251 15 152 0 252 15 152 0 -1 -1 -1 -1 
-pt_busi3 Forest_Bandits 9 0 36 312 253 15 152 0 261 15 152 0 -1 -1 -1 -1 
-pt_busi4 Forest_Bandits 9 0 36 312 262 15 152 0 254 15 152 0 -1 -1 -1 -1 
-pt_busi5 Forest_Bandits 9 0 36 312 255 15 152 0 263 15 152 0 -1 -1 -1 -1 
-pt_busi6 Forest_Bandits 7 0 36 312 257 30 204 0 -1 -1 -1 -1 -1 
-pt_busi7 Forest_Bandits 7 0 36 312 258 15 152 0 265 15 152 0 -1 -1 -1 -1 
-pt_busi8 Forest_Bandits 7 0 36 312 259 15 152 0 266 15 152 0 -1 -1 -1 -1 
-pt_busi9 Forest_Bandits 7 0 36 312 260 15 152 0 256 15 152 0 264 15 152 0 267 15 152 0 -1 -1 
-pt_zhengfuzhe Mountain_Bandits 7 0 2 312 51 10 80 0 -1 -1 -1 -1 -1 
-pt_mengguxizhengjun Mountain_Bandits 7 0 21 312 119 140 200 0 120 60 100 0 -1 -1 -1 -1 
-pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 409609 0 3 312 217 24 58 0 303 1 1 1 -1 -1 -1 -1 
-pt_kidnapped_girl Kidnapped_Girl 262154 0 3 7 303 1 1 0 -1 -1 -1 -1 -1 
-pt_village_farmers Village_Farmers 67108870 0 4 7 27 5 10 0 301 3 8 0 -1 -1 -1 -1 
-pt_spy_partners Unremarkable_Travellers 327682 0 3 7 1164 1 1 0 30 5 11 0 -1 -1 -1 -1 
-pt_runaway_serfs Runaway_Serfs 327686 0 3 7 27 6 7 0 301 3 3 0 -1 -1 -1 -1 
-pt_spy Ordinary_Townsman 1125899907170306 0 3 7 1163 1 1 0 -1 -1 -1 -1 -1 
+pt_merchant_caravan Merchant_Caravan 8444249301712898 0 1 11 311 2 15 0 30 5 25 0 -1 -1 -1 -1 
+pt_troublesome_bandits Troublesome_Bandits 278537 0 3 312 226 14 55 0 -1 -1 -1 -1 -1 
+pt_busi1 Forest_Bandits 9 0 36 312 258 15 152 0 259 15 152 0 -1 -1 -1 -1 
+pt_busi2 Forest_Bandits 9 0 36 312 260 15 152 0 261 15 152 0 -1 -1 -1 -1 
+pt_busi3 Forest_Bandits 9 0 36 312 262 15 152 0 270 15 152 0 -1 -1 -1 -1 
+pt_busi4 Forest_Bandits 9 0 36 312 271 15 152 0 263 15 152 0 -1 -1 -1 -1 
+pt_busi5 Forest_Bandits 9 0 36 312 264 15 152 0 272 15 152 0 -1 -1 -1 -1 
+pt_busi6 Forest_Bandits 7 0 36 312 266 30 204 0 -1 -1 -1 -1 -1 
+pt_busi7 Forest_Bandits 7 0 36 312 267 15 152 0 274 15 152 0 -1 -1 -1 -1 
+pt_busi8 Forest_Bandits 7 0 36 312 268 15 152 0 275 15 152 0 -1 -1 -1 -1 
+pt_busi9 Forest_Bandits 7 0 36 312 269 15 152 0 265 15 152 0 273 15 152 0 276 15 152 0 -1 -1 
+pt_zhengfuzhe Mountain_Bandits 7 0 2 312 54 10 80 0 -1 -1 -1 -1 -1 
+pt_mengguxizhengjun Mountain_Bandits 7 0 21 312 122 140 200 0 123 60 100 0 -1 -1 -1 -1 
+pt_bandits_awaiting_ransom Bandits_Awaiting_Ransom 409609 0 3 312 226 24 58 0 312 1 1 1 -1 -1 -1 -1 
+pt_kidnapped_girl Kidnapped_Girl 262154 0 3 7 312 1 1 0 -1 -1 -1 -1 -1 
+pt_village_farmers Village_Farmers 67108870 0 4 7 27 5 10 0 310 3 8 0 -1 -1 -1 -1 
+pt_spy_partners Unremarkable_Travellers 327682 0 3 7 1179 1 1 0 30 5 11 0 -1 -1 -1 -1 
+pt_runaway_serfs Runaway_Serfs 327686 0 3 7 27 6 7 0 310 3 3 0 -1 -1 -1 -1 
+pt_spy Ordinary_Townsman 1125899907170306 0 3 7 1178 1 1 0 -1 -1 -1 -1 -1 
 pt_sacrificed_messenger Sacrificed_Messenger 844424930459650 0 3 7 -1 -1 -1 -1 -1 -1 
 pt_forager_party Foraging_Party 1407374887747586 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_scout_party Scouts 4194306 0 1 312 -1 -1 -1 -1 -1 -1 
 pt_patrol_party Patrol 4194306 0 1 137 -1 -1 -1 -1 -1 -1 
 pt_messenger_party Messenger 4194306 0 1 7 -1 -1 -1 -1 -1 -1 
 pt_raider_party Raiders 262146 0 1 312 -1 -1 -1 -1 -1 -1 
-pt_raider_captives Raider_Captives 0 0 1 0 301 6 30 1 -1 -1 -1 -1 -1 
-pt_kingdom_caravan_party Caravan 8444249305514021 0 1 7 302 1 10 0 37 5 10 0 41 5 10 0 30 12 40 0 -1 -1 
+pt_raider_captives Raider_Captives 0 0 1 0 310 6 30 1 -1 -1 -1 -1 -1 
+pt_kingdom_caravan_party Caravan 8444249305514021 0 1 7 311 1 10 0 40 5 10 0 44 5 10 0 30 12 40 0 -1 -1 
 pt_prisoner_train_party Prisoner_Train 1407374887747586 0 1 7 -1 -1 -1 -1 -1 -1 
-pt_default_prisoners Default_Prisoners 0 0 1 0 217 5 10 1 -1 -1 -1 -1 -1 
+pt_default_prisoners Default_Prisoners 0 0 1 0 226 5 10 1 -1 -1 -1 -1 -1 
 pt_routed_warriors Routed_Enemies 3 0 1 137 -1 -1 -1 -1 -1 -1 
-pt_qishiguozhuli Troublesome_Bandits 2814749767385095 0 6 137 91 30 60 0 84 15 85 0 88 15 85 0 -1 -1 -1 
-pt_qishiguoxianfeng Troublesome_Bandits 2814749767385095 0 6 312 89 40 160 0 -1 -1 -1 -1 -1 
-pt_qishiguoyibing Troublesome_Bandits 2814749767385095 0 6 137 80 100 200 0 -1 -1 -1 -1 -1 
-pt_qishiguoyibing2 Troublesome_Bandits 2814749767386119 0 6 137 91 200 200 0 -1 -1 -1 -1 -1 
-pt_heianpohuazhe Troublesome_Bandits 2814749767385095 0 6 137 293 40 80 0 214 40 80 0 57 40 80 0 -1 -1 -1 
-pt_bubingguoxianfeng Troublesome_Bandits 2814749767385097 0 6 312 130 60 160 0 -1 -1 -1 -1 -1 
-pt_bubingguozhuli Troublesome_Bandits 2814749767385097 0 6 137 133 30 80 0 137 30 85 0 -1 -1 -1 -1 
-pt_bubingguozhuibing Troublesome_Bandits 2814749767385097 0 6 137 131 40 80 0 -1 -1 -1 -1 -1 
-pt_gongbingguoxianfeng Troublesome_Bandits 2814749767385095 0 6 312 106 10 80 0 103 10 85 0 99 20 80 0 -1 -1 -1 
-pt_gongbingguozhuli Troublesome_Bandits 2814749767385095 0 6 312 108 15 35 0 105 15 45 0 101 30 60 0 -1 -1 -1 
-pt_gongbingguozhuibing Troublesome_Bandits 2814749767385095 0 6 312 106 4 30 0 103 3 30 0 99 3 30 0 -1 -1 -1 
-pt_gongbingguozhuibing2 Troublesome_Bandits 2814749767385095 0 6 312 106 4 10 0 103 3 10 0 99 3 10 0 -1 -1 -1 
-pt_henghazu Troublesome_Bandits 2814749767385095 0 6 312 411 1 1 0 202 10 20 0 203 3 15 0 -1 -1 -1 
-pt_yemanren Troublesome_Bandits 2814749767385095 0 6 312 412 1 1 0 208 6 6 0 -1 -1 -1 -1 
-pt_weichengxianfeng Troublesome_Bandits 2814749767385095 0 19 312 83 150 150 0 88 100 100 0 84 100 100 0 90 50 50 0 -1 -1 
-pt_weichengxianfeng2 Troublesome_Bandits 2814749767385095 0 19 312 90 20 20 0 88 30 30 0 84 50 50 0 91 10 10 0 -1 -1 
-pt_weichengxianfeng3 Troublesome_Bandits 2814749767385095 0 19 312 89 10 10 0 -1 -1 -1 -1 -1 
+pt_qishiguozhuli Troublesome_Bandits 2814749767385095 0 6 137 94 30 60 0 87 15 85 0 91 15 85 0 -1 -1 -1 
+pt_qishiguoxianfeng Troublesome_Bandits 2814749767385095 0 6 312 92 40 160 0 -1 -1 -1 -1 -1 
+pt_qishiguoyibing Troublesome_Bandits 2814749767385095 0 6 137 83 100 200 0 -1 -1 -1 -1 -1 
+pt_qishiguoyibing2 Troublesome_Bandits 2814749767386119 0 6 137 94 200 200 0 -1 -1 -1 -1 -1 
+pt_heianpohuazhe Troublesome_Bandits 2814749767385095 0 6 137 302 40 80 0 223 40 80 0 60 40 80 0 -1 -1 -1 
+pt_bubingguoxianfeng Troublesome_Bandits 2814749767385097 0 6 312 133 60 160 0 -1 -1 -1 -1 -1 
+pt_bubingguozhuli Troublesome_Bandits 2814749767385097 0 6 137 136 30 80 0 140 30 85 0 -1 -1 -1 -1 
+pt_bubingguozhuibing Troublesome_Bandits 2814749767385097 0 6 137 134 40 80 0 -1 -1 -1 -1 -1 
+pt_gongbingguoxianfeng Troublesome_Bandits 2814749767385095 0 6 312 109 10 80 0 106 10 85 0 102 20 80 0 -1 -1 -1 
+pt_gongbingguozhuli Troublesome_Bandits 2814749767385095 0 6 312 111 15 35 0 108 15 45 0 104 30 60 0 -1 -1 -1 
+pt_gongbingguozhuibing Troublesome_Bandits 2814749767385095 0 6 312 109 4 30 0 106 3 30 0 102 3 30 0 -1 -1 -1 
+pt_gongbingguozhuibing2 Troublesome_Bandits 2814749767385095 0 6 312 109 4 10 0 106 3 10 0 102 3 10 0 -1 -1 -1 
+pt_henghazu Troublesome_Bandits 2814749767385095 0 6 312 426 1 1 0 205 10 20 0 206 3 15 0 -1 -1 -1 
+pt_yemanren Troublesome_Bandits 2814749767385095 0 6 312 427 1 1 0 211 6 6 0 -1 -1 -1 -1 
+pt_weichengxianfeng Troublesome_Bandits 2814749767385095 0 19 312 86 150 150 0 91 100 100 0 87 100 100 0 93 50 50 0 -1 -1 
+pt_weichengxianfeng2 Troublesome_Bandits 2814749767385095 0 19 312 93 20 20 0 91 30 30 0 87 50 50 0 94 10 10 0 -1 -1 
+pt_weichengxianfeng3 Troublesome_Bandits 2814749767385095 0 19 312 92 10 10 0 -1 -1 -1 -1 -1 
 pt_center_reinforcements Reinforcements 9 0 1 137 28 5 30 0 29 4 20 0 -1 -1 -1 -1 
 pt_kingdom_hero_party War_Party 4259844 0 1 137 -1 -1 -1 -1 -1 -1 
-pt_kingdom_1_reinforcements_a {!}kingdom_1_reinforcements_a 0 0 1 0 79 5 10 0 85 2 4 0 -1 -1 -1 -1 
-pt_kingdom_1_reinforcements_b {!}kingdom_1_reinforcements_b 0 0 1 0 82 3 6 0 86 2 4 0 -1 -1 -1 -1 
-pt_kingdom_1_reinforcements_c {!}kingdom_1_reinforcements_c 0 0 1 0 90 2 4 0 87 1 2 0 -1 -1 -1 -1 
-pt_kingdom_1_reinforcements_a2 {!}kingdom_1_reinforcements_a 0 0 1 0 82 5 10 0 86 2 4 0 213 1 2 0 -1 -1 -1 
-pt_kingdom_1_reinforcements_b2 {!}kingdom_1_reinforcements_b 0 0 1 0 90 3 6 0 87 2 4 0 213 1 2 0 -1 -1 -1 
-pt_kingdom_1_reinforcements_c2 {!}kingdom_1_reinforcements_c 0 0 1 0 214 2 4 0 215 1 2 0 -1 -1 -1 -1 
-pt_kingdom_2_reinforcements_a {!}kingdom_2_reinforcements_a 0 0 1 0 97 5 10 0 98 2 4 0 -1 -1 -1 -1 
-pt_kingdom_2_reinforcements_b {!}kingdom_2_reinforcements_b 0 0 1 0 103 2 4 0 99 3 6 0 -1 -1 -1 -1 
-pt_kingdom_2_reinforcements_c {!}kingdom_2_reinforcements_c 0 0 1 0 100 2 3 0 107 1 2 0 -1 -1 -1 -1 
-pt_kingdom_2_reinforcements_a2 {!}kingdom_2_reinforcements_a 0 0 1 0 103 5 10 0 99 2 4 0 -1 -1 -1 -1 
-pt_kingdom_2_reinforcements_b2 {!}kingdom_2_reinforcements_b 0 0 1 0 100 2 4 0 107 3 6 0 52 3 6 0 -1 -1 -1 
-pt_kingdom_2_reinforcements_c2 {!}kingdom_2_reinforcements_c 0 0 1 0 108 2 3 0 101 1 2 0 53 3 6 0 -1 -1 -1 
-pt_kingdom_3_reinforcements_a {!}kingdom_3_reinforcements_a 0 0 1 0 114 3 5 0 115 4 9 0 -1 -1 -1 -1 
-pt_kingdom_3_reinforcements_b {!}kingdom_3_reinforcements_b 0 0 1 0 121 2 4 0 115 2 4 0 -1 -1 -1 -1 
-pt_kingdom_3_reinforcements_c {!}kingdom_3_reinforcements_c 0 0 1 0 122 2 4 0 117 2 3 0 -1 -1 -1 -1 
-pt_kingdom_3_reinforcements_a2 {!}kingdom_3_reinforcements_a 0 0 1 0 121 3 5 0 115 4 9 0 -1 -1 -1 -1 
-pt_kingdom_3_reinforcements_b2 {!}kingdom_3_reinforcements_b 0 0 1 0 121 2 4 0 117 2 4 0 -1 -1 -1 -1 
-pt_kingdom_3_reinforcements_c2 {!}kingdom_3_reinforcements_c 0 0 1 0 122 2 4 0 118 2 3 0 119 2 3 0 -1 -1 -1 
-pt_kingdom_4_reinforcements_a {!}kingdom_4_reinforcements_a 0 0 1 0 128 5 10 0 135 2 4 0 -1 -1 -1 -1 
-pt_kingdom_4_reinforcements_b {!}kingdom_4_reinforcements_b 0 0 1 0 130 2 5 0 136 2 3 0 -1 -1 -1 -1 
-pt_kingdom_4_reinforcements_c {!}kingdom_4_reinforcements_c 0 0 1 0 132 3 6 0 -1 -1 -1 -1 -1 
-pt_kingdom_4_reinforcements_a2 {!}kingdom_4_reinforcements_a 0 0 1 0 130 2 5 0 136 2 3 0 51 3 6 0 -1 -1 -1 
-pt_kingdom_4_reinforcements_b2 {!}kingdom_4_reinforcements_b 0 0 1 0 132 3 6 0 -1 -1 -1 -1 -1 
-pt_kingdom_4_reinforcements_c2 {!}kingdom_4_reinforcements_c 0 0 1 0 133 3 6 0 -1 -1 -1 -1 -1 
-pt_kingdom_5_reinforcements_a {!}kingdom_5_reinforcements_a 0 0 1 0 154 5 10 0 162 2 4 0 -1 -1 -1 -1 
-pt_kingdom_5_reinforcements_b {!}kingdom_5_reinforcements_b 0 0 1 0 156 3 6 0 164 2 4 0 -1 -1 -1 -1 
-pt_kingdom_5_reinforcements_c {!}kingdom_5_reinforcements_c 0 0 1 0 157 2 3 0 165 1 2 0 -1 -1 -1 -1 
-pt_kingdom_5_reinforcements_a2 {!}kingdom_5_reinforcements_a2 0 0 1 0 156 5 10 0 164 2 4 0 -1 -1 -1 -1 
-pt_kingdom_5_reinforcements_b2 {!}kingdom_5_reinforcements_b2 0 0 1 0 157 3 6 0 165 2 4 0 -1 -1 -1 -1 
-pt_kingdom_5_reinforcements_c2 {!}kingdom_5_reinforcements_c2 0 0 1 0 158 2 3 0 166 1 2 0 159 1 5 0 -1 -1 -1 
-pt_kingdom_6_reinforcements_a {!}kingdom_6_reinforcements_a 0 0 1 0 172 5 10 0 186 2 4 0 -1 -1 -1 -1 
-pt_kingdom_6_reinforcements_b {!}kingdom_6_reinforcements_b 0 0 1 0 190 2 4 0 174 2 3 0 187 1 3 0 -1 -1 -1 
-pt_kingdom_6_reinforcements_c {!}kingdom_6_reinforcements_c 0 0 1 0 191 3 5 0 177 2 4 0 -1 -1 -1 -1 
-pt_kingdom_6_reinforcements_a2 {!}kingdom_6_reinforcements_a 0 0 1 0 172 5 10 0 186 2 4 0 177 2 4 0 -1 -1 -1 
-pt_kingdom_6_reinforcements_b2 {!}kingdom_6_reinforcements_b 0 0 1 0 190 2 4 0 174 2 3 0 187 1 3 0 178 2 4 0 -1 -1 
-pt_kingdom_6_reinforcements_c2 {!}kingdom_6_reinforcements_c 0 0 1 0 191 3 5 0 179 2 4 0 -1 -1 -1 -1 
-pt_kingdom_7_reinforcements_a {!}kingdom_7_reinforcements_a 0 0 1 0 287 5 9 0 288 2 4 0 289 2 4 0 55 1 1 0 -1 -1 
-pt_kingdom_7_reinforcements_b {!}kingdom_7_reinforcements_b 0 0 1 0 292 3 6 0 56 2 4 0 -1 -1 -1 -1 
-pt_kingdom_7_reinforcements_c {!}kingdom_7_reinforcements_c 0 0 1 0 56 2 4 0 294 1 1 0 293 1 3 0 -1 -1 -1 
-pt_kingdom_8_reinforcements_a {!}kingdom_8_reinforcements_a 0 0 1 0 251 5 10 0 252 2 4 0 -1 -1 -1 -1 
-pt_kingdom_8_reinforcements_b {!}kingdom_8_reinforcements_b 0 0 1 0 262 3 6 0 254 2 4 0 -1 -1 -1 -1 
-pt_kingdom_8_reinforcements_c {!}kingdom_8_reinforcements_c 0 0 1 0 267 2 4 0 260 2 4 0 256 1 2 0 264 1 2 0 -1 -1 
-pt_kingdom_8_reinforcements_a2 {!}kingdom_8_reinforcements_a 0 0 1 0 262 3 6 0 254 2 4 0 -1 -1 -1 -1 
-pt_kingdom_8_reinforcements_b2 {!}kingdom_8_reinforcements_b 0 0 1 0 267 2 4 0 260 2 4 0 256 1 2 0 264 1 2 0 -1 -1 
-pt_kingdom_8_reinforcements_c2 {!}kingdom_8_reinforcements_c 0 0 1 0 269 2 4 0 275 2 4 0 278 1 2 0 272 1 2 0 -1 -1 
-pt_kingdom_9_reinforcements_a {!}kingdom_9_reinforcements_a 0 0 1 0 207 5 10 0 199 2 4 0 -1 -1 -1 -1 
-pt_kingdom_9_reinforcements_b {!}kingdom_9_reinforcements_b 0 0 1 0 207 2 4 0 203 2 4 0 199 2 4 0 -1 -1 -1 
-pt_kingdom_9_reinforcements_c {!}kingdom_9_reinforcements_c 0 0 1 0 208 2 4 0 204 2 4 0 200 2 4 0 -1 -1 -1 
-pt_kingdom_9_reinforcements_b2 {!}kingdom_9_reinforcements_b 0 0 1 0 208 2 4 0 204 2 4 0 200 2 4 0 213 4 6 0 -1 -1 
-pt_kingdom_9_reinforcements_c2 {!}kingdom_9_reinforcements_c 0 0 1 0 209 2 4 0 214 4 6 0 -1 -1 -1 -1 
-pt_steppe_bandit_lair Steppe_Bandit_Lair 8444249303418044 0 3 312 239 7 28 0 240 7 28 0 -1 -1 -1 -1 
-pt_taiga_bandit_lair Tundra_Bandit_Lair 8444249303418044 0 3 312 233 7 28 0 234 7 28 0 -1 -1 -1 -1 
-pt_desert_bandit_lair Desert_Bandit_Lair 8444249303418044 0 3 312 237 7 28 0 238 7 28 0 -1 -1 -1 -1 
-pt_forest_bandit_lair Forest_Bandit_Camp 8444249303418044 0 3 312 233 7 28 0 234 7 28 0 -1 -1 -1 -1 
-pt_mountain_bandit_lair Mountain_Bandit_Hideout 8444249303418044 0 3 312 221 7 28 0 222 7 28 0 -1 -1 -1 -1 
-pt_sea_raider_lair Sea_Raider_Landing 8444249303418044 0 3 312 227 7 28 0 228 7 28 0 -1 -1 -1 -1 
-pt_looter_lair Kidnappers'_Hideout 8444249303418044 0 3 312 216 3 5 0 217 15 25 0 218 15 25 0 -1 -1 -1 
-pt_bandit_lair_templates_end {!}bandit_lair_templates_end 1033 0 2 312 225 15 50 0 -1 -1 -1 -1 -1 
-pt_leaded_looters Band_of_robbers 262153 0 3 312 1247 1 1 0 217 1 10 0 216 10 20 0 -1 -1 -1 
-pt_ershixiong Band_of_robbers 278535 0 6 312 389 1 1 0 48 5 10 0 47 10 20 0 46 30 80 0 -1 -1 
-pt_boss1 Troublesome_Bandits 2814749767385097 0 6 312 423 1 1 0 217 10 10 0 216 11 101 0 -1 -1 -1 
-pt_boss2 Troublesome_Bandits 2814749767385097 0 6 312 424 1 1 0 219 5 5 0 223 5 10 0 217 11 101 0 -1 -1 
-pt_boss3 Troublesome_Bandits 2814749767385097 0 6 312 425 1 1 0 223 10 55 0 232 10 10 0 -1 -1 -1 
-pt_boss4 Troublesome_Bandits 2814749767385095 0 6 312 426 1 1 0 221 5 10 0 220 10 20 0 219 10 40 0 -1 -1 
-pt_boss5 Troublesome_Bandits 2814749767385097 0 6 312 427 1 1 0 227 5 10 0 226 10 30 0 225 10 50 0 -1 -1 
-pt_boss6 Troublesome_Bandits 2814749767385097 0 6 312 445 1 1 0 270 40 80 0 276 40 80 0 273 20 40 0 277 20 40 0 -1 
-pt_busi11 Forest_Bandits 278537 0 6 312 256 80 240 0 389 1 1 0 -1 -1 -1 -1 
-pt_heianjinglingdui Troublesome_Bandits 2814749767385095 0 6 312 393 1 1 0 397 1 1 0 398 1 1 0 215 90 280 0 -1 -1 
-pt_menggujingying1 Troublesome_Bandits 2814749767385095 0 6 312 702 1 1 0 119 10 50 0 -1 -1 -1 -1 
-pt_haiwailingzhu Troublesome_Bandits 2814749767385095 0 6 312 717 1 1 0 54 100 150 0 -1 -1 -1 -1 
-pt_4jingying Troublesome_Bandits 2814749767385095 0 22 312 133 100 100 0 -1 -1 -1 -1 -1 
-pt_2jingying Troublesome_Bandits 2814749767385095 0 20 312 54 100 100 0 -1 -1 -1 -1 -1 
-pt_5jingying Troublesome_Bandits 2814749767385095 0 23 312 161 80 80 0 166 20 20 0 -1 -1 -1 -1 
-pt_6jingying Troublesome_Bandits 2814749767385095 0 24 312 180 100 100 0 -1 -1 -1 -1 -1 
-pt_9jingying Troublesome_Bandits 2814749767385095 0 27 312 210 50 50 0 204 50 50 0 200 50 50 0 208 50 50 0 -1 -1 
-pt_luanzhanggang Troublesome_Bandits 2814749767132175 0 36 312 267 200 240 0 260 200 240 0 261 300 360 0 254 300 360 0 -1 -1 
-pt_sea_raiders5 Sea_Raiders 262153 0 6 312 427 1 1 0 228 180 300 0 -1 -1 -1 -1 
-pt_steppe_bandits5 Steppe_Bandits 262151 0 6 312 423 1 1 0 240 180 300 0 -1 -1 -1 -1 
-pt_taiga_bandits5 Tundra_Bandits 262153 0 6 312 425 1 1 0 234 180 300 0 -1 -1 -1 -1 
-pt_desert_bandits5 Desert_Bandits 262147 0 6 312 238 180 300 0 -1 -1 -1 -1 -1 
-pt_mountain_bandits5 Mountain_Bandits 262151 0 6 312 426 1 1 0 222 180 300 0 -1 -1 -1 -1 
-pt_latiao Troublesome_Bandits 2814749767385097 0 6 312 383 1 1 0 27 5 20 0 301 2 20 0 -1 -1 -1 
-pt_kafeidui Troublesome_Bandits 2814749767385097 0 6 312 431 1 1 0 248 40 40 0 247 100 100 0 -1 -1 -1 
-pt_ceshiduiwu Troublesome_Bandits 2814749767385097 0 22 312 131 100 100 0 -1 -1 -1 -1 -1 
+pt_kingdom_1_reinforcements_a {!}kingdom_1_reinforcements_a 0 0 1 0 82 5 10 0 88 2 4 0 -1 -1 -1 -1 
+pt_kingdom_1_reinforcements_b {!}kingdom_1_reinforcements_b 0 0 1 0 85 3 6 0 89 2 4 0 -1 -1 -1 -1 
+pt_kingdom_1_reinforcements_c {!}kingdom_1_reinforcements_c 0 0 1 0 93 2 4 0 90 1 2 0 -1 -1 -1 -1 
+pt_kingdom_1_reinforcements_a2 {!}kingdom_1_reinforcements_a 0 0 1 0 85 5 10 0 89 2 4 0 222 1 2 0 -1 -1 -1 
+pt_kingdom_1_reinforcements_b2 {!}kingdom_1_reinforcements_b 0 0 1 0 93 3 6 0 90 2 4 0 222 1 2 0 -1 -1 -1 
+pt_kingdom_1_reinforcements_c2 {!}kingdom_1_reinforcements_c 0 0 1 0 223 2 4 0 224 1 2 0 -1 -1 -1 -1 
+pt_kingdom_2_reinforcements_a {!}kingdom_2_reinforcements_a 0 0 1 0 100 5 10 0 101 2 4 0 -1 -1 -1 -1 
+pt_kingdom_2_reinforcements_b {!}kingdom_2_reinforcements_b 0 0 1 0 106 2 4 0 102 3 6 0 -1 -1 -1 -1 
+pt_kingdom_2_reinforcements_c {!}kingdom_2_reinforcements_c 0 0 1 0 103 2 3 0 110 1 2 0 -1 -1 -1 -1 
+pt_kingdom_2_reinforcements_a2 {!}kingdom_2_reinforcements_a 0 0 1 0 106 5 10 0 102 2 4 0 -1 -1 -1 -1 
+pt_kingdom_2_reinforcements_b2 {!}kingdom_2_reinforcements_b 0 0 1 0 103 2 4 0 110 3 6 0 55 3 6 0 -1 -1 -1 
+pt_kingdom_2_reinforcements_c2 {!}kingdom_2_reinforcements_c 0 0 1 0 111 2 3 0 104 1 2 0 56 3 6 0 -1 -1 -1 
+pt_kingdom_3_reinforcements_a {!}kingdom_3_reinforcements_a 0 0 1 0 117 3 5 0 118 4 9 0 -1 -1 -1 -1 
+pt_kingdom_3_reinforcements_b {!}kingdom_3_reinforcements_b 0 0 1 0 124 2 4 0 118 2 4 0 -1 -1 -1 -1 
+pt_kingdom_3_reinforcements_c {!}kingdom_3_reinforcements_c 0 0 1 0 125 2 4 0 120 2 3 0 -1 -1 -1 -1 
+pt_kingdom_3_reinforcements_a2 {!}kingdom_3_reinforcements_a 0 0 1 0 124 3 5 0 118 4 9 0 -1 -1 -1 -1 
+pt_kingdom_3_reinforcements_b2 {!}kingdom_3_reinforcements_b 0 0 1 0 124 2 4 0 120 2 4 0 -1 -1 -1 -1 
+pt_kingdom_3_reinforcements_c2 {!}kingdom_3_reinforcements_c 0 0 1 0 125 2 4 0 121 2 3 0 122 2 3 0 -1 -1 -1 
+pt_kingdom_4_reinforcements_a {!}kingdom_4_reinforcements_a 0 0 1 0 131 5 10 0 138 2 4 0 -1 -1 -1 -1 
+pt_kingdom_4_reinforcements_b {!}kingdom_4_reinforcements_b 0 0 1 0 133 2 5 0 139 2 3 0 -1 -1 -1 -1 
+pt_kingdom_4_reinforcements_c {!}kingdom_4_reinforcements_c 0 0 1 0 135 3 6 0 -1 -1 -1 -1 -1 
+pt_kingdom_4_reinforcements_a2 {!}kingdom_4_reinforcements_a 0 0 1 0 133 2 5 0 139 2 3 0 54 3 6 0 -1 -1 -1 
+pt_kingdom_4_reinforcements_b2 {!}kingdom_4_reinforcements_b 0 0 1 0 135 3 6 0 -1 -1 -1 -1 -1 
+pt_kingdom_4_reinforcements_c2 {!}kingdom_4_reinforcements_c 0 0 1 0 136 3 6 0 -1 -1 -1 -1 -1 
+pt_kingdom_5_reinforcements_a {!}kingdom_5_reinforcements_a 0 0 1 0 157 5 10 0 165 2 4 0 -1 -1 -1 -1 
+pt_kingdom_5_reinforcements_b {!}kingdom_5_reinforcements_b 0 0 1 0 159 3 6 0 167 2 4 0 -1 -1 -1 -1 
+pt_kingdom_5_reinforcements_c {!}kingdom_5_reinforcements_c 0 0 1 0 160 2 3 0 168 1 2 0 -1 -1 -1 -1 
+pt_kingdom_5_reinforcements_a2 {!}kingdom_5_reinforcements_a2 0 0 1 0 159 5 10 0 167 2 4 0 -1 -1 -1 -1 
+pt_kingdom_5_reinforcements_b2 {!}kingdom_5_reinforcements_b2 0 0 1 0 160 3 6 0 168 2 4 0 -1 -1 -1 -1 
+pt_kingdom_5_reinforcements_c2 {!}kingdom_5_reinforcements_c2 0 0 1 0 161 2 3 0 169 1 2 0 162 1 5 0 -1 -1 -1 
+pt_kingdom_6_reinforcements_a {!}kingdom_6_reinforcements_a 0 0 1 0 175 5 10 0 189 2 4 0 -1 -1 -1 -1 
+pt_kingdom_6_reinforcements_b {!}kingdom_6_reinforcements_b 0 0 1 0 193 2 4 0 177 2 3 0 190 1 3 0 -1 -1 -1 
+pt_kingdom_6_reinforcements_c {!}kingdom_6_reinforcements_c 0 0 1 0 194 3 5 0 180 2 4 0 -1 -1 -1 -1 
+pt_kingdom_6_reinforcements_a2 {!}kingdom_6_reinforcements_a 0 0 1 0 175 5 10 0 189 2 4 0 180 2 4 0 -1 -1 -1 
+pt_kingdom_6_reinforcements_b2 {!}kingdom_6_reinforcements_b 0 0 1 0 193 2 4 0 177 2 3 0 190 1 3 0 181 2 4 0 -1 -1 
+pt_kingdom_6_reinforcements_c2 {!}kingdom_6_reinforcements_c 0 0 1 0 194 3 5 0 182 2 4 0 -1 -1 -1 -1 
+pt_kingdom_7_reinforcements_a2 {!}kingdom_7_reinforcements_a 0 0 1 0 296 5 9 0 -1 -1 -1 -1 -1 
+pt_kingdom_7_reinforcements_b2 {!}kingdom_7_reinforcements_b 0 0 1 0 296 5 9 0 29 2 4 0 -1 -1 -1 -1 
+pt_kingdom_7_reinforcements_c2 {!}kingdom_7_reinforcements_c 0 0 1 0 296 5 9 0 29 2 4 0 -1 -1 -1 -1 
+pt_kingdom_7_reinforcements_a {!}kingdom_7_reinforcements_a 0 0 1 0 296 5 9 0 297 2 4 0 298 2 4 0 58 1 1 0 -1 -1 
+pt_kingdom_7_reinforcements_b {!}kingdom_7_reinforcements_b 0 0 1 0 301 3 6 0 59 2 4 0 -1 -1 -1 -1 
+pt_kingdom_7_reinforcements_c {!}kingdom_7_reinforcements_c 0 0 1 0 59 2 4 0 303 1 1 0 302 1 3 0 -1 -1 -1 
+pt_kingdom_7_reinforcements_a3 {!}kingdom_7_reinforcements_a 0 0 1 0 301 3 6 0 59 2 4 0 -1 -1 -1 -1 
+pt_kingdom_7_reinforcements_b3 {!}kingdom_7_reinforcements_b 0 0 1 0 59 2 4 0 303 1 1 0 302 1 3 0 -1 -1 -1 
+pt_kingdom_7_reinforcements_c3 {!}kingdom_7_reinforcements_c 0 0 1 0 61 2 4 0 304 1 1 0 303 1 3 0 -1 -1 -1 
+pt_kingdom_8_reinforcements_a {!}kingdom_8_reinforcements_a 0 0 1 0 260 5 10 0 261 2 4 0 -1 -1 -1 -1 
+pt_kingdom_8_reinforcements_b {!}kingdom_8_reinforcements_b 0 0 1 0 271 3 6 0 263 2 4 0 -1 -1 -1 -1 
+pt_kingdom_8_reinforcements_c {!}kingdom_8_reinforcements_c 0 0 1 0 276 2 4 0 269 2 4 0 265 1 2 0 273 1 2 0 -1 -1 
+pt_kingdom_8_reinforcements_a2 {!}kingdom_8_reinforcements_a 0 0 1 0 271 3 6 0 263 2 4 0 -1 -1 -1 -1 
+pt_kingdom_8_reinforcements_b2 {!}kingdom_8_reinforcements_b 0 0 1 0 276 2 4 0 269 2 4 0 265 1 2 0 273 1 2 0 -1 -1 
+pt_kingdom_8_reinforcements_c2 {!}kingdom_8_reinforcements_c 0 0 1 0 278 2 4 0 284 2 4 0 287 1 2 0 281 1 2 0 -1 -1 
+pt_kingdom_9_reinforcements_a {!}kingdom_9_reinforcements_a 0 0 1 0 210 5 10 0 202 2 4 0 -1 -1 -1 -1 
+pt_kingdom_9_reinforcements_b {!}kingdom_9_reinforcements_b 0 0 1 0 210 2 4 0 206 2 4 0 202 2 4 0 -1 -1 -1 
+pt_kingdom_9_reinforcements_c {!}kingdom_9_reinforcements_c 0 0 1 0 211 2 4 0 207 2 4 0 203 2 4 0 -1 -1 -1 
+pt_kingdom_9_reinforcements_b2 {!}kingdom_9_reinforcements_b 0 0 1 0 211 2 4 0 207 2 4 0 203 2 4 0 222 4 6 0 -1 -1 
+pt_kingdom_9_reinforcements_c2 {!}kingdom_9_reinforcements_c 0 0 1 0 212 2 4 0 223 4 6 0 -1 -1 -1 -1 
+pt_steppe_bandit_lair Steppe_Bandit_Lair 8444249303418044 0 3 312 248 7 28 0 249 7 28 0 -1 -1 -1 -1 
+pt_taiga_bandit_lair Tundra_Bandit_Lair 8444249303418044 0 3 312 242 7 28 0 243 7 28 0 -1 -1 -1 -1 
+pt_desert_bandit_lair Desert_Bandit_Lair 8444249303418044 0 3 312 246 7 28 0 247 7 28 0 -1 -1 -1 -1 
+pt_forest_bandit_lair Forest_Bandit_Camp 8444249303418044 0 3 312 242 7 28 0 243 7 28 0 -1 -1 -1 -1 
+pt_mountain_bandit_lair Mountain_Bandit_Hideout 8444249303418044 0 3 312 230 7 28 0 231 7 28 0 -1 -1 -1 -1 
+pt_sea_raider_lair Sea_Raider_Landing 8444249303418044 0 3 312 236 7 28 0 237 7 28 0 -1 -1 -1 -1 
+pt_looter_lair Kidnappers'_Hideout 8444249303418044 0 3 312 225 3 5 0 226 15 25 0 227 15 25 0 -1 -1 -1 
+pt_bandit_lair_templates_end {!}bandit_lair_templates_end 1033 0 2 312 234 15 50 0 -1 -1 -1 -1 -1 
+pt_leaded_looters Band_of_robbers 262153 0 3 312 1262 1 1 0 226 1 10 0 225 10 20 0 -1 -1 -1 
+pt_ershixiong Band_of_robbers 278535 0 6 312 398 1 1 0 51 5 10 0 50 10 20 0 49 30 80 0 -1 -1 
+pt_boss1 Troublesome_Bandits 2814749767385097 0 6 312 438 1 1 0 226 10 10 0 225 11 101 0 -1 -1 -1 
+pt_boss2 Troublesome_Bandits 2814749767385097 0 6 312 439 1 1 0 228 5 5 0 232 5 10 0 226 11 101 0 -1 -1 
+pt_boss3 Troublesome_Bandits 2814749767385097 0 6 312 440 1 1 0 232 10 55 0 241 10 10 0 -1 -1 -1 
+pt_boss4 Troublesome_Bandits 2814749767385095 0 6 312 441 1 1 0 230 5 10 0 229 10 20 0 228 10 40 0 -1 -1 
+pt_boss5 Troublesome_Bandits 2814749767385097 0 6 312 442 1 1 0 236 5 10 0 235 10 30 0 234 10 50 0 -1 -1 
+pt_boss6 Troublesome_Bandits 2814749767385097 0 6 312 460 1 1 0 279 40 80 0 285 40 80 0 282 20 40 0 286 20 40 0 -1 
+pt_busi11 Forest_Bandits 278537 0 6 312 265 80 240 0 398 1 1 0 -1 -1 -1 -1 
+pt_heianjinglingdui Troublesome_Bandits 2814749767385095 0 6 312 402 1 1 0 406 1 1 0 407 1 1 0 224 90 280 0 -1 -1 
+pt_menggujingying1 Troublesome_Bandits 2814749767385095 0 6 312 717 1 1 0 122 10 50 0 -1 -1 -1 -1 
+pt_haiwailingzhu Troublesome_Bandits 2814749767385095 0 6 312 732 1 1 0 57 100 150 0 -1 -1 -1 -1 
+pt_4jingying Troublesome_Bandits 2814749767385095 0 22 312 136 100 100 0 -1 -1 -1 -1 -1 
+pt_2jingying Troublesome_Bandits 2814749767385095 0 20 312 57 100 100 0 -1 -1 -1 -1 -1 
+pt_5jingying Troublesome_Bandits 2814749767385095 0 23 312 164 80 80 0 169 20 20 0 -1 -1 -1 -1 
+pt_6jingying Troublesome_Bandits 2814749767385095 0 24 312 183 100 100 0 -1 -1 -1 -1 -1 
+pt_9jingying Troublesome_Bandits 2814749767385095 0 27 312 213 50 50 0 207 50 50 0 203 50 50 0 211 50 50 0 -1 -1 
+pt_sea_raiders5 Sea_Raiders 262153 0 6 312 442 1 1 0 237 180 300 0 -1 -1 -1 -1 
+pt_steppe_bandits5 Steppe_Bandits 262151 0 6 312 438 1 1 0 249 180 300 0 -1 -1 -1 -1 
+pt_taiga_bandits5 Tundra_Bandits 262153 0 6 312 440 1 1 0 243 180 300 0 -1 -1 -1 -1 
+pt_desert_bandits5 Desert_Bandits 262147 0 6 312 247 180 300 0 -1 -1 -1 -1 -1 
+pt_mountain_bandits5 Mountain_Bandits 262151 0 6 312 441 1 1 0 231 180 300 0 -1 -1 -1 -1 
+pt_latiao Troublesome_Bandits 2814749767385097 0 6 312 392 1 1 0 27 5 20 0 310 2 20 0 -1 -1 -1 
+pt_kafeidui Troublesome_Bandits 2814749767385097 0 6 312 446 1 1 0 257 40 40 0 256 100 100 0 -1 -1 -1 
+pt_ceshiduiwu Troublesome_Bandits 2814749767385097 0 22 312 134 100 100 0 -1 -1 -1 -1 -1 
+pt_xiejiaojianyu1 Troublesome_Bandits 2814749767393295 0 6 137 94 20 20 0 91 20 20 0 -1 -1 -1 -1 
+pt_xiejiaojianyu2 Troublesome_Bandits 2814749767393295 0 6 137 108 20 20 0 104 20 20 0 -1 -1 -1 -1 
+pt_xiejiaojianyu3 Troublesome_Bandits 2814749767393295 0 6 137 121 40 40 0 -1 -1 -1 -1 -1 
+pt_xiejiaojianyu4 Troublesome_Bandits 2814749767393295 0 6 137 136 40 40 0 -1 -1 -1 -1 -1 
+pt_xiejiaojianyu5 Troublesome_Bandits 2814749767393295 0 6 137 161 20 20 0 169 20 20 0 -1 -1 -1 -1 
+pt_xiejiaojianyu6 Troublesome_Bandits 2814749767393295 0 6 137 179 20 20 0 192 20 20 0 -1 -1 -1 -1 
+pt_luanzhanggang Troublesome_Bandits 2814749767132175 0 36 312 276 200 240 0 269 200 240 0 270 300 360 0 263 300 360 0 -1 -1 

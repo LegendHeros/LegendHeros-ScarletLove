@@ -1,5 +1,5 @@
 stringsfile version 1
-3405
+3406
 str_no_string NO_STRING!
 str_empty_string _
 str_yes Yes.
@@ -3226,7 +3226,6 @@ str_skl_reserved_1 Reserved_Skill_1
 str_skl_reserved_2 Reserved_Skill_2
 str_skl_reserved_3 Encouraging_morale
 str_skl_reserved_4 Perseverance
-str_skl_trainer Trainer
 str_skl_persuasion Persuasion
 str_skl_engineer Engineer
 str_skl_first_aid First_Aid
@@ -3237,6 +3236,7 @@ str_skl_spotting Spotting
 str_skl_pathfinding Path-finding
 str_skl_tactics Tactics
 str_skl_tracking Tracking
+str_skl_trainer Trainer
 str_skl_reserved_5 accuracy
 str_skl_reserved_6 Reserved_Skill_6
 str_skl_reserved_7 Reserved_Skill_7
@@ -3405,3 +3405,4 @@ str_qipaowuqi jieshuosanxiao
 str_xunliangyezhuqi jieshuosanxiao
 str_xunzhaoshentie jieshuosanxiao
 str_shennvtezhi jieshuosanxiao
+str_xiejiao8 xiejiao8

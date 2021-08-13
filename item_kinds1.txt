@@ -1,5 +1,5 @@
 itemsfile version 3
-879
+880
  itm_no_itedm INVALID_ITEM INVALID_ITEM 1  invalid_item 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 0 103 0 90 0 266 272
  0
 0
@@ -1882,7 +1882,7 @@ itemsfile version 3
  21 20
 0
 
- itm_jianghuwandao Scimitar Scimitar 2  hookSword_spak 0  hookSword_spak_scab 3458764513820540928  4198402 9223388564182532110 5610 155668 1.500000 100 0 0 0 0 0 100 0 99 0 37 288
+ itm_jianghuwandao Scimitar Scimitar 2  hookSword_spak 0  hookSword_spak_scab 3458764513820540928  4198402 9223388564182532110 5610 155668 1.500000 100 0 0 0 0 0 100 0 99 0 0 289
  0
 0
 
@@ -1894,7 +1894,7 @@ itemsfile version 3
  0
 0
 
- itm_zhanzhengzhidun Plate_Covered_Round_Shield Plate_Covered_Round_Shield 1  hermitage_shield_1 0  7 5100273664 140 167772194 4.000000 100 0 16 0 0 330 90 0 40 0 0 0
+ itm_zhanzhengzhidun Plate_Covered_Round_Shield Plate_Covered_Round_Shield 1  hermitage_shield_1 0  7 5100273664 1540 167772194 2.000000 100 0 36 0 0 530 100 0 40 0 0 0
  0
 0
 
@@ -3311,6 +3311,10 @@ itemsfile version 3
 0
 
  itm_flintlock_pistol0 Smoked_Fish Smoked_Fish 1  flintlock_rifle 0  11 0 300 0 1.500000 110 0 0 0 0 0 0 0 0 0 0 0
+ 0
+0
+
+ itm_flintlock_pistol1 Great_Axe Great_Axe 1  flintlock_rifle_stick 0  34433466371 9223635923965575392 300 262164 1.500000 100 0 0 0 10 0 88 0 130 0 256 535
  0
 0
 

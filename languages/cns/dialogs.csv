@@ -2586,8 +2586,9 @@ dlga_sell_prisoner_outlaws:sell_prisoner_outlaws|嗯 。 每 一 个 劫 匪 我
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.1|让 我 看 看 。 你 带 来 {reg0}个 强 盗 ， 20第 纳 尔 那 么 一 共 {reg1}第 纳 尔 。 
 dlga_sell_prisoner_outlaws:sell_prisoner_outlaws.2|嗯 嗯 ， 你 抓 了 {reg0}个 土 匪 。 他 们 每 个 值 30第 纳 尔 ， 所 以 我 给 你 一 共 {reg1}第 纳 尔 。 
 dlga_sell_prisoner_outlaws:close_window|我 估 计 这 样 就 可 以 了 ， 还 有 吗 。 
-dlga_prisoner_chat:prisoner_chat_2|不 要 想 逃 跑 或 是 做 别 的 什 么 蠢 事 ， 我 盯 着 你 呢 。 
-dlga_prisoner_chat_2:close_window|我 发 誓 我 不 会 。 
+dlga_prisoner_chat:prisoner_chat_2|… …
+dlga_prisoner_chat_2:prisoner_chat_3|不 要 想 逃 跑 或 是 做 别 的 什 么 蠢 事 ， 我 盯 着 你 呢 。 
+dlga_prisoner_chat_3:close_window|我 发 誓 我 不 会 。 
 dlga_start:town_merchant_talk|你 好 ， {reg63?阁 下 :尊 敬 的 女 士 }。 我 能 为 你 做 什 么 ？ 
 dlga_start:town_merchant_talk.1|你 好 。 我 能 为 你 做 什 么 ？ 
 dlga_town_merchant_talk:trade_requested_weapons|我 想 买 件 新 武 器 。 让 我 看 看 你 都 有 些 什 么 。 
@@ -3022,3 +3023,5 @@ dlga_wenchusheng2:wenchusheng4|我 猜 你 一 定 是 乱 军 中 神 出 鬼 �
 dlga_wenchusheng2:wenchusheng5|我 猜 你 一 定 是 某 个 国 王 身 边 的 首 席 会 计 。
 dlga_wenchusheng2:wenchusheng6|我 猜 你 一 定 是 运 筹 帷 幄 用 兵 如 神 的 将 军 。
 dlga_wenchusheng3:wenchusheng31|是 的 ， 我 的 巨 厥 千 斤 剑 法 ，可 以 击 中 范 围 内 的 所 有 人 ，你 瞧 我 这 个 脑 子 ，肯 定 是 被 病 毒 吃 光 了 ，尽 然 把 这 个 给 忘 记 了 ，还 好 你 提 醒 我 。
+dlga_prisoner_chat_2:ganhualingzhu|（花 费 ：{reg46}信 徒 值 给 他 洗 脑 ）
+dlga_ganhualingzhu:close_window|… … 这 是 在 哪 ？ 要 带 我 去 哪 ？ 我 还 得 去 给 建 国 兄 投 票 呢 ！
